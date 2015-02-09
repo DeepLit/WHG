@@ -1,0 +1,13 @@
+[% META nowrap = 1 %]
+[% META title = 'ChemSpider' %]
+            
+[% IF word_type != 2; %]
+
+        <p><h1>This word is not designated as chemical </h1></p>
+[% ELSE %]
+            [% FOREACH chemspider_id = chemspider %]
+                    <a href="http://www.chemspider.com/[% chemspider_id %]"> <img src="[%Catalyst.config.rootURL%]static/files/[% chemspider_id %].png" border="2"></a>
+            [% END %]
+[% END %]
+
+<h2>[% spider_message %]</h2>

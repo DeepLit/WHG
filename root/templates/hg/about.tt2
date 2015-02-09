@@ -1,0 +1,58 @@
+<div class="col-md-6 col-md-offset-3">
+<p class="text-center">[% META title = 'About the WikiHyperGlossary' %]</p>
+<script type="text/javascript">
+<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       var more = document.getElementById('more');
+       var less = document.getElementById('less');
+       
+       if(e.style.display == 'block'){
+          e.style.display = 'none';
+          more.style.display = 'block';
+        }
+       else{
+          e.style.display = 'block';
+          more.style.display = 'none';
+        }
+    }
+//-->
+</script>
+
+<table align='center' cellspacing="0" cellpadding="0" width="100%">
+<tr><td>
+<p>You have entered the development site for the second generation wikihyperglossary (WHG) service that is being developed for the Chemical Education Digital Library ( <a href="http://www.chemeddl.org/">ChemEd DL</a> ) of the National STEM Education Distributed Learning ( <a href="http://nsdl.org/">NSDL</a> ) program.  This service contains multiple glossaries and by using the <b>"Submit URL"</b> or <b>"Submit Text"</b> tabs on the left you can link the text of a webpage or digital text document to the database content of a glossary of your choice.  Any word in the document that is a term of the glossary will be returned green and linked to the glossary. Your document is returned immediately and after the green terms flash yellow the program has finished processing the page and the links will be active.  These links not only provide textual definitions but also access to a variety of cheminformatic and multimedia resources.  This program not only allows you to connect documents to glossaries, but also to create and edit glossaries. </p><div id='more'><a href="#" onclick="toggle_visibility('text');">more</a></div>
+<br/><br/>
+
+<div id="text" style='display:none;'>
+<p>At the moment there are 3 actual glossaries. The <a href="http://goldbook.iupac.org/">IUPAC Gold Book</a> which you can not edit, a 2008 version of the <a href="http://antoine.frostburg.edu/chem/senese/101/glossary.shtml"> General Chemistry Glossary </a> developed by Fred Senese at Frostburg State University and a 2008 version of the <a href="http://www.shsu.edu/~chm_tgc/Glossary/glos.html">Atmospheric Chemistry Glossary</a> developed by Thomas Chasteen at Sam Houston State University.  These three glossaries have been uploaded from their original sources and we are working on developing appropriate citations for their definitions. You will see a fourth glossary, the "chem 1403" glossary, which is an experimental glossary where students in a chem1403 class at the University of Arkansas at Little Rock have been helping us with developing the editor interface and software features. This glossary can not be linked to a document.</p>
+
+
+<br/><br/> 
+<p>This is a development site and once we are ready we will move this to ChemEd DL. Please contact the project administrator, Bob Belford (<a href="mailto:rebelford@ualr.edu">rebelford@ualr.edu</a>) if you are interested in this type of automated semantic markup technology, its application to other disciplines, or would like to participate in the programming aspects of this project.  While in the development stage we are not allowing the public to create their own log-in accounts, but we are creating a User Manual which will detail the "Log In" features of this project. Once transferred to ChemEd Dl the public will be able to create accounts through the "Log-In" site with restricted administrative privileges.</p>
+<br/><br/>
+<p>For further information on this project we suggest you look at the <a href="http://ched-ccce.org/newsletter/OldNewsletters/F2006_News.html">Fall 2006 Newsletter</a> article <a href="http://www.ualr.edu/rebelford/ccce/belford_cccenl.htm">"Hyperglossary Generating Program with Wiki content and Modifiable JavaScript Automated Search Functionality"</a> of the <a href="http://www.ched-ccce.org/index.html"> ACS DivCHED CCCE</a>, which describes the first generation software behind this project. <a href="#" onclick="toggle_visibility('text');">less</a></p>
+</div>
+
+</td></tr>
+</table>
+<br/><br/>
+<table align='center' cellspacing="0" cellpadding="0" width="100%">
+                         <tr>
+                                <td class="formcaption" align="left" valign="top" width="30%">
+                                  &nbsp;&nbsp;Purpose 
+                                </td>
+                                <td class="formfield" align="left" width="70%">
+                                  <p>Create an information literacy tool for chemical education that links multimedia and textual content to digital documents and web pages.</p>  
+                                </td>
+                        </tr>
+                        <tr>
+                                <td class="formcaption" align="left" valign="top" width="30%">
+                                   &nbsp;&nbsp;Project Team 
+                                </td>
+                                <td class="formfield" align="left" width="70%">
+                                  <p> <a href="http://ualr.edu/rebelford/">Robert E.  Belford</a>, <a href="http://ualr.edu/technologyinnovation/faculty/daniel-berleant/">Daniel Berleant</a>, John W. Moore, Jon L. Holmes, <a href="http://binf-app.host.ualr.edu/~kodos">Michael A. Bauer</a>, and Roger A. Hall</p>
+                                </td>
+                        </tr>
+</table>
+</div>

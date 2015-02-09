@@ -1,0 +1,60 @@
+[% META nowrap = 1 %]
+<html>
+  <head>
+        <style type="text/css"> @charset "utf-8";
+                body {
+                        background-color: #FFFFFF;
+                        <!--background-color: #8C92AC;-->
+                        color: #46494c;
+                        margin: 0px;
+                        padding: 0px;
+                        height: 100%;
+                }
+                th {
+                        font: italic 32px sans-serif;
+                        border-bottom: navy solid thin;
+                }
+                h6 {
+                        font: bold 18px "Times New Roman";
+                        margin-top:0em;
+               }
+                h7 {
+                        font: bold 24px "Times New Roman";
+                        color: #000080;
+                        margin-bottom: 3em;
+               }
+               p { } 
+               span.summary {
+                        color:#000;
+                        font-weight:400;
+               }
+        </style>
+
+[% META title = 'Definition' %]
+  </head>
+<body>
+<table width="80%" align="center">
+        <tr>
+                <th><b>[% term %]</b></th>
+        </tr>
+        <tr>
+                <td><div id="text">
+                        [% count=1 %]
+                        [% FOREACH def IN definition %]
+                                [% FOREACH pair IN def %]
+                                        <p><b><h7>[% pair.key %]</h7></b> [% IF pair.value == '' %]<center><b><h6>No Content</h6></b></center> [% ELSE %] <h6>[% pair.value %]</h6></p> [% END %]
+                                [% END %]
+
+                                [% IF count == 1;
+
+                                        PROCESS "citation.tt2";
+                                        END;
+                                %]
+                                [% count = count + 1 %]
+                        [% END %]
+
+                </div></td>
+        </tr>
+</table>
+</body>
+</html>

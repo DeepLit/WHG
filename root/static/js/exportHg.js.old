@@ -1,0 +1,118 @@
+
+  Ext.onReady(function() {
+    function showBigGraph(graphUrl) {
+        var searchWin = new Ext.Window({
+            width: 810,
+            height: 385,
+            modal: 'true',
+            layout: 'fit', 
+            items: [new Ext.ux.ManagedIframePanel(
+                    { 
+                        defaultSrc:graphUrl,
+                        loadMask: false
+                    }
+                  )]
+            });
+    
+        searchWin.show();
+        return searchWin;
+    }
+	    
+	Ext.QuickTips.init()
+    Ext.select('.hg3').on('click', function(e) {
+   var target = e.getTarget();
+   
+        var movieURL      = base_url+'/hg/chemEdMovie?term='+target.innerHTML;
+        var chemspiderURL = base_url+'/hg/chemSpider?term='+target.innerHTML;
+        var jceURL        = base_url+'http://www.jce.divched.org/JCESoft/jcesoftSubscriber/CCA/SCRIPTS/SEARCH.html?'+target.innerHTML;
+        var jchemURL      = base_url+'/hg/jchempaint?term='+target.innerHTML;
+        var jmolURL       = base_url+'/hg/jmol?term='+target.innerHTML;
+        var defURL        = base_url+'/hg/defTran?term='+target.innerHTML;
+  
+    var defpanel = ({
+        	defaultSrc	: defURL
+        	,title		: 'Definition + Spanish Translation test'
+                ,xtype          : 'iframepanel'
+	//	,hideMode	: 'nosize'
+                ,layout         : 'fit'
+	//	,constrain	: true
+//		,autoScroll	: true
+    });
+    
+    var spiderpanel = new Ext.ux.ManagedIFrame.Panel({
+        	defaultSrc	: chemspiderURL
+        	,title		: 'ChemSpider Results'
+                ,defaults	: {border:false, activeTab:0}
+		,hideMode	: 'nosize'
+		,constrain	: true
+    });
+    var moviepanel = new Ext.ux.ManagedIFrame.Panel({
+        	defaultSrc	: movieURL
+        	,title		: 'ChemEd DL Video'
+                ,defaults	: {border:false, activeTab:0}
+		,hideMode	: 'nosize'
+		,constrain	: true
+    });
+    var jmolpanel = new Ext.ux.ManagedIFrame.Panel({
+        	defaultSrc	: jmolURL
+        	,title		: '3D Structure Model'
+                ,defaults	: {border:false, activeTab:0}
+		,hideMode	: 'nosize'
+		,constrain	: true
+    });
+
+    var jchempaintpanel = new Ext.ux.ManagedIFrame.Panel({
+        	defaultSrc	: jchemURL
+        	,title		: '2D Structure Model'
+                ,defaults	: {border:false, activeTab:0}
+		,hideMode	: 'nosize'
+		,constrain	: true
+    });
+
+    var jceMoviepanel = new Ext.ux.ManagedIFrame.Panel({
+        	defaultSrc	: jceURL
+        	,title		: 'MOVIES'
+                ,defaults	: {border:false, activeTab:0}
+		,hideMode	: 'nosize'
+		,constrain	: true
+		,autoScroll	: true
+    });
+   	var tabP = new Ext.TabPanel({
+   		title:'HyperGlossary'
+                ,enableTabScroll:true
+                ,activeTab:0
+                ,items:[
+                defpanel,{
+			title:'ChemEd DL Articles'
+                        ,defaults:{border:false,activeTab:0}
+			,autoScroll:true
+			,autoLoad:{url:base_url+'/hg/chemEdArticle',
+				   params:{name:target.innerHTML}
+			}
+                }
+		
+                        ,spiderpanel
+        		,jmolpanel
+			,jchempaintpanel
+			,moviepanel
+			,jceMoviepanel
+                ]
+
+   	});
+
+
+            win = new Ext.Window({
+                title: 'Popup Window',
+                layout:'fit',
+                constrain: true,
+   		width:600,
+   		height:500,
+                closable: true,
+                border:true,
+		items:[tabP]
+            });
+        
+
+  win.show(this); 
+ });
+   }); // eo function onReady

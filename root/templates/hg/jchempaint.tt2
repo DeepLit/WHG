@@ -1,0 +1,61 @@
+[% META nowrap = 1 %]
+<pre>
+<applet code="org.openscience.jchempaint.applet.JChemPaintEditorApplet" 
+        archive="jchempaint-applet-core.jar"
+                name="Editor"
+                        width="500" height="400">
+
+                        <param name="impliciths"      value="true">
+                        <param name="codebase_lookup" value="false">
+                        <param name="onLoadTarget"    value="statusFrame">
+                        <param name="image"           value="hourglass.gif">
+                        <param name="boxborder"       value="false">
+                        <param name="centerimage"     value="true">
+                        <param name="archive"         value="[%Catalyst.config.rootURL%]/static/js/jchem/jchempaint-applet-core.jar">
+                        <param name="smiles"          value="[% smile %]">
+</applet>
+
+</pre>
+<script>
+function paintToSpider(smiles){
+    var conn = new Ext.data.Connection();
+
+    conn.request({
+          url: '[%Catalyst.config.rootURL%]/hg/jChemPaintToChemSpider'
+         ,method: 'POST'
+         ,params: {"smiles": smiles}
+         ,success: function(response,options) {
+                        var data = Ext.decode(response.responseText);
+                }
+         ,failure: function(f,a) {
+
+                        Ext.Msg.alert('Status', 'No response from server');
+                }
+         ,listeners: {
+                 'requestcomplete':{
+                            fn: function(conn,res,opt){
+                                  alert('DONESKI!!!!');
+                                  },
+                            scope: this
+                            }
+                 }
+   });
+   Ext.Ajax.on("requestcmplete", function(conn,response,options){alert("DONE!!");});
+  // return identifier_type;
+}
+
+/*function queryChemSpider(smiles) {
+    var searchURL = '[%Catalyst.config.rootURL%]/hg/jChemPaintToChemSpider?smiles='+smiles;
+    var spiderSearchPanel = new Ext.ux.ManagedIFrame.Panel({
+                defaultSrc      : searchURL
+                ,title          : 'SMILE String Search'
+                ,defaults       : {border:false, activeTab:0}
+                ,hideMode       : 'nosize'
+                ,constrain      : true
+    });
+    
+    tabP.add(spiderSearchPanel);
+
+}*/
+</script>
+<a href="javascript:queryChemSpider(document.Editor.getSmiles())">Query ChemSpider with SMILES string</a>

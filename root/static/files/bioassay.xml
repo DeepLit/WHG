@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:dictionary xmlns:ns1="???" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ns1:entry term="absorbance assay">
+		<ns1:definition>optical density assay (obsolete)Assay in which response is determined by the detection of light absorption by an assay component. Note: 	The concentration of the absorbing species can be quantified using the Beer–Lambert law (or Beer–Lambert–Bouguer law)where  is the molar absorption coefficient of the absorbing species, l is the absorption path length, and c the amount concentration. A sample is irradiated with a specific wavelength of light, typically in the ultraviolet or visible spectral region; the spectral radiant power of incident light on the sample (P0) and transmitted radiation after passing through the sample (P) are used to calculate absorbance (A). [1,2]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="accuracy (of measurement)">
+		<ns1:definition>Closeness of the agreement between the result of a measurement and a true value of the measurand.Note 1: 	Accuracy is a qualitative concept. Note 2: 	The term “precision” should not be used for accuracy.[3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="active (in biomolecular screening) n., adj.">
+		<ns1:definition>Sample that produces a response or signal above a defined threshold at a tested concentration in a single assay or screen.Note: 	When the properties and identity of an active or hit are confirmed by subsequent experiment it becomes a confirmed hit. See also inactive.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="activity (in biomolecular screening)">
+		<ns1:definition>Response to a test sample measured in an assay or screen.Note: 	Typically expressed as a percentage with regard to assay controls.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="activity distribution">
+		<ns1:definition>Graphical representation of the number of samples present in each activity range. Note: 	Often shown as a frequency distribution graph, it provides an overview of the screening results and typically allows the determination of the overall background signal and threshold for selection of actives.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="affinity (in biochemistry)">
+		<ns1:definition>Descriptive, qualitative term that indicates the relative tendency of one molecular entity to associate or interact with another.Note: 	Often misused to refer to the dissociation equilibrium constant, Kd measured for a ligand, or Ki for an inhibitor. See also potency.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="agonist">
+		<ns1:definition>Endogenous substance or drug that can interact with a receptor and initiate a physiological or a pharmacological response characteristic of that receptor (contraction, relaxation, secretion, enzyme activation, etc.).Note 1: 	A full agonist induces the maximal biological response mediated by its receptor in the bioassay in question, whereas a partial agonist does not.Note 2: 	Updated from current “Gold Book” entry.See also partial agonist, inverse agonist, antagonist.[4]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="allosteric site">
+		<ns1:definition>Binding site on a protein, distinct from the site recognized by an endogenous agonist (i.e., the orthosteric site) in the case of a receptor, or substrate in the case of an enzyme, that when occupied by a ligand effects a conformational change in the protein, thus altering its signaling, catalytic properties, or its capability to interact with other macromolecules.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="antagonist">
+		<ns1:definition>Drug or compound that opposes the physiological effects of another. Note 1: 	At the receptor level, it is a chemical entity that opposes the receptor-associated responses normally induced by another bioactive agent.Note 2: 	This term does not imply a specific mechanism that may be competitive, allosteric, noncompetitive, or physiological.Note 3: 	Antagonist potency is often expressed as pA2, the negative logarithm to base 10 of the molar concentration of an antagonist that makes it necessary to double the concentration of the agonist needed to elicit the original submaximal response obtained in the absence of antagonist [5].Note 4: 	Updated from current “Gold Book” entry.[3,4]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="artefact">
+		<ns1:definition>artifact (variant spelling), see any dictionary Observation, effect, or result that is inaccurate because it is produced by the methodology used in scientific investigation or by experimental error.See also false positive, false negative.[6]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="assay">
+		<ns1:definition>1. 	n., Process of quantitative or qualitative analysis of a component of a sample. 2. 	n., Results of a quantitative or qualitative analysis of a component of a sample. 3. 	v., To carry out quantitative or qualitative analysis of a component of a sample. [6]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="assay validation">
+		<ns1:definition>Experiments conducted to verify that the output measurements of the assay are consistently reflective of the activity against the target. Note: 	Results are compared internally over multiple runs and externally (when available) to existing literature parameters such as Kd, Ki, Km, or EC50. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="automated device">
+		<ns1:definition>Device that performs one or more functions without human intervention by means of direct control or by programmed operations. Note: 	Often referred to as a peripheral or peripheral device when it is an instrument incorporated into a module, a workstation, or a fully automated system. Examples: liquid handler, module, workstation. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="automation (in analysis)">
+		<ns1:definition>Mechanization with process control, where process means a sequence of manipulations. One or several functions in an analytical instrument may be automated. The corresponding adjective is “automated” and the verb is “automate”. [3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="average">
+		<ns1:definition>meanArithmetic mean of a set of values. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="background (in biomolecular screening)">
+		<ns1:definition>1. 	Magnitude of a signal produced in an assay or screen in the absence of a test substance. 2. 	Signal detected from an assay in the absence of target activity; often equivalent to negative control. See also negative assay control, noise. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="batch">
+		<ns1:definition>Quantity of material which is known or assumed to be produced under uniform conditions. Some vocabularies assume “lot” and “batch” to be synonymous. The distinction made here with respect to knowledge of production history permits a lot to consist of one or more batches and is useful in interpreting the results of analysis.[3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="binding assay">
+		<ns1:definition>Assay in which the specific physical association or interaction between two molecules (e.g., ligand–receptor, antibody–antigen, protein–protein, ligand–transport protein) is measured. Note: 	The assay can be homogeneous or heterogeneous, competitive or noncompetitive, and may be run at equilibrium or in kinetic mode. Appropriate assay controls and/or standard reagents are often needed to determine the specific binding in contrast to nonspecific adsorption processes.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="binding isotherm">
+		<ns1:definition>Graphical representation of the relationship between the amount of ligand that is specifically bound to a receptor per mass of binding material and the amount of free ligand.Note 1: 	For a system containing a single binding site and lacking cooperative interactions, the binding isotherm is described byB = Bmax[L]/(Kd + [L])where B is the amount of ligand specifically bound, [L] is the amount concentration of free ligand, Kd is the equilibrium dissociation constant of the ligand, and Bmax is the maximal specific binding of a ligand. The equation describes a hyperbola with Bmax as the asymptote. Bmax is defined quantitatively as the amount of ligand bound per mass of binding material, with units, e.g., pmolmg–1.Note 2: 	A Scatchard plot [7] was formerly used to determine Bmax and Kd. It is now more common to determine these parameters by nonlinear least-squares fitting to the binding equation given above.Note 3: 	The total number of receptors or binding sites in the system is proportional to Bmax.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="cell-based assay">
+		<ns1:definition>Assay in which the response of live cells to a test sample is measured. Note 1: 	The type of cells, parameters measured, and detection systems used vary widely. Note 2: 	Assay parameters are controlled with respect to conditions such as CO2, O2, temperature, and pH.See also cytotoxicity assay, chemotaxis assay, high-content screening assay.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="cell membrane preparation">
+		<ns1:definition>Preparation from tissue or cells, in which the membranous elements, generally the cell membrane, are enriched in relation to other cellular constituents. Note 1: 	These are obtained by disruption of the cells and differential centrifugation or other techniques to isolate the desired components. Note 2: 	Cell membrane preparations are the standard biological material for receptor binding assays. Cell membranes are typically lipid-rich.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="cell mortality">
+		<ns1:definition>Ratio of counted dead cells to the total number of observed cells. Note: 	Dead cells are often counted using apoptosis or nuclear markers.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="cell viability">
+		<ns1:definition>Ratio of counted live cells to the total number of observed cells.Note: 	Live cells are often counted using nuclear, membrane, or metabolic markers. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="channel blocker">
+		<ns1:definition>Compound that reduces or eliminates the conductance of an ion channel by impeding the movement of ions through that channel.Note: 	Dihydropyridine antagonists such as nifedipine, which also block the conductance of some L-type calcium channels, are not classified as channel blockers since their action is to inhibit channel gating. Example: verapamil, which blocks the conductance of some L-type calcium channels.[8]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="channel opener">
+		<ns1:definition>channel activator Compound that increases the conductance of an ion channel by a mechanism other than alteration of membrane potential or activation of the cognate receptor. Examples: retigabine, cromakalim. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="cheminformatics">
+		<ns1:definition>Use of mathematical and statistical methods to extract information from chemical data. Note: 	For screening purposes, cheminformatics approaches are used in order to design compound libraries for general screening or for screening against a specific target class. Cheminformatics is also used to cluster active molecules based on chemical similarity, which aids in the analysis of screening data.[9]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="chemotaxis assay">
+		<ns1:definition>Cell-based assay in which the rate and/or direction of cell migration is measured. Note: 	Typically, the response to a test sample is detected by means of a fluorescent probe or with label-free methods. Classical chemotaxis assays utilized the Boyden chamber and required manual counting of migrating cells under the microscope.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="clone">
+		<ns1:definition>1. 	Population of genetically identical cells or organisms having a common ancestor.2. 	To produce such a population.3. 	Recombinant DNA molecules all carrying the same inserted sequence.[6]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="coefficient of variation">
+		<ns1:definition>See relative standard deviation.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="combinatorial library">
+		<ns1:definition>Set of compounds prepared by combinatorial chemistry. It may consist of a collection of pools, or sublibraries. Its composition may be described by the chemset notation. [10]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="competitive binding assay">
+		<ns1:definition>Molecular assay based on the competition between a ligand and a reference ligand for the same binding site on a receptor (e.g., antibody, transport protein). Note 1: 	Depending on the technology used to monitor the interaction, the reference ligand and/or the receptor can be labeled with a probe. Very rarely, and mostly outside the field of screening, neither is labeled and the interaction is assessed, for example, by mass determination of the complex.Note 2: 	Former definition of competition between labeled and non-labeled ligands is obsolete.From [11], updated from [3].</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="compound collection">
+		<ns1:definition>compound librarycompound deckSet of chemicals that has been assembled and annotated for easy storage and retrieval and that is available for screening. Note: 	Generally consists of compounds synthesized by combinatorial or standard synthetic methods or purchased from commercial sources, or of natural products as pure samples. Compounds may be stored in dry powder form, or dissolved at a fixed concentration in a solvent, such as dimethylsulfoxide.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="compound deck">
+		<ns1:definition>See compound collection.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="compound library">
+		<ns1:definition>See compound collection.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="concentration response relationship (in biomolecular screening)">
+		<ns1:definition>Association between compound concentration and the resultant magnitude of the continuously graded change produced, in an assay.Related terms: Ki, Kd, effective concentration, inhibitory concentration.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="confirmed hit">
+		<ns1:definition>Sample that produces activity above the hit threshold in an assay and whose structural identity has been confirmed.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="counter-screen">
+		<ns1:definition>Screen in which test samples are assessed against a target for unwanted activity. Note: 	This target may or may not be structurally or functionally related to the intended target.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="cytotoxicity assay">
+		<ns1:definition>Cell-based assay in which damage to cell structure or function caused by a test sample is determined.See also cell mortality, cell viability.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="effective concentration (EC)">
+		<ns1:definition>Concentration of a substance that causes a defined magnitude of response in a given system. Note 1: 	EC50 is the median concentration that causes 50 % of the maximal response.Note 2: 	Usually refers to an agonist in a receptor system. The value of this quantity may result from either an increase or a decrease in a biological function.See also inhibitory concentration.[6]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="efficacy (in receptor pharmacology)">
+		<ns1:definition>Extent to which a compound activates a receptor to produce a response in an assay under saturating conditions. Note 1: 	Usually compared to results with the positive and negative assay controls. When the compound produces a maximal signal that is 100 % of that of the positive control, it is said to be a full agonist and has high efficacy. When the effect plateaus with increasing concentration to reach an intermediary level of activity, the compound is said to be a partial agonist with lower efficacy. Note 2: 	Due to the common overexpression of receptors in screening assays, it is not always possible to detect differences in efficacy among full agonists. A more accurate assessment of relative efficacy may require systems with lower receptor expression where it is often found that one agonist may show partial agonist character.See also partial agonist.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="electrochemiluminescence assay">
+		<ns1:definition>Assay in which light emitted by electrogenerated luminescence is detected and used to quantify a label, e.g., ruthenium(II) tris-(bipyridine), on one of the two assay binding components.Example: Coated magnetic beads bind the protein target and are then captured in a flow cell of the detector where the energy state of the Ru is chemically converted to release a photon measured at 620 nm with a photomultiplier tube. There is little or no compound interference during detection because of the wash step within the flow cell. Generally not used for high-throughput screening but for secondary assays.See electrochemiluminescence in [3].</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="electrogenerated luminescence (ECL)">
+		<ns1:definition>electroluminescenceelectrochemilumininescenceLuminescence produced by electrode reactions. [3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="emission anisotropy">
+		<ns1:definition>degree of (polarization) anisotropyluminescence anisotropyUsed to characterize luminescence (fluorescence, phosphorescence) polarization resulting from photoselection. Defined aswhere I and I are the intensities measured with the linear polarizer for emission parallel and perpendicular, respectively, to the electric vector of linearly polarized incident electromagnetic radiation (which is often vertical). The quantity I + 2I is proportional to the total fluorescence intensity I.Note 1: 	Fluorescence polarization may also be characterized by the polarization ratio, also called the degree of polarization p,For parallel absorbing and emitting transition moments, the (theoretical) values are (r, p) = (2/5, 1/2); when the transition moments are perpendicular, the values are (r, p) = (–1/5, –1/3). In many cases, it is preferable to use emission anisotropy because it is additive; the overall contribution of n components ri, each contributing to the total fluorescence intensity with a fraction fi = Ii /I, isNote 2: 	On continuous illumination, the measured emission anisotropy is called steady-state emission anisotropy (r) and is related to the time-resolved anisotropy by	where r(t) is the anisotropy and I(t) is the radiant intensity of the emission, both at time t following a -pulse excitation.Note 3: 	Luminescence polarization spectroscopy, with linear polarizers placed in both beams, is usually performed on isotropic samples, but it may also be performed on oriented anisotropic samples. In the case of an anisotropic, uniaxial sample, five linearly independent luminescence spectra, instead of the two available for an isotropic sample, may be recorded by varying the two polarizer settings relative to each other and to the sample axis.Note 4: 	The term “fundamental emission anisotropy” describes a situation in which no depolarizing events occur subsequent to the initial formation of the emitting state, such as those caused by rotational diffusion or energy transfer. It also assumes that there is no overlap between differently polarized transitions. The (theoretical) value of the fundamental emission anisotropy, r0, depends on the angle  between the absorption and emission transition moments in the following way:r0 = &lt;3 cos2  – 1 &gt; /5where &lt; &gt; denotes an average over the orientations of the photoselected molecules. r0 can take on values ranging from –1/5 for  = 90° (perpendicular transition moments) to 2/5 for  = 0° (parallel transition moments). In spite of the severe assumptions, the expression is frequently used to determine relative transition-moment angles.Note 5: 	In time-resolved fluorescence with -pulse excitation, the theoretical value at time zero is identified with the fundamental emission anisotropy.[1,3] </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="end-point assay (in biomolecular screening)">
+		<ns1:definition>Kinetic assay run for a set constant incubation time. Typically, at the end of the set incubation time, a reagent that stops the reaction is added to allow postponed measurement of the signal. See also equilibrium assay, kinetic assay. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="enzyme">
+		<ns1:definition>Biological catalyst: a protein, nucleic acid, or a conjugate of a protein with another compound (coenzyme).Note: 	In general, an enzyme catalyses only one reaction type (reaction specificity) and operates on only one type of substrate (substrate specificity). Substrate molecules are attacked at the same site (regiospecificity) and only one or preferentially one of the enantiomers of chiral substrates or of racemic mixtures is attacked (stereospecificity) [3].[6]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="enzyme-linked immunosorbent assay (ELISA or EIA)">
+		<ns1:definition>Heterogeneous assay in which an antibody linked to an enzyme is used to detect the quantity of antigen present in a sample. Note: 	After binding of the enzyme-linked antibody to the antigen, either directly or indirectly via a second antibody, a subsequent reaction of the enzyme with a substrate yields a chromogenic or fluorogenic product that produces an amplified signal proportional to the concentration of the antigen.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="epitope">
+		<ns1:definition>Any part of a molecule that acts as an antigenic determinant. A macromolecule can contain many different epitopes each capable of stimulating production of a different specific antibody.[3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="epitope mapping">
+		<ns1:definition>Identification and localization of the specific regions of protein molecules that are recognized by the immune system.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="equilibrium assay">
+		<ns1:definition>Assay in which there is sufficient incubation time for the plateau phase of the signal to be reached and equilibrium has been established between the reactants. Note: 	At this point, the signal is time-independent. See also kinetic assay, end-point assay.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="equilibrium association constant, Ka, Kass">
+		<ns1:definition>Ratio, at equilibrium, of [AB]/[A][B] for the reversible binding interaction of A and B to yield the complex AB. Units are Lmol–1.Note: 	Equal to 1/Kd, or kon/koff. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="equilibrium dissociation constant, Kd, Kdiss">
+		<ns1:definition>Ratio, at equilibrium, of [A][B]/[AB], for the reversible binding interaction of A and B to yield the complex AB. Units are molL–1.Note: 	Reciprocal of Ka (Kd = 1/Ka), equal to koff /kon.See also inhibition constant, Ki.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="false negative">
+		<ns1:definition>Assay result in which a sample known to be active does not produce either the expected signal or a signal above the activity threshold.Note: 	A false negative can occur when an assay lacks appropriate discriminatory power, when the threshold is inappropriately set, or as a result of mistaken identity of the test sample. A false negative can also occur due to specific compound properties such as poor solubility, high nonspecific protein binding, or interference with the assay signal.See also artefact, false positive.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="false positive">
+		<ns1:definition>Assay result in which a sample known to be inactive produces a signal or response above the activity threshold.Note: 	A false positive can occur when an assay lacks appropriate discriminatory power, when the threshold is inappropriately set, as a result of certain physical properties of the substance (e.g., a fluorescent compound in a fluorescence intensity assay, aggregation), or as a result of mistaken identity of the substance.See also artefact, false negative. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="flow cytometry assay">
+		<ns1:definition>Cell-based assay in which the response is dependent on the detection of the phenotype of cells as determined through the light-scattering properties of each cell, and, typically, the fluorescence intensity of a relevant probe. Note 1: 	Flow cytometry has been adapted to fluorescently labeled bead-based assays.Note 2: 	In fluorescence-activated cell sorting, single cells are rapidly passed through a channel where they are optically analyzed and separated based on the specific light-scattering and fluorescent characteristics of each individual cell.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="flow injection (flow analysis)">
+		<ns1:definition>The introduction of a sample or reagent into a continuous stream by use of a rapid delivery device.[3]Note: 	For an expanded definition, see [12].</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="fluorescence">
+		<ns1:definition>Luminescence which occurs essentially only during the irradiation of a substance by electromagnetic radiation. [3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="fluorescence correlation assay">
+		<ns1:definition>Assay in which fluctuations in fluorescence intensity are detected and used to characterize a species that is labeled with a fluorescent probe.Note: 	The fluctuations are measured for a small volume of the total assay sample and are attributed to local diffusion of the probe in the detected volume or interactions that change the quantum yield of fluorescence. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="fluorescence polarization, p">
+		<ns1:definition>Dimensionless value determined from the fluorescence intensities (I) measured parallel (I) and perpendicular (I) to the excitation plane:Note: 	Fluorescence anisotropy (r) differs only in normalization and is determined fromr = (I– I) / (I + 2I)[1]See also emission anisotropy, fluorescence polarization assay.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="fluorescence polarization assay">
+		<ns1:definition>Assay in which the association between an intrinsically fluorescent ligand, or a ligand linked to a fluorescent probe, and a larger macromolecule is detected. Note: 	The degree to which the labeled ligand depolarizes plane-polarized light is directly proportional to the rate at which it tumbles in solution. Tumbling will be slower when the ligand is associated with the larger macromolecule as compared to free in solution, consequently resulting in a lower degree of depolarization. See also fluorescence polarization, homogeneous binding assay. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="fluorescence resonance energy transfer (FRET) assay">
+		<ns1:definition>Assay based on the nonradiative energy transfer that occurs when the emission spectrum of a fluorescent donor molecule overlaps with the absorption spectrum of an energy acceptor molecule. Note 1: 	The donor and the acceptor fluorophores are linked directly or indirectly to two binding partners, and energy transfer occurs when the fluorophores are in close proximity with proper alignment of donor and acceptor electronic dipoles, i.e., when the binding partners interact. Note 2: 	The fluorophores can be either of small molecule or protein nature. Note 3: 	Use of a donor with a long fluorescence lifetime allows time-delayed (or time-resolved) fluorescence measurement (TR-FRET), providing conditions where other fluorophores in the assay medium are not detected.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="functional assay">
+		<ns1:definition>Assay in which the biological or physiological activity of the target is measured.Example: An assay in which an agonist stimulates, in receptor-transfected cells, the production of a second messenger, such as cAMP or Ca2+, which is detected with a fluorescence readout. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="G protein-coupled receptor (GPCR)">
+		<ns1:definition>Family of transmembrane receptors that connects directly to a family of GTP binding protein/GTPases for signal transduction.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="heterogeneous assay">
+		<ns1:definition>Assay in which the response is detected only after the physical separation by methods such as filtration or centrifugation of one or more assay components.See also heterogeneous binding assay, homogeneous assay. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="heterogeneous binding assay">
+		<ns1:definition>Assay in which one binding component is immobilized to a surface (e.g., cellular membrane, glass, gold, bead, or biopolymer layer) while its binding partner is freely diffusible.Note 1: 	The extent of interaction between the binding partners is determined after their physical separation, which is usually achieved by filtration, centrifugation, magnetic field, or chromatography.Note 2: 	Used to qualitatively discriminate specific and non-specific interaction or quantitatively determine the concentration of a component part of a mixture.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="high-content screening assay">
+		<ns1:definition>A cell-based assay that produces multiple biological readouts.Note: 	Most commonly used in relation to the mathematical (quantitative) analysis of an image acquired using an automated microscope. Analysis algorithms are used to quantify cellular parameters (e.g., number, motility, neurite outgrowth, size, shape) and subcellular events (e.g., receptor internalization, protein translocation, protein expression nuclei shape). </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="high control">
+		<ns1:definition>See positive assay control.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="high-performance liquid chromatography (HPLC) assay">
+		<ns1:definition>Assay in which response is determined after the physical separation of assay components using high-performance liquid chromatography (HPLC) with concurrent detection, usually by monitoring absorbance at an appropriate wavelength. Note: 	Changes in the concentration of assay components at one or more times over the course of the assay can be determined by the relative area under the detection peaks as compared to assay controls and standards. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="high throughput (in biomolecular screening)">
+		<ns1:definition>Relative term, applied to the generation of a large number of results in a short timeframe (e.g., 105 in a week or a month). Note: 	Usually achieved by employing some degree of automation.See also ultra-high throughput.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="high-throughput screening (HTS)">
+		<ns1:definition>Method in which a large number of assays (from thousands to millions) is performed and assessed in a relatively short time period.Note 1: 	Typically, these assays are carried out in microplates of at least 96 wells using automated or robotic technologies. Note 2: 	The rate of at least 105 assays per day has been termed ultra-high-throughput screening (UHTS).</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="hit">
+		<ns1:definition>Sample that produces activity above the hit threshold in an assay.See also active.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="hit rate">
+		<ns1:definition>Proportion of hits from a screen that displays confirmed activity beyond a minimum defined level, the hit threshold. It is expressed as a percentage of the number of samples screened.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="hit threshold">
+		<ns1:definition>Minimum activity that defines actives in a primary screen.Note 1: 	It is usually expressed as percentage of inhibition or stimulation relative to assay controls. Note 2: 	A widely used hit threshold is 50 % inhibition. A more statistically meaningful and equally common threshold is 3 standard deviations from the mean. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="homogeneous assay">
+		<ns1:definition>Assay in which all reagents and reactants are of a uniform phase (typically, liquid phase) and assay response is detected without the need for physical separation of assay components. See also heterogeneous assay. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="homogeneous binding assay">
+		<ns1:definition>Single-phase system used to qualitatively discriminate between specific and nonspecific interactions or quantitatively determine the concentration of a component part of a mixture. Example: fluorescence polarization assay.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="image-based assay">
+		<ns1:definition>Assay in which image analysis algorithms that determine the compartmentalization of fluorescent probes give topological as well as quantitative information.Note: 	The use of automated cellular imaging for screening has been made possible by the development of digital imaging technology.See also high-content screening. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="immobilized metal ion affinity-based fluorescence polarization (IMAPTM) assay">
+		<ns1:definition>Assay in which the interaction between nanoparticles coated with triply charged metal ions and phosphate groups on a substrate that carries a fluorescent tag is detected.Note 1: 	The phosphorylated fluorescent substrate bound to the nanoparticle will exhibit high fluorescence polarization relative to the unbound (unphosphorylated) peptide substrate. Note 2: 	Used for kinase assays where a phosphate group is added to a peptide substrate or for phosphatase assays where the phosphate is removed from a peptide substrate.See also fluorescence polarization.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="inactive, n., adj. (in biomolecular screening)">
+		<ns1:definition>Sample that, at the tested concentration, does not produce a response above the hit threshold in an assay. Note: 	A sample may also be designated as inactive when attempts to confirm an active fail. See also artefact, false positive, hit. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="indirect binding assay">
+		<ns1:definition>See noncompetitive binding assay.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="inhibition constant, Ki">
+		<ns1:definition>1. 	Equilibrium dissociation constant of an enzyme-inhibitor complex: Ki = [E][I]/[EI].2. 	The equilibrium dissociation constant of a receptor–ligand complex. Note: 	This value is usually obtained through competition binding experiments, where Ki is determined after the IC50 obtained in a competition assay performed in the presence of a known concentration of labeled reference ligand which has a known dissociation constant, for the target. [13]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="inhibitor (in biomolecular screening)">
+		<ns1:definition>1. 	Substance that decreases the rate of an enzyme-catalyzed reaction.2. 	Substance that decreases the rate of a process mediated by a transporter protein.3. 	Substance that decreases the extent of interaction between a ligand and its target. Note: 	Characterized by an IC50. For enzyme-catalyzed reactions, the mechanism of inhibition can be assigned by experimentation. The two most commonly encountered mechanisms involve either competition with one of the substrates to occupy the active site (competitive inhibition), or binding at an alternative site inducing conformational changes in the active site (allosteric inhibition). Independently from the site of action, inhibitor binding can be reversible (the on and off rates are such that dissociation of the inhibitor occurs rapidly in relation to the timescales employed in the assay) or irreversible (most often covalent, as in the case of “suicide substrates” which bind covalently to the active site upon activation by an enzyme).[14]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="inhibitory concentration (IC)">
+		<ns1:definition>Concentration of a substance that causes a defined inhibition of a given system.[6]Note 1: 	IC50 is the median concentration that causes 50 % inhibition. Note 2: 	The IC50 value is influenced by the experimental conditions (e.g., substrate or agonist concentration) which should be specified.See also effective concentration, inhibition constant, Ki.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="inverse agonist">
+		<ns1:definition>Ligand that decreases signaling through a receptor below the level of constitutive activity. Note: 	Several receptors, especially when expressed at high levels, exhibit constitutively active signaling. Demonstrating an inverse agonist effect is dependent upon the constitutive activity of the particular receptor which is manifested in the absence of a conventional agonist. Upwards of 85 % of antagonists identified in screens of GPCRs are actually inverse agonists. See also agonist, partial agonist, antagonist.[15]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="in vitro">
+		<ns1:definition>In glass, referring to a study in the laboratory usually involving isolated organ, tissue, cell, or biochemical systems.See also in vivo.[3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="in vivo">
+		<ns1:definition>In the living body, referring to a study performed on a living organism.[3]See also in vitro.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="isotopes">
+		<ns1:definition>Nuclides having the same atomic number but different mass numbers. See also radioisotope, isotopic labeling, radioligand. [3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="isotopically labeled">
+		<ns1:definition>Describes a mixture of an isotopically unmodified compound with one or more analogous isotopically substituted compound(s).See also isotope, radioligand, probe. [3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="kinetic assay">
+		<ns1:definition>Assay in which the time dependence of the signal intensity is measured. Signal values are typically acquired at several time intervals in order to calculate kinetic parameters. Note: 	Kinetic assays are generally designed such that the change in signal with time is linear throughout the experiment.See also equilibrium assay, end-point assay. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="label">
+		<ns1:definition>Molecule, chemical, or protein that is covalently linked to the molecule, chemical, or protein to be assayed and that is detected by an appropriate technology. Note: 	A label is often required since most assay techniques are indirect and require the use of a marker that is detected by the appropriate technology. Most frequently used labels are radioactive or fluorescent, but alternative technologies are emerging such as spin probes and heavy atoms.See also isotopic labeling.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="label-free assay">
+		<ns1:definition>Assay in which there is no requirement to modify one of the interacting components in order to facilitate signal detection.Note: 	Used to monitor macromolecule/macromolecule or small-molecule/macromolecule binding, as well as cell adhesion or cell signaling.Examples: Assays in which calorimetry, mass spectrometry, or nuclear magnetic resonance provides the signal.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="label-free detection">
+		<ns1:definition>Direct detection of compound activity on a target without the requirement for a labeled reagent.Examples: Use of calorimetry, mass spectrometry, surface plasmon resonance, or nuclear magnetic resonance to measure a signal.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="laboratory information management systems (LIMS)">
+		<ns1:definition>Computerized system designed to provide on-line information about the samples analyzed in a laboratory. Note 1: 	Information provided may include the current location of each sample in the laboratory, the method and status of each analysis, and experimental data and calculated results. Note 2: 	Typically, LIMS connect analytical instruments to one or more personal computers and manage processes from sample log-in to reporting test results. With interfaces to enterprise resource planning or manufacturing execution systems, a LIMS can be embedded in a complex IT-infrastructure. [16]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="lead">
+		<ns1:definition>Compound (or compound series) that satisfies predefined minimum criteria for further structure and activity optimization. Note: 	Typically, a lead will demonstrate appropriate activity, selectivity, tractable structure–activity relationship (SAR), and demonstrated activity in a relevant cell-based assay.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="lead identification">
+		<ns1:definition>Process that is targeted toward the generation of at least one compound series that meets the requirements for progression to lead optimization. Note: 	Typically, it encompasses the steps from the detection of initial activity (via high-throughput screening and other lead-finding activities) through hit confirmation and hit-to-lead activities.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="lead optimization">
+		<ns1:definition>Process in which the drug-like properties of an initial lead or lead series are improved. Note: 	Typically, biological activity will be enhanced, in vivo efficacy will be demonstrated, and compounds with a physicochemical, pharmacological, and toxicological profile consistent with progression to the clinic will be identified.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="library (in biomolecular screening)">
+		<ns1:definition>1. 	Collection of samples (e.g., chemical compounds, natural products, over-expression library of a microbe) available for screening.2. 	Set of compounds produced through combinatorial chemistry or other means that expands around a single core structure.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="ligand">
+		<ns1:definition>Ion, molecule, or molecular group that binds to another chemical entity to form a larger complex.See also agonist, antagonist, channel blocker, channel opener, inhibitor. [6]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="ligand-activated channel">
+		<ns1:definition>Any ion channel that is gated (i.e., opened or closed) by a ligand.Note: 	Distinct from voltage-gated or stretch-activated ion channels.See also voltage-activated channel.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="liquid handler">
+		<ns1:definition>liquid handling machineAutomated device that accurately and precisely delivers programmed, predefined quantities of liquid to a microplate. Note: 	It may be free-standing or incorporated as a workstation into a fully automated system.See also automated device.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="low control">
+		<ns1:definition>See negative assay control.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="luminescence assay">
+		<ns1:definition>Assay in which response is measured by the detection of light of a nonradiative origin, such as bioluminescence or chemiluminescence. Example: A luciferase reporter system for the measurement of gene transcription regulation in which luciferase, transcribed under the regulation of a promoter, oxidizes the substrate luciferin to oxyluciferin. In this process, light of wavelength 560 nm is emitted and detected as the signal.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Michaelis constant, Km">
+		<ns1:definition>Substance concentration of substrate at which the rate of reaction is equal to one-half of the limiting rate (maximum rate). Note 1: 	Also called the Michaelis concentration. Note 2: 	The Michaelis constant (Michaelis concentration) may be used only when Michaelis–Menten kinetics is obeyed.Note 3: 	For the systemKm = (k–1 + k2)/k1[3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="microarray (in biomolecular screening)">
+		<ns1:definition>Planar surface where assay reagents and samples are distributed as sub-microliter drops. Note: 	This screening format is a direct offshoot of genomic microarray technologies and makes use of ultra-low-volume miniaturization provided by nanodispensing technologies.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="microplate">
+		<ns1:definition>Any of a number of plates containing a series of wells which may be used for storage or to perform individual assays.Note 1: 	Typically, these plates are constructed of a variety of clear and opaque plastics, and can contain from 6 to 3456 individual wells.Note 2: 	White plates are typically used for luminescence, assay black plates for fluorescence assays, and clear plates for absorbance assays.See also microplate standards, assay, plate format. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="microplate standards">
+		<ns1:definition>Defined footprint, height, flanges, and well positions for 96-, 384-, and 1536-well microplates.Note: 	These standards have been established by the Society for Biomolecular Sciences (SBS) and the American National Standards Institute (ANSI) and accredited by ANSI. They are numbered as ANSI-SBS-1 (2004) – Microplate footprint; ANSI-SBS-2(2004) – Microplate Height; ANSI-SBS-3 (2004) – Microplate Flange; and ANSI-SBS-4 (2004) – Microplate Well Positions. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="miniaturization (in biomolecular screening)">
+		<ns1:definition>Experimental design aimed at decreasing the reaction volume of an assay and consequently the amount and cost of reagents. Examples: Adaptation of assays from test tube or 96-well format to high-density microplates (384 wells, 1536 wells), chip-based microarrays, and microfluidic devices. So-called nanodispensing systems may be required for liquid handling of sub-microliter volumes. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="module (in biomolecular screening)">
+		<ns1:definition>Individual automated device within a fully automated assay system that usually performs a complete single assay step or procedure. Note: 	A fully enclosed module may allow for the control of temperature, humidity, and the gaseous environment. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="molecular imprinted polymers (MIPs)">
+		<ns1:definition>Synthetic polymers in which well-defined volume cavities (imprints) created by template molecules mimic a biomolecular specific ligand–receptor interaction.Note 1: 	These artificially generated recognition sites have shapes, sizes, and functionalities complementary to the template molecule, and are capable of rebinding the template molecule in preference to other closely related structures. Note 2: 	MIPs have found uses as stationary phases in chromatography, as recognition elements in chemosensors, and as enzyme mimics in catalysis [17].</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="multiplex assay">
+		<ns1:definition>Assay in which the activity of a single sample against more than one target is measured in a single test.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="natural product">
+		<ns1:definition>1. 	Complex mixture derived from natural (biological) sources used in screening as a resource for identification of lead compounds. 2. 	Pure compound of natural (biological) origin (whether obtained by purification of natural mixtures or by laboratory synthesis), as opposed to compounds originating from synthetic chemistry. Note: 	Typical origins include extracts from microbes and higher organisms from terrestrial or marine environments.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="negative assay control">
+		<ns1:definition>low controlExperimental conditions designed to produce the signal reflective of the absence of the process under investigation.Note: 	For a binding or an activation mechanism, it is typically the signal measured in the absence of a test compound and is often relevant to the determination of the background signal. For an inhibitory or antagonist mechanism, it is the maximal signal, obtained in the absence of the reference inhibitor.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="noise">
+		<ns1:definition>Random fluctuations occurring in a signal that are inherent in the combination of instrument and method.See also background.[3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="noncompetitive binding assay">
+		<ns1:definition>indirect binding assayAssay in which the interaction of a ligand with a receptor is measured without a requirement for added competing agents. It can be homogeneous or heterogeneous.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="nuclease assay">
+		<ns1:definition>Method used to determine the presence or quantify the amount of specific target nucleotide sequences. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="off-rate, k–1, koff">
+		<ns1:definition>Rate of dissociation of the enzyme-substrate (ES) complex to enzyme (E) and substrate (S) or of ligand–receptor (LR) to receptor (R) and ligand (L). Expressed in units of inverse time (s–1).See also Michaelis constant, Km.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="on-rate, k1, kon">
+		<ns1:definition>Rate of formation of the enzyme-substrate (ES) or ligand–receptor (LR) complex.Expressed in units of Lmol–1s–1.See also Michaelis constant, Km.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="orthosteric site">
+		<ns1:definition>Binding site recognized by the endogenous agonist of a receptor.See also allosteric site.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="partial agonist">
+		<ns1:definition>Agonist that is unable to induce a maximal receptor response in a given biological assay, regardless of the amount applied. See also efficacy.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="pipettor">
+		<ns1:definition>Device that aspirates and dispenses liquid (nL to mL range) for the purposes of transferring from a source to destination. Note: 	The device may be fully manual, electronic, single-channel, multi-channel (typically 8- or 12-channel), or part of a liquid handler. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="plate format">
+		<ns1:definition>Number and configuration of wells on a microplate.Note: 	The most widely used formats are arrays of 96 wells (8 by 12) or 384 wells (16 by 24) or 1536 wells (32 by 48). See also microplate, microplate standards.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="plate gripper">
+		<ns1:definition>Handling device that positions microplates on a workstation. Note: 	A plate gripper may also be used to move microplates between independent modules of an automated platform. Often used in combination with plate stackers, washers, and readers. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="plate map">
+		<ns1:definition>Layout of samples and controls configured on a plate during an assay. Note: 	For a primary screen in 384-well plates, columns 1, 2, and/or 23 and 24 are controls, and the remaining columns are for individual test compounds. For secondary screening, more complex layouts are used and each row may contain a single compound at varying concentrations.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="plate reader">
+		<ns1:definition>Automated device that uses optical and/or computer vision techniques to detect biological, chemical, or physical events in samples stored in microplates.Note 1: 	Use of plate readers reduces or eliminates human subjectivity in the evaluation of plate contents.Note 2: 	Often used in conjunction with a plate stacker.Note 3: 	An absorbance plate reader measures color intensity in each well.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="plate stacker">
+		<ns1:definition>Automated device that loads, unloads, and restacks microplates. Note: 	The device is usually part of system that integrates a plate reader, a liquid handler, or other device to minimize manual microplate handling.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="plate washer">
+		<ns1:definition>Automated device used to wash the wells of microplates. Note: 	The device usually has functions that allow precise height adjustment for minimized residual volume, and digitally controlled aspiration or dispensing pumps to provide high accuracy and flow control. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="positive assay control">
+		<ns1:definition>high controlExperimental conditions designed to produce the signal reflective of maximum biological effect in an assay.Note: 	For a binding or an activation mechanism, it is typically the signal measured in the presence of a test compound. For an inhibitory or antagonist mechanism, it is the minimum signal, obtained in the absence of the reference inhibitor. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="potency (in pharmacology)">
+		<ns1:definition>Dose of drug required to produce a specific effect of given intensity as compared to a standard reference.Note 1: 	Potency is a comparative rather than an absolute expression of drug activity. Drug potency depends on both affinity and efficacy. Thus, two agonists can be equipotent, but have different intrinsic efficacies with compensating differences in affinity. Note 2: 	More potent compounds have lower IC50 or EC50 values implying that less is needed for an effect. [4]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="precision">
+		<ns1:definition>Closeness of agreement between independent test results obtained by applying the experimental procedure under stipulated conditions. The smaller the random part of the experimental errors which affect the results, the more precise the procedure. A measure of precision (or imprecision) is the standard deviation.Note: 	As recognised in the International Vocabulary of Basic and General Terms in Metrology (VIM), precision is sometimes misused for accuracy. This problem will be avoided if one recognizes that precision relates only to dispersion, not to deviation from the (conventional) true value. Imprecision has been defined as the “standard error of the reported value”.See also accuracy.[3,18]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="primary screen">
+		<ns1:definition>Initial screen applied to assess the activity of a collection of compounds and identify hits or actives against a biological target of interest.Note: 	This screen identifies hits or actives from a library. See also secondary screen. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="probe (in biomolecular screening)">
+		<ns1:definition>Labeled ligand.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="quality control">
+		<ns1:definition>Operational techniques and activities that are used to fulfill requirements for quality.[6]Note 1: 	This is a requirement of good laboratory practice.Note 2: 	Results of a screen are validated only after a set of quality controls have been performed.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="radioisotope">
+		<ns1:definition>Radioactive isotope of a specified element. See also isotope.[3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="radioligand">
+		<ns1:definition>Ligand into which a radioisotope has been incorporated as a label.See also isotope, isotopic labeling. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="receptor">
+		<ns1:definition>Molecular structure in or on a cell which specifically recognizes and binds to a compound and acts as a physiological signal transducer or mediator of an effect.[3,6]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="relative standard deviation, sr, σr">
+		<ns1:definition>coefficient of variationThe standard deviation divided by the mean of the series Note: 	The coefficient of variation can be used as a dimensionless estimate of repeatability or precision when applied to a high-throughput operation, e.g., liquid dispensing.[3] with added synonym</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="reproducibility">
+		<ns1:definition>Closeness of agreement between independent results obtained with the same method on identical test material but in distinct experiments (different operators, different apparatus, different laboratories, and/or after different intervals of time). The measure of reproducibility is the standard deviation qualified with the term “reproducibility” as reproducibility standard deviation. In some contexts, reproducibility may be defined as the value below which the absolute difference between two single test results on identical material obtained under the above conditions, may be expected to lie with a specified probability.[3]Note: 	A complete statement of reproducibility requires specification of the experimental conditions which differ. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="robot">
+		<ns1:definition>Automated device that performs tasks (i.e., screen functions) that would normally be performed by a human. Note: 	A robot in laboratory automation is usually used to move microplates in an automated assay procedure and usually consists of either a robotic arm with at least three degrees of freedom or a plate gripper.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="sample">
+		<ns1:definition>1. 	Group of individuals often taken at random from a population for research purposes.2. 	One or more items taken from a population or a process and intended to provide information on the population or process.3. 	Portion of material selected from a larger quantity so as to be representative of the whole. [6]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="scheduling software">
+		<ns1:definition>Computer program used to organize the chronological sequence of experimental methods to be followed to execute an automated high-throughput screening campaign. Note: 	Based on the experimental needs of the campaign and constraints imposed by the programmer, this software uses an iterative process to determine the optimal order of the use of robots, liquid handlers, and modules to minimize screening time.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="scintillation proximity assay (SPATM)">
+		<ns1:definition>Homogeneous assay in which beads incorporated with scintillant emit light in the presence of radiolabeled molecules within the proximity of the bead’s scintillant detection. Note: 	An alternative form of the assay incorporates the scintillant into the base of a microplate instead of a bead (FlashPlateTM). </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="screen">
+		<ns1:definition>Execution, analysis, and interpretation of a large number of assays to evaluate the activity of a collection of samples against a target.Note: 	A screen will often employ automation.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="screen validation">
+		<ns1:definition>Assay conditions, as determined by assay validation, are performed in the chosen plate format with an acceptable signal to background ratio as described by the Z′ factor.Note: 	Validation typically requires testing a number of samples a minimum of three times and allows for the estimation of false positives, false negatives, and the selection of statistically significant thresholds. [19]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="secondary screen">
+		<ns1:definition>Screen applied to independently confirm actives from the primary screen. Note: 	A secondary screen may employ an assay that differs in type from the primary screen (e.g., biochemical assay vs. cell-based assay) or it may be of the same type with different readout.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="selectivity assay">
+		<ns1:definition>Assay used to determine the relative potency of active or lead compounds toward an alternative target.Note: 	A selectivity assay (or panel of assays) may include targets of the same family or unrelated targets.See also counter-screen.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="stably transfected cells">
+		<ns1:definition>Eukaryotic cells into which recombinant DNA has been introduced and incorporated into the genome, so that the cells replicate the new DNA in a stable fashion. Note: 	The biological material thus obtained is expected to show low variability and therefore increase assay reproducibility.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="standard error of the mean (SEM)">
+		<ns1:definition>Sample standard deviation divided by the square root of the sample size. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="structure–activity relationship (SAR)">
+		<ns1:definition>Association between specific aspects of molecular structure and defined biological action. [3]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="sublibrary">
+		<ns1:definition>Portion of a library that is grouped or selected based on similarity of structure or biological effect.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="surface plasmon resonance (SPR) assay">
+		<ns1:definition>Assay in which the binding of a ligand to a target immobilized on the gold surface of a chip is detected by changes in the angle of the light reflected from the surface.Note: 	This assay type is not usually used for high-throughput screening but has been expanded to multiple simultaneous detection channels and has improved sensitivity to detect low-molecular-weight binding molecules. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="target (in biomolecular screening)">
+		<ns1:definition>Biological molecule, such as an enzyme or receptor, whose activity and function is the focus of a screen.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="targeted library">
+		<ns1:definition>Library designed, on the basis of preexisting information, to generate enhanced activity or hit rate against a particular biological target or target class.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="total internal reflection fluorescence (TIRF)">
+		<ns1:definition>Spectroscopic technique that discriminates between labeled molecules in the homogeneous phase and those interacting with binding partners immobilized at a surface. Note: 	TIRF measurements are restricted to a thin layer and are achieved by exciting the fluorophore with an evanescent wave, created by total internal reflection at the glass/aqueous interface of the wave guide. The goal of using TIRF in biological applications is to study events close to the interface of two different media.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="toxicity">
+		<ns1:definition>1. 	Capacity to cause injury to a living organism defined with reference to the quantity of substance administered or absorbed, the way in which the substance is administered and distributed in time (single or repeated doses), the type and severity of injury, the time needed to produce the injury, the nature of the organism(s) affected, and other relevant conditions.2. 	Adverse effects of a substance on a living organism as defined in 1.[6]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="transiently transfected cells">
+		<ns1:definition>Eukaryotic cells into which recombinant DNA has been introduced and expressed by cellular transcription, but without incorporation into the stable genome. </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="ultra-high throughput (in biomolecular screening)">
+		<ns1:definition>Relative term, currently applied to the screening of 105 test samples in a 24-h period.See also throughput, high throughput.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="voltage-activated channel">
+		<ns1:definition>Ion channel that is specifically activated, or gated, by the surrounding potential difference across the cell membrane near the channel (or near the cell, neuron, or synapse).</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="workstation">
+		<ns1:definition>Programmable device used to automate a single operation (such as liquid handling) on a microplate supplied to the device by a robot (automated stacker system or a robotic manipulator).[20] </ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Z factor">
+		<ns1:definition>Dimensionless statistical parameter that provides a practical assessment of assay performance in the presence of test compounds. Z = 1 – 3(s + c) / | s – c |where s denotes the mean of the library sample signal, c the mean of the control signal and s, c the corresponding standard deviations.1 &gt; Z  0.5 generally categorizes an excellent assay. [21]</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Z′ factor">
+		<ns1:definition>Dimensionless statistical parameter used extensively in biomolecular screening, and a characteristic of an assay without the intervention of test compounds. It provides a practical index of the quality and reliability of the assay, and can be used as a guide to assay development and optimization. Z′ = 1 – 3(c+ + c–)/(|c+ – c– |)where c+ and c– are the standard deviations of the high and low controls and c+ and c– are the means of the high and low controls, respectively.Note:	The useful range of Z′ values is from 0 (very poor) to +1 (excellent). In most cases, a Z′ factor greater than 0.5 is required for an assay to be accepted for high-throughput screening.[21]A graphical illustration of the parameters used in the calculation of Z′ is provided below.</ns1:definition>
+</ns1:entry>
+</ns1:dictionary>

@@ -1,0 +1,95 @@
+# The HyperGlossary is a self contained perl web application meaning that all perl modules are packaged with the app.  
+# The perl version used to compile the modules was:
+#        perl, v5.10.1 (*) built for x86_64-linux-gnu-thread-multi
+# Operating System:
+#        Ubuntu 10.04 LTS (Lucid) x86_64
+
+
+# If starting with a fresh Ubuntu 10.04 install:
+      apt-get install lamp-server^ #mysql and apache
+      apt-get install liblua5.1-expat-dev #expat headers
+      apt-get install build-essential #common tools
+      apt-get install libmysqlclient-dev #mysql development headers
+      apt-get install libexpat1-dev  #expat headers
+
+# APACHE2 configuration 
+# Edit the apache config file http.conf to allow fastcgi service of the application
+FastCgiIpcDir /var/run/fastcgi
+
+# Example for apache2 virtual host using fastcgi:
+
+<VirtualHost *:80>
+        ExpiresActive On
+        ExpiresByType text/html "access plus 30 seconds"
+        ExpiresByType text/css "access plus 2 weeks"
+        ExpiresByType text/javascript "access plus 2 weeks"
+        ExpiresByType image/png "access plus 1 month"
+    
+        ServerAdmin root@localhost.edu
+        ServerName www.someplace.com
+        
+        DocumentRoot /var/www/HG
+        FastCgiServer /[app_location]/HG/script/hyperglossary_fastcgi.pl -processes 3
+        Alias /projects /[app_location]/HG/script/hyperglossary_fastcgi.pl/
+
+        Alias /static /[app_loacation]/HG/root/static
+        <Location /static>
+                SetHandler default-handler
+                 ExpiresDefault "modification plus 1 year"
+        </Location>
+        ErrorLog /var/log/apache2/hg_error.log
+
+        # Possible values include: debug, info, notice, warn, error, crit,
+        # alert, emerg.
+        LogLevel warn
+
+        CustomLog /var/log/apache2/hg_access.log combined
+        # 3 HOUR
+        <filesMatch "\.(txt|xml|js|css)$">
+                Header set Cache-Control "max-age=10800"
+        </filesMatch>
+
+</VirtualHost>
+
+# Add the virtual server to apache
+        a2ensite hg
+
+# Remove the deflate module due to a conflict with the fastcgi module
+        a2dismod deflate
+
+# Add multiverse to lucid main within apt sources:
+
+        nano /etc/apt/sources.list
+
+# Add these lines to the bottom of the file (if using Ubuntu 10.04):
+
+        deb http://archive.ubuntu.com/ubuntu/ lucid main restricted multiverse
+        deb-src http://archive.ubuntu.com/ubuntu lucid main restricted multiverse
+
+# Update apt
+
+        apt-get update
+
+# Download mod-fastcgi from newly added repositories and enable it
+
+        apt-get install libapache2-mod-fastcgi
+        a2enmod fastcgi
+
+# Change ownership of the following file to allow the apache server access (in this example the user and group are www-data)
+        chown www-data:www-data /tmp/hyperglossary/session_data 
+
+# Initalize Database
+        CREATE DATABASE [database_name];
+        mysql -p [database_name] < ./hg_initial.sql
+
+# Edit the HyperGlossary configuration file
+        nano conf/hyperglossary.yml
+
+#Follow this procedure if the perl version, OS, or architecture is different from the one used to build the provided local-lib modules
+# To bootstrap local::lib, runs your Makefile.PL, runs make installdeps
+# (adapted from README.mkd)
+       ./script/bootstrap.pl
+       perl Makefile.PL && make installdeps
+
+# To install additional or force install modules to the local library use
+# ./script/cpan-shell 

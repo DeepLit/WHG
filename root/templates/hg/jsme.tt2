@@ -1,0 +1,15 @@
+[% META nowrap = 1 %]
+<div id="jsme_container"></div>
+ <script>   
+        var jme="[% jme %]";
+        var jsme = new JSApplet.JSME("jsme_container", "380px", "340px",{"jme":jme});
+        jsme.readMolecule(jme);
+
+        function queryChem() {
+            var data = jsme.smiles();
+            queryChemSpider(data);
+            //window.open('http://www.chemspider.com/Search.aspx?q='+data)
+        }    
+</script>
+<br>
+<button type="button" onclick="queryChem();">Query ChemSpider</button>

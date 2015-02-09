@@ -1,0 +1,29 @@
+[% META nowrap = 1 %]
+<!-- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  </head>
+  <body> -->
+        <table width="90%">
+        <tr><td><h2>Additional Information</h2></td></tr>
+        <tr><td><p><b>Term:</b> [% word %]</p></td></tr>
+        <tr><td><p><b>Category ID:</b> [% category_id %]</p></td></tr>
+        <tr><td><p><b>Term ID:</b> [% word_id %]</p></td></tr>
+        </table>
+<table>		       
+	<tr>
+       <td width='70%' align='left' class='formfield'><div id="text">
+       [% count=1 %]
+       [% FOREACH def IN definition %]
+            [% FOREACH pair IN def %]
+                    <b>[% pair.key %]</b> - [% IF pair.value == '' %]<br><br><center><b>No Content</b></center> [% ELSE %] [% pair.value %] [% END %]
+                    <br>
+            [% END %]
+            
+       [% END %]
+
+	</tr>
+	<tr>
+  </table>

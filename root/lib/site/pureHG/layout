@@ -1,0 +1,9 @@
+<div id="header" class="header">[% PROCESS site/pureHG/header %]</div>
+  <div class=container" id="main_content">
+  <div class="row">
+       <p class="text-center"><h2>[% template.title %]</h2></p>
+	[% content %]
+  </div>
+  </div>
+  <div id="spacer">&nbsp;</div>
+<div id="footer" class="footer"><div class="container"> [% PROCESS site/pureHG/footer %]</div></div>

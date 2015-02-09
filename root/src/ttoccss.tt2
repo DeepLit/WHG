@@ -1,0 +1,686 @@
+
+@charset "utf-8";
+/*START OF XCHECKBOX CSS*/
+
+.xcheckbox-wrap {
+	  line-height: 18px;
+		  padding-top:2px;
+}
+.xcheckbox-wrap a {
+	  display:block;
+		  width:16px;
+			  height:16px;
+				  float:left;
+}
+.x-toolbar .xcheckbox-wrap {
+	  padding: 0 0 2px 0;
+}
+.xcheckbox-on {
+	  background:transparent url(/static/js/ext/resources/images/default/menu/checked.gif) no-repeat 0 0;
+}
+.xcheckbox-off {
+	  background:transparent url(/static/js/ext/resources/images/default/menu/unchecked.gif) no-repeat 0 0;
+}
+.xcheckbox-disabled {
+	  opacity: 0.5;
+		  -moz-opacity: 0.5;
+			  filter: alpha(opacity=50);
+				  cursor:default;
+}  
+/*END OF XCHECKBOX CSS*/
+
+/*START OF COLOR PICKER CSS*/
+.x-color-picker, .x-color-picker {
+	  height: 195px;
+		  position: relative;
+			  overflow: hidden;
+}
+.x-color-picker div canvas {
+	  position: absolute;
+		  top: 0;
+			  left: 0;
+				  cursor: pointer;
+}
+.x-color-picker-wheel {
+	  z-index: 1;
+}
+.x-color-picker-gradient  {
+	  z-index: 0;
+}
+/*END OF COLOR PICKER CSS*/
+
+body { 
+	color: #141414; 
+	font-size: 12pt; 
+	line-height: 21px; 
+	text-align: center; 
+	margin: 0; 
+	padding: 0; 
+}
+a img {
+	border: 0; 
+}
+a:link { 
+	text-decoration: none
+}
+a:visited {
+	text-decoration: none
+}
+a:active {
+	text-decoration: none
+}
+table td {
+	border-width: 1px;
+	padding: 3px 15px 3px 5px;
+	-moz-border-radius: 0px 0px 0px 0px;
+	max-width: 800px; 
+}
+h1, h2, h3, h4, h5 { 
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif; 
+	margin: 0; 
+	padding: 0; 
+}
+h1 { 
+	font-size: 1.25em; 
+	text-align: center; 
+	margin: 8px 0;
+}
+h2 { 
+	font-size: 1.2em; 
+	text-align: center; 
+	margin: 8px 0; 
+}
+h3 { 
+	font-size: 1.125em; 
+}
+h4 { 
+	font-size: 1.3em; 
+}
+h5 { 
+	text-align: center; 
+}
+h1+p, h2+p, h3+p, h4+p { 
+	margin-top: 3.2px; 
+}
+body.home {
+	background-color: silver; 
+}	
+body.home #navcontainer { 
+	background-color: #404040; 
+}
+body.home #navcontainersoft { 
+	background-color: #404040; 
+}
+body.home #content {
+	width: 100%;
+	padding: 0 16px 16px 16px; 
+}
+#container { 
+	background-color: #f0f0f0; 
+	background-image: url(http://www.chemeddl.org/images/backgrounds/sidebargradient.gif); 
+	background-repeat: repeat-y; 
+	background-position: right 100%; 
+	text-align: left; 
+	max-width: 900px; 
+	margin: auto; 
+	padding 16px;
+}
+#content { 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	background-color: #f0f0f0; 
+	float: left; 
+	margin: 0; 
+	padding: 0 16px 16px 16px; 
+}
+#content h1 { 
+	text-align: center; 
+	margin: 0; 
+}
+#content h2 {
+	text-align: center;
+	margin: 0 0 16px 0; 
+	color: #141414;
+	background-color: #c0c0c0;
+	background-image: url(http://www.chemeddl.org/images/backgrounds/gradient2.gif);
+	background-repeat: repeat-x;
+	padding-top: 8px;
+	padding-bottom: 8px; 
+}
+#content h3,#content h4 { 
+	margin: 0; 
+}
+#content p {
+	margin-right: 16px;
+	margin-left: 16px; 
+	max-width: 800px;
+}
+#content2 { 
+	color: #f0f0f0; 
+	background-color: #141414; 
+	text-align: center; 
+	padding: 16px 0; 
+	width: 640px; 
+}
+#header { 
+	font-size: 100%; 
+	background-color: #f0f0f0;
+	width: 100%; 
+	margin: 0; 
+	padding: 16px 16px 0 16px; 
+}
+#navcontainer {
+	margin: 0;
+	padding: 0;
+	height: 4em; 
+}
+#navcontainer img#logo { 
+	width: 15em; 
+	margin: 0; 
+	padding: 0; 
+	height: 4em; 
+}
+#navcontainer img#logojce { 
+	width: 8em; 
+	margin: 0; 
+	padding: 0; 
+	height: 4em; 
+}
+#navcontainer ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	letter-spacing: 1.6px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	width: 100%;
+	float: left; 
+}
+#navcontainer ul li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+	line-height: 30px; 
+	color: #f0f0f0; 
+	height: 40px;
+}
+#navcontainer ul li a { 
+	color: #f0f0f0; 
+	line-height: 40px; 
+	text-decoration: none; 
+	height: 40px; 
+	float: left; 
+	padding-right: 16px; 
+	padding-left: 24px; 
+}
+#navcontainer ul li#firstitem a { 
+	background-image: url(http://www.chemeddl.org/images/backgrounds/lt_gray.gif); 
+	background-repeat: no-repeat; 
+	width: 240px; 
+	height: 4em; 
+	padding: 0; 
+}
+#navcontainer ul li a:hover {
+	text-decoration: underline; 
+}
+#navcontainer h1{
+	margin: 0;
+	padding: 0;
+	font-size: 1.5em; 
+	text-align: center; 
+	display: inline;
+}
+#needtowrap {
+	line-height: 30px;
+}
+#navcontainer ul li a#righty { 
+	background-color: #F0F0F0;
+	line-height: 40px; 
+	text-decoration: none; 
+	height: 4em;
+	float: right; 
+	padding-left: 10px;
+	padding-right: 0px;
+	display: inline;
+}
+#bottomtext ul li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+#bottomtextwrapper {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+#jcestore {
+	color: #6D7B8D;
+	font-size: 12pt;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+#jcestore2 {
+	color: #6D7B8D;
+	font-size: 10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#image_message {
+	color: #6D7B8D;
+	font-size: 10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding-left: 25px;
+	width: 45%;
+	float: left;
+}
+#iframeimage {
+	padding-top: 5px;
+}
+#prevlink {
+	display: inline;
+}
+#prevlink a:link {
+	color: #55AAE1;
+}
+#prevlink a:visited {
+	color: #55AAE1;
+}
+#imageattrib {
+	display: inline;
+}
+#nextlink {
+	display: inline;
+}
+#nextlink a:link {
+	color: #55AAE1;
+}
+#nextlink a:visited {
+	color: #55AAE1;
+}
+
+/* nav */
+#nav {
+	font-size: 100%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	width: 100%;
+	clear: both;
+	margin: 0;
+	padding: 0.75em 1em 0.25em;
+	background: #F0F0F0;
+	border-top: 2px solid #c0c0c0;
+}
+#nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+#nav ul li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+#nav ul li a {
+	text-decoration: none;
+	padding-right: 0.7em;
+	padding-left: 0.7em;
+}
+#nav ul li a:hover {
+	text-decoration: underline; 
+}
+#nav img {
+	vertical-align: middle;
+}
+
+/* footer */
+#footer {
+	font-size: 100%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	width: 100%;
+	clear: both;
+	margin: 0;
+	padding: 0.75em 1em 0.25em;
+	background: #F0F0F0;
+	border-top: 2px solid #c0c0c0;
+}
+#footer ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+#footer ul li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+#footer ul li a {
+	text-decoration: none;
+	padding-right: 0.7em;
+	padding-left: 0.7em;
+}
+#footer ul li a:hover {
+	text-decoration: underline; 
+}
+#footer img {
+	vertical-align: middle;
+}
+#footer .copyright {
+	text-align: center;
+}
+
+#partners {
+	font-size: 0.75em;
+	width: 58%;
+	float: left;
+	margin: 0 0 1.5em;
+	padding: 0;
+	display: inline;
+}
+#partners #logoJCE {
+	width: 5.5em;
+	height: 3em;
+	border-style: none;
+}
+#partners #logoCHED {
+	width: 4em;
+	height: 3em;
+	border-style: none;
+}
+#partners #logoACS {
+	width: 8.5em;
+	height: 3em;
+	border-style: none;
+}
+#partners #logoChemCollective {
+	width: 6em;
+	height: 3em;
+	border-style: none;
+}
+#partners #logoNSDL {
+	width: 3em;
+	height: 3em;
+	border-style: none;
+}
+#subscribe {
+	font-size: 0.75em;
+	width: 21%;
+	margin: 0 ;
+	padding: 0;
+	float: left;
+	display: inline;
+}
+#spons {
+	font-size: 0.75em;
+	width: 21%;
+	margin: 0 0 1.5em;
+	padding: 0;
+	float: left;
+	display: inline;
+}
+#spons #logoNSF { 
+	width: 3em; 
+	height: 3em; 
+	border-style: none; 
+}
+#spons #logoSACP { 
+	width: 3em; 
+	height: 3em; 
+	border-style: none; 
+}
+#spons #logoSSP { 
+	width: 3em; 
+	height: 3em; 
+	border-style: none; 
+}
+#footerText {
+	font-size: 0.76em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	width: 100%;
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+#policies {
+	font-size: 0.66em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	width: 100%;
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+#policies ul li {
+	margin: 0;
+	padding: 0 1em;
+	border-right: 1px solid black;
+	display: inline;
+}
+#policies ul li a {
+	text-decoration: none;
+}
+#nodename {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #D8E8F8;
+	width: 100%;
+	font-size: 16px;
+}
+#nodename ul {
+	list-style-type: none;
+}
+#breadcrumb {
+	position: relative; right:35px;
+}
+.topic {
+	color: #6D7B8D;
+	font-size: 0.66em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	display: inline;
+}
+.right {
+	text-align: right;
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.center {
+	text-align: center;
+	margin-left:192px;
+	margin-top:16px;
+}
+.jwts_tabbertab {
+	margin:0px;
+	padding:6px;
+	border:1px solid #bbb;
+	border-top:0px;
+	/*height:300px;
+	overflow:auto;*/
+}
+.videowrapper {
+	color: #f0f0f0;
+	background-color: #141414; 
+	width: 322px;
+	height: 260px;
+	padding: 1em 1em 1em 1em;
+	line-height: 18px; 
+}
+.videowrapperiframe {
+	color: #f0f0f0;
+	background-color: #141414; 
+	width: 455px;
+	margin-top: 1em;
+	margin-bottom:1em;
+	padding: 1em;
+	font-size: 10pt;
+	text-align: left;
+}
+.video {
+	width: 325px;
+	display: inline;
+	font-size: 10pt;
+}
+.videoiframe {
+	width: 325px;
+	display: inline;
+	font-size: 10pt;
+}
+.videooptionsiframe {
+	color: #f0f0f0;
+	background-color: #141414;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+	padding-top: 1em;
+	padding-right: 0;
+	padding-bottom: 1em;
+	padding-left: 0;
+	width: 120px;
+	float: right;
+	display: inline;
+	font-size: 10pt;
+	text-align: left;
+}
+.videooptionsiframe h4{
+	font-size: 1.1em;
+}
+.videooptionsiframe p{
+	font-size: 0.75em;
+}
+.videoiframe h4{
+	font-size: 1.1em;
+}
+.videoiframe p{
+	font-size: 1.0em;
+}
+.videooptions {
+	color: #f0f0f0;
+	background-color: #141414;
+	font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+	padding-top: 1em;
+	padding-right: 0pt;
+	padding-bottom: 1em;
+	padding-left: 0pt;
+	width: 120px;
+	float: right;
+	display: inline;
+	font-size: 10pt;
+	text-align: left;
+}
+.videobartop {
+	background-color: #141414;
+	color: #FFFFFF;
+	font-size: 1em;
+	height: 48px;
+	width: 514px;
+	padding: 1em 0 1em 0;
+	text-align: center;
+	margin: 0 0 0 15px;
+}
+.videobar {
+	background-color: #141414;
+	height: 42px;
+	width: 322px;
+	padding: 0 1em 1em 1em; 
+	text-align: center;
+}
+.videobar a img {
+	padding: 0 0 0 15px; 
+}
+.videobar img {
+	padding: 0 0 0 15px;
+}
+.videobariframe {
+	background-color: #141414;
+	height: 42px;
+	width: 352px;
+	text-align: center;
+	margin: 0;
+}
+.videobariframe a img {
+	padding: 0 0 0 15px; 
+}
+/*qtp_library.css*/
+.title2 {
+	padding-left: 120px;
+	min-height: 120px;
+	background-image: url(http://images.apple.com/downloads/images/essentials_quicktime20070611.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+	vertical-align: middle;
+}
+.playButton {
+	background-color: rgb(20,20,20);
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 1.25em;
+	opacity: .8;
+	filter: alpha(opacity=80);
+	-moz-border-radius: 1em;
+	-webkit-border-radius: 1em;
+	position: relative;
+	top: 50%;
+	zoom: 100%;
+	padding: .5em 1em;
+	color: white;
+}
+.playBackground {
+	background-color: rgb(0,0,0);
+	opacity: 0.0;
+	filter: alpha(opacity=0);
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.ccamovietextheading {
+	display: none;
+}
+.groupedArticles {
+	font-size: 0.75em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#adiv {
+	background-color:#F0F0F0;
+
+}
+#bdiv {
+	background-color:#F0F0F0;
+	padding: 16px;
+}
+.duration {
+	text-align: right;
+	float: right;
+	margin-right: 10px;
+	font-size: 10pt;
+}
+#bottom.home {
+	margin: 0 0 1em 0;
+	background-color: silver;
+}
+#bottom.section1 {
+	margin: 0 0 1em 0;
+	background-color: #e5738a;
+}
+#bottom.section2 {
+	margin: 0 0 1em 0;
+	background-color: #dae573;
+}
+#bottom.section3 {
+	margin: 0 0 1em 0;
+	background-color: #e5c973;
+}
+#bottom.section4 {
+	margin: 0 0 1em 0;
+	background-color: #73ace5;
+}
+.figure {
+	font-size: 9pt;
+}
+.button {
+    -moz-border-radius: 5px 5px 5px 5px;
+    border: 1px solid #1D5987;
+    cursor: pointer;
+    margin-right: 3px;
+    margin-top: 1px;
+    padding: 3px 5px;
+    text-decoration: none;
+    color:black;
+}
+.button:hover { 
+	background-color: #79B7E7;
+}

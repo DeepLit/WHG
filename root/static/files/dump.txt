@@ -1,0 +1,18 @@
+$VAR1 = {
+  'field_label_id' => '1',
+  'required' => '0',
+  'definition_data_id' => '16',
+  'editable' => '0',
+  'field_type_id' => '1',
+  'definition' => ' See: <a href=\\"http://goldbook.iupac.org/E01968.html\\" class=\\"internal-link\\">electrokinetic potential</A>Source: <a href=\\"http://goldbook.iupac.org/src_PAC199668957.html\\"> PAC, 1996, 68, 957</A> (Glossary of terms in quantities and units in Clinical Chemistry (IUPAC-IFCC Recommendations 1996)) on page 999',
+  'field_label' => 'Definition'
+};
+$VAR2 = {
+  'field_label_id' => '12',
+  'required' => '0',
+  'definition_data_id' => undef,
+  'editable' => '1',
+  'field_type_id' => '1',
+  'definition' => undef,
+  'field_label' => 'Additional Information'
+};

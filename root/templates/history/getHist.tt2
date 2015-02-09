@@ -1,0 +1,26 @@
+[% META title = 'Get History' %]
+<table width='800'>
+<form action="[% Catalyst.config.rootURL %][%Catalyst.controller('History').action_for('listHist')%]" method="post">
+	<tr>
+		<td width='25%' valign='top' class='formcaption'><label for="category"> Category</label></td>
+		<td valign='top' class='formfield'>
+		                <select style='width:200;font-size:12' name='category_id' id='category_id'> 
+                [% category_options %] </select> </td>
+	</tr>
+	<tr>
+		<td width='25%' valign='top' class='formcaption'><label for="category"> User</label></td>
+		<td valign='top' class='formfield'>
+		                <select style='width:200;font-size:12' name='user_id' id='user_id'> 
+                [% user_options %] </select> <input type='checkbox' name='all_users' id='all_users'> All Users</td>
+	</tr>
+	<tr>
+		<td width='25%' valign='top' class='formcaption'><label for="start_date"> Start Date</label></td>
+		<td valign='top' class='formfield'><input type = "text" name="start_date" id="start_date"/>(YYYY-MM-DD)</td>
+	</tr>
+	<tr>
+		<td width='25%' valign='top' class='formcaption'><label for="end_date"> End Date</label></td>
+                <td valign='top' class='formfield'><input type = "text" name="end_date" id="end_date"/>(YYYY-MM-DD)</td>
+	</tr>
+	<tr><td><input type="submit" value="Get"/></td></tr>
+</form>
+</table>

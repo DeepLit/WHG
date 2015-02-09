@@ -1,0 +1,1 @@
+var tinyMCEImageList = new Array(["tiger" ,"http://hyperglossary.org//static/files/images/3/3_lwnmb.jpg"]);

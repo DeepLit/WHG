@@ -1,0 +1,18 @@
+---
+name: HyperGlossary
+domain: abc.com
+rootURL: http://abc.com/
+staticPATH: PATH_TO/WHG/root/static/
+email: abc@123.com
+hgdb:
+    database: hg_clean
+    host: localhost
+    user: user
+    pass: *****
+redirect:
+    cookie_message: Thank you for accepting cookies. You should be redirected momentarily.
+default_view: TT
+wrapper: site/pureHG
+dude: duuuude
+
+

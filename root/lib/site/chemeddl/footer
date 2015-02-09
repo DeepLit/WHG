@@ -1,0 +1,43 @@
+<!-- BEGIN site/chemeddl/footer -->
+
+			<div id="partners">
+				<p style="font-size:100%">Our Partners:</p>
+				<ul>
+					<li><a title="Journal of Chemical Education" href="http://www.jce.divched.org/"><img id="logoJCE" src="http://www.chemeddl.org/images/logos/small/logoJCE.gif" alt="JCE" name="logoJCE" border="0" height="36" width="66" /></a></li>
+
+					<li><a title="Division of Chemical Education, American Chemical Society" href="http://www.divched.org/"><img id="logoCHED" src="http://www.chemeddl.org/images/logos/small/logoCHED.gif" alt="Div. CHED" name="logoCHED" border="0" height="36" width="47" /></a></li>
+					<li><a title="ACS" href="http://www.acs.org/"><img id="logoACS" src="http://www.chemeddl.org/images/logos/image001.png" alt="ACS" name="logoACS" border="0" height="36" width="80" /></a></li>
+					<li><a title="The ChemCollective" href="http://www.chemcollective.org/"><img id="logoChemCollective" src="http://www.chemeddl.org/images/logos/small/logoChemCollective.gif" alt="The ChemCollective" name="logoChemCollective" border="0" height="32" width="80" /></a></li>
+					<li><a title="National Science Digital Library" href="http://nsdl.org/"><img id="logoNSDL" src="http://www.chemeddl.org/images/logos/small/nsdllogo.jpg" alt="NSDL" name="logoNSDL" border="0" height="36" width="36" /></a></li>
+				</ul>
+			</div>
+			<div id="spons">
+				<p style="font-size:100%">Our Sponsors:</p>
+
+				<ul>
+					<li><a title="National Science Foundation" href="http://www.nsf.gov/"><img id="logoNSF" src="http://www.chemeddl.org/images/logos/small/logoNSF.gif" alt="NSF" name="logoNSF" border="0" height="36" width="36" /></a><a title="Society for Analytical Chemists of Pittsburgh" href="http://www.sacp.org/"><img id="logoSACP" src="http://www.chemeddl.org/images/logos/small/logoSACP.gif" alt="SACP" name="logoSACP" border="0" height="36" width="36" /></a><a title="Spectroscopy Society of Pittsburgh" href="http://www.ssp-pgh.org/" target="_blank"><img id="logoSSP" src="http://www.chemeddl.org/images/logos/small/SSP-Logo.png" alt="SSP" name="logoSSP" border="0" height="36" width="36" /></a></li>
+				</ul>
+			</div>
+			<div id="subscribe">
+				<p style="font-size:100%">Find us:</p>
+				<ul>
+					<li><a href="http://www.facebook.com/group.php?gid=9031339652" alt="ChemEd DL Group Page"><img src="http://www.chemeddl.org/images/badges/badgeFB.gif" alt="Join our Facebook Group!"/></a><a href="http://www.twitter.com/chemeddl"><img src="http://www.chemeddl.org/images/badges/badgeTwitter.gif" alt="Follow chemeddl on Twitter"/></a><a href="http://www.chemeddl.org/alfresco/guestTemplate/workspace/SpacesStore/28070d73-7fd6-42f1-9e86-353d2a80bb7d/workspace/SpacesStore/fe8b6eed-da72-447e-a94d-58e201dbb28d/rss.xml?mimetype=text%2Fxml%3Bcharset=utf-8"><img src="http://www.chemeddl.org/images/badges/badgeRSS.png" alt="RSS of News Feed"/></a></li>
+
+				</ul>
+			</div>
+<div id="footerText">
+<!--	<div id="copyright">&copy; [% site.copyright %]</div> -->
+            This work was supported by the NSF Division of Undergraduate Education Award number 0840830
+</div>
+		<div id="policies">
+			<ul>
+				<li>&copy; 2011 Chemical Education Digital Library</li>
+				<li><a href="http://www.chemeddl.org/about/contact.php">Contact</a></li>
+
+				<li><a href="http://www.chemeddl.org/about/privacy.php">Privacy</a></li>
+				<li style="border:none"><a href="http://www.chemeddl.org/about/terms.php">Terms of Use</a></li>
+			</ul>
+		</div>
+
+
+<!-- END site/chemeddl/footer -->

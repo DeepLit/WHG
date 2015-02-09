@@ -1,0 +1,15 @@
+<table width='800'>
+<form action="[% Catalyst.config.rootURL %][%Catalyst.controller('UserMgt').action_for('edit')%]" method="post">
+	[%#Simple column set%]
+	[% FOREACH col = users_rs.result_source.columns %]
+	<tr>
+		<td width='25%' valign='top' class='formcaption'><label for="[% col%]"> [% user.$col %] </label><td>
+		<td valign='top' class='formfield'><input type = "text" name="[% col %]" id="[% col %]" value="[% user.$col%]"/></td>
+		[% IF errors.$col %]
+		   <span style="color: red;">[% errors.$col %]</span>
+		[% END %]
+	</tr>
+	[% END %]
+	<tr><td><input type="submit" value="Update"/></td></tr>
+</form>
+</table>

@@ -1,0 +1,62 @@
+<div class="col-md-6 col-md-offset-3">
+<h2>[% META title = 'Submit URL' %]</h2>
+<form name='url_submit' action='[% set_cat_url %]' method='POST'>
+<table cellspacing="0" cellpadding="0" width="600">
+	<tr>
+		<td class='hgtab_form'>
+		<table cellspacing="2" cellpadding="0" width="100%">
+			<tr>
+				<td width='10%' align='left' valign='center'>
+				&nbsp;Glossary </td>
+		              	<td width='90%' valign='center' align='left' class='formfield'>
+		                <select class="selectpicker" style='width:200;font-size:12' name='category' id='category' onchange='this.form.submit()'> 
+				[% category_options %]
+		                </select>
+		          	</td>
+		       </tr>
+		</td> </tr> </table>
+		</td>
+	</tr>
+</table>
+<input type='hidden' name='path' value='[%path%]'>
+</form>
+
+<form name='url_submit' action='[% action_url %]' method='POST'>
+<table cellspacing="0" cellpadding="0" width="600">
+	<tr>
+		<td class='hgtab_form'>
+		<table cellspacing="0" cellpadding="0" width="100%"> <tr> <td style='background-color:#FFFFFF;'>
+		<table cellspacing="2" cellpadding="0" width="100%">
+			<tr>
+				<td width='10%' align='left' valign='top' class='formcaption'>
+				&nbsp; &nbsp; URL *</td>
+		              	<td width='90%' valign='center' align='left' class='formfield'>
+                                <div class="input-group">
+		                <input type='text' size='70' name='url' id='url' value='[% exampleURL %]' class='form-control'> 
+                                      <span class="input-group-btn">
+                                              <button class="btn btn-default" type="submit">Go!</button>
+                                      /span>
+		          	<!-- <input type='submit' name='submit' value='Submit ' class='hgbutton' onmouseover="this.className='hgbutton btnhov'" onmouseout="this.className='hgbutton'">-->
+                                </div>
+		          	</td>
+		       </tr>
+		</table>
+		</td> </tr> </table>
+		</td>
+	</tr>
+</table>
+</form>
+
+<br><br>
+<table align="center" cellpadding="0" cellspacing="0" width="100%">
+<tr><td>
+
+<OL class="instr">
+    <LI> Choose glossary from drop-down box
+    <LI> Paste URL into submit form
+    <LI> Click submit
+</OL>
+
+</td></tr>
+</table>
+</div>

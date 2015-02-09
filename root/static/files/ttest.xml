@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:dictionary xmlns:ns1="???" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ns1:entry term="proton">
+		<ns1:definition>positive</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="neutron">
+		<ns1:definition>neutral</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="electron">
+		<ns1:definition>negative</ns1:definition>
+	</ns1:entry>
+</ns1:dictionary>

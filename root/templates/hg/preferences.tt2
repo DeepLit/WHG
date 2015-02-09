@@ -1,0 +1,49 @@
+[% META title = 'User Preferences' %]
+<form name='preferences' action='[% action_url %]' method='POST'>
+<table cellspacing="0" cellpadding="0" width="600">
+	<tr>
+		<td class='hgtab_form'>
+		<table cellspacing="0" cellpadding="0" width="100%"> <tr> <td style='background-color:#FFFFFF;'>
+		<table cellspacing="2" cellpadding="0" width="100%">
+			<tr>
+				<td width='30%' align='left' valign='top' class='formcaption'>
+				&nbsp;&nbsp;Category </td>
+		              	<td width='70%' align='left' class='formfield'>
+		                <select style='width:200;' name='category' id='category'> 
+				[% category_options %]
+		                </select>
+		        	</td>
+		      	</tr>
+		       	<tr>
+		            	<td width='30%' align='left' valign='top' class='formcaption'>
+		            	&nbsp;&nbsp;Preferred definition type</td>
+		            	<td width='70%' align='left' class='formfield'>
+		                <select style='width:200;' name='definition_type' id='definition_type'> 
+				[% definition_type_options %]
+		                </select>
+		              	</td>
+		       	</tr>
+		       	<tr>
+		          	<td width='30%' align='left' valign='top' class='formcaption'>
+		          	&nbsp;&nbsp;Language</td>
+		          	<td width='70%' align='left' class='formfield'>
+		                <select style='width:200;' name='language' id='language'> 
+				[% language_options %]
+		                </select>
+		            	</td>
+		
+		       	</tr>
+		       	<tr>
+		          	<td width='30%' align='left' valign='top' class='formfield'> &nbsp;</td>
+		          	<td width='70%' align='left' class='formfield'>
+		                <input type='submit' name='save' value=' Save ' class='hgbutton' onmouseover="this.className='hgbutton btnhov'" onmouseout="this.className='hgbutton'">
+		          	<input type='submit' name='cancel' value=' Cancel ' class='hgbutton' onmouseover="this.className='hgbutton btnhov'" onmouseout="this.className='hgbutton'">
+		          	</td>
+		       	</tr>
+		</table>
+		</td> </tr> </table>
+		</td>
+	</tr>
+</table>
+</form>
+

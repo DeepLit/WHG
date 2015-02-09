@@ -1,0 +1,9 @@
+[% META title = 'User log in' %]
+
+<form class="forn-signin" role="form" name='login' action="[% action %]" method='POST'>
+       <h2 class="form-signin-heading">Please sign in</h2>
+	      <input type='text' class="form-control" placeholder="UserName" required autofocus size='20' id='username' name='username' value='[% username %]'>
+	      <input type='password' class="form-control" placeholder="Password" required size='20' id='pass' name='pass'>
+	      <input type='submit' class="btn btn-lg btn-primary btn-block" value='Submit'>
+</form>
+

@@ -1,0 +1,14 @@
+
+<div class="col-md-6 col-md-offset-3">
+[% META title = 'All users' %]
+[% IF Catalyst.check_user_roles('can_add_user') %] <A class="button" href="/usermgt/add"><span>Add User</span></A><br>[% END %]
+<form name='status_form' method = "POST">
+<p>Showing: 
+<SELECT name='status' onchange='this.form.submit()'>
+  <OPTION value = 'active' [% active_selected %]>Active</OPTION>
+  <OPTION value = 'inactive' [% inactive_selected %] >Inactive</OPTION>
+</SELECT>
+users </p>
+</form>
+[% list %]
+</div>

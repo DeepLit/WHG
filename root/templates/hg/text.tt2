@@ -1,0 +1,50 @@
+<div class="col-md-6 col-md-offset-3">
+<h2>[% META title = 'Submit Text' %]</h2>
+<form name='gloss_form' action='[% set_cat_url %]' method='POST'>
+<table cellspacing="0" cellpadding="0" width="600">
+	<tr>
+		<td class='hgtab_form'>
+		<table cellspacing="2" cellpadding="0" width="100%">
+			<tr>
+				<td width='10%' align='left' valign='center'>
+				&nbsp;Glossary </td>
+		              	<td width='90%' valign='center' align='left' class='formfield'>
+		                <select style='width:200;font-size:12' name='category' id='category' onchange='this.form.submit()'> 
+				[% category_options %]
+		                </select>
+		          	</td>
+		       </tr>
+		</td> </tr> </table>
+		</td>
+	</tr>
+</table>
+<input type='hidden' name='path' value='[%path%]'>
+</form>
+
+<script type="text/javascript">
+tinyMCE.init({
+	mode : "textareas",
+	theme : "simple",
+	theme_advanced_toolbar_location : "top",
+	theme_advanced_toolbar_align : "left",
+	readonly : false
+});
+</script>
+
+<form name='text_submit' action='[% action_url %]' method='POST'>
+	<textarea name="editor" style="width:100%"></textarea>
+	<input type='submit' value='submit' class='hgbutton' onmouseover="this.className='hgbutton btnhov'" onmouseout="this.className='hgbutton'">
+</form>
+<br><br>
+<table align="center" cellpadding="0" cellspacing="0" width="100%">
+<tr><td>
+
+<OL class="instr">
+        <LI> Choose glossary from drop-down box</li>
+        <LI> Paste text into submit form</li>
+        <LI> Click submit</li>
+</OL>
+
+</td></tr>
+</table>
+</div>

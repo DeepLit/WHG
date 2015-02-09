@@ -1,0 +1,26 @@
+[% META title = 'User log in' %]
+
+<form class="forn-signin" role="form" name='login' action="[% action %]" method='POST'>
+       <h2 class="form-signin-heading">Please sign in</h2>
+  <table width='240' name='login' border='0' cellpadding='2' cellspacing='0'>
+    <tr>
+      <td width='100%'>
+	   <table width='100%'>
+	    <tr>
+	      <td width='35%' class='formcaption'>Username</td>
+	      <td width='65%'  class='formfield'><input type='text' class="form-control" placeholder="UserName" required autofocus size='20' id='username' name='username' value='[% username %]'></td>
+	    </tr>
+	    <tr>
+	      <td width='35%' class='formcaption'>Password</td>
+	      <td width='65%'  class='formfield'><input type='password' class="form-control" placeholder="Password" required size='20' id='pass' name='pass'></td>
+	    </tr>
+	    <tr>
+	      <td width='35%' class='formfield'> &nbsp; </td>
+	      <td width='65%'  class='formfield'><input type='submit' class="btn btn-lg btn-primary btn-block" onmouseover="this.className='hgbutton btnhov'" onmouseout="this.className='hgbutton'" value='Submit' id='login' name='login'></td>
+	    </tr>
+	  </table>
+	</td>
+    </tr> 
+  </table>
+</form>
+

@@ -1,0 +1,16 @@
+[% META nowrap = 1 %]
+
+<head>
+  <title>Simple example</title>
+    <script src="[% Catalyst.config.rootURL %]static/js/jmol/Jmol.js" type="text/javascript"></script>
+</head>
+
+<body>
+ <form>
+    <script type="text/javascript">
+      jmolInitialize("[% Catalyst.config.rootURL %]static/js/jmol"); //    Use your own path here {#2}
+      jmolSetCallback("UseCommandThread","true");
+      jmolApplet(400, "load [% jmolFile %]");  
+    </script>
+  </form>
+</body>

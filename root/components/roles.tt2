@@ -1,0 +1,13 @@
+<div class="roles">
+<form action="[% Catalyst.uri_for(Catalyst.controller('UserMgt').action_for('set_roles'),{user_id=>user.user_id}) %]" method="post">
+	<select name="role" size="5" multiple="multiple">
+		[% WHILE (role=roles_rs.next) %]
+			<option value="[% role.role_id %]" [% IF user.has_role(role) %] selected="selected" [% END %]>
+				[% role.role %]
+			</option>
+		[% END %]
+	</select>
+	
+	<tr><td><input type="submit" value="Set"/></td></tr>
+</form>
+</div>

@@ -1,0 +1,6 @@
+$VAR1 = {
+  'Definition' => ' A symbol used to denote unknown configuration at a <a href="http://goldbook.iupac.org/C01057.html" class="internal-link">chiral</A> centre. Source: <a href="http://goldbook.iupac.org/src_PAC198456595.html"> PAC, 1984, 56, 595</A> (Nomenclature and symbolism for amino acids and peptides (Recommendations 1983)) on page 601'
+};
+$VAR2 = {
+  'Additional Information' => undef
+};

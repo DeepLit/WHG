@@ -1,0 +1,32 @@
+[% META title = 'Requst Account' %]
+<!-- [% IF err %][% err %][% END %] -->
+<table width='800'>
+<form action="[% Catalyst.config.rootURL %][%Catalyst.controller('Auth').action_for('email_request')%]" method="post">
+        <tr>
+                <td width='25%' valign='top' class='formcaption'><label for="first_name"> First Name </label><td>
+                <td valign='top' class='formfield'><input type = "text" name="first_name" id="first_name"/></td>
+                
+        </tr>
+
+        
+        <tr>
+                <td width='25%' valign='top' class='formcaption'><label for="last_name"> Last Name </label><td>
+                <td valign='top' class='formfield'><input type = "text" name="last_name" id="last_name"/></td>
+                
+        </tr>
+        
+        <tr>
+                <td width='25%' valign='top' class='formcaption'><label for="email"> Email </label><td>
+                <td valign='top' class='formfield'><input type = "text" name="email" id="email"/></td>
+                
+        </tr>
+        
+        <tr>
+                <td width='25%' valign='top' class='formcaption'><label for="affiliation"> Affiliation </label><td>
+
+                <td valign='top' class='formfield'><input type = "text" name="affiliation" id="affiliation"/></td>
+                
+        </tr>
+	<tr><td><input type="submit" value="Request"/></td></tr>
+</form>
+</table>

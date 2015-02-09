@@ -1,0 +1,4 @@
+<A class="button" href="[% Catalyst.config.rootURL %][%Catalyst.controller('Hg').action_for('export_page')%]
+"><span>Export Page</span></A><br>
+<input type="checkbox" name="JAS_toggle" id="JAS_toggle" value="1" /> Turn on JAS
+[% body %]

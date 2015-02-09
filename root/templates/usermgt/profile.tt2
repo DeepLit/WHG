@@ -1,0 +1,19 @@
+<h1>Profile of [% user.user_name %]</h1>
+<table width='800'>
+	[%#Simple column set%]
+	[% FOREACH col = users_rs.result_source.columns %]
+        <tr>            
+	                <td width='25%' valign='top' class='formcaption'><span>[% col %]</span></td>
+			<td valign='top' class='formfield'><span>[% user.$col %]</span></td>
+	</tr>
+	[% END %]
+</table>
+
+<hr/>
+[% IF Catalyst.user.id == user.user_id;
+
+   PROCESS "edit_user.tt2";
+   END;
+%]
+  
+   [% PROCESS "roles.tt2" %]

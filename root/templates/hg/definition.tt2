@@ -1,0 +1,12 @@
+[% META nowrap = 1 %]
+[% META title = 'Definition' %]
+<table>		       
+	<tr>
+	<td width='30%' align='left' valign='top' class='formcaption'>
+		            	&nbsp;&nbsp;[% term %]</td>
+		            	<td width='70%' align='left' class='formfield'>
+				[% definition %]
+		              	</td>
+	</tr>
+</table>
+

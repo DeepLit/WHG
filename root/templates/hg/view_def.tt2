@@ -1,0 +1,27 @@
+[% META title = 'View Definition' %]
+<table cellspacing="1" cellpadding="0" width="600">
+  <tr>
+    <td class="head" valign="top" class="formcaption"> Word</td>
+    <td class="head" valign="top" class="formfield" colspan="2"> Definition </td>
+  </tr>
+  <tr>
+    <td valign="top" class="formcaption"> [% term%] </td>
+    <td valign="top" width="5" class="spacer"> &nbsp; </td>
+    <td valign="top" class="formfield"> [% definition %] </td>
+  </tr>
+</table>
+
+<form name='compare' action='[% action_url %]' method='POST'>
+<table cellspacing="0" cellpadding="0" width="600">
+			<tr><td>&nbsp</td><td>&nbsp</td></tr>
+			<tr>
+				<td>
+				&nbsp; &nbsp;  Versions </td>
+		              	<td>
+		                [% versionSelect %] 
+				<input type='hidden' name='word' id='word' value='[% term %]'>
+		          	<input type='submit' name='view' value='View ' class='hgbutton' onmouseover="this.className='hgbutton btnhov'" onmouseout="this.className='hgbutton'">
+		          	</td>
+		       </tr>
+</table>
+</form>

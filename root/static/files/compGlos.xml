@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:dictionary xmlns:ns1="???" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ns1:entry term="Asynchronous Transfer Mode">
+		<ns1:definition>Whenever a data transfer is made,a route is created between two points, which facilitates the transaction, this is called the ATM. ATM equipment is created in such a way that large amounts of data can be transmitted over a single connection while taking care that every transmission does not take up too much space while being passed through the network or modem connection.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Accelerated Graphics Port/Advanced Graphics Port">
+		<ns1:definition>This is a graphics card extension port used to attach a graphics card to a computer's motherboard. AGP ports run at 66 MHz and can transfer data up to 2133 MB/sec. An AGP is used with games and applications to store and retrieve larger and better 3D shapes and textures.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Beginners' All-purpose Symbolic Instruction Code">
+		<ns1:definition>BASIC is a high-level programming language which was developed in the mid 1960's and was easy to understand and simple to use. Numbers were originally used at the beginning of each instruction to tell the computer the order in which to process the instruction."Loops" are now used to provide instructions.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Gnutella">
+		<ns1:definition>Gnutella is derived from two words, The first is GNU,General Public License and the second part from comes from Nutella, a chocolate hazelnut spread. Gnutella is a Peer to peer network(P2P).In other words it is a network which allows its users to share files. To do this each user needs to be connected to an "ultrapeer,"which is a server in which files are shared by the users who are connected.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Java Runtime Environment">
+		<ns1:definition>Also known as J2RE, this is a software bundle created by Sun Microsystems. Using this software allows a computer system to run a Java application,which is necessary to view many Internet pages.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Logic Gate">
+		<ns1:definition>This is a type of circuit that regulates the flow of electricity that determines the computers use to make complex logical decisions. Microprocessors, have millions of Logic gates while other circuits may only have a few. Highly complex operations can be made successful by combining thousands or millions of logic gates.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="LAPP">
+		<ns1:definition>LAPP is a combination of Linux, Apache,PostGreSQL and Perl and is an open source Web development platform. Linux is used as the operating system, Apache, the web server,PostGreSQL as the relational database management system and PHP as the object-oriented scripting language.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Modem">
+		<ns1:definition>A communication device which allows one computer to connect with another and transfer data over telephone lines is called a modem. A modem can be either external or internal to the computer.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Nybble">
+		<ns1:definition>Half of one byte,which equals to a set of four bits,make up a nybble. Sometimes the nybble is also known as a hexadecimal digit or "hex digit."</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Object Linking and Embedding">
+		<ns1:definition>OLE is used to refer to a compound document standard developed by Microsoft Corporation which enables the user to create objects using one application and linking or embedding them using the next. The objects that are embedded retain their original format.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Post Office Protocol">
+		<ns1:definition>A method of delivering e-mails,which is simple and standardized is called POP3. E-mails are received by the POP3 mail server whose task it is to filter them into the appropriate user folders. Messages are downloaded from the mail server to the user's hard disk whenever a user connects to the mail server to check his mail.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="UML">
+		<ns1:definition>UML is a programming language used for visualizing, specifying and documenting the artifacts of software systems. UML uses blueprints to simplify the complex designing process.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="WAN">
+		<ns1:definition>Computer networks that are connected together over long distances using telephone lines, fiber-optic cables or satellite links are called WAN's</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Winsock">
+		<ns1:definition>Winsock is an application Programming Interface which is used for developing Windows programs. These programs can communicate using the TCP/IP protocol.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Yottabyte">
+		<ns1:definition>The largest unit of measurement used for computer data is the yottabyte, it consists of 1,024 zettabytes.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Zebibyte">
+		<ns1:definition>A unit of data storage which equals to 2 to the 70th power is called a zebibyte. It is equal to 1,024 exbibytes.</ns1:definition>
+	</ns1:entry>
+	<ns1:entry term="Zip">
+		<ns1:definition>This term is used for a file format which is used to compress or zip files. This is done in order to reduce storage space and time taken to transfer a file.</ns1:definition>
+	</ns1:entry>
+</ns1:dictionary>

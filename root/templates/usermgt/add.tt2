@@ -1,0 +1,17 @@
+[% META title = 'New user' %]
+<!-- [% IF err %][% err %][% END %] -->
+<table width='800'>
+<form action="[% Catalyst.config.rootURL %][%Catalyst.controller('UserMgt').action_for('add')%]" method="post">
+	[%#Simple column set%]
+	[% FOREACH col IN columns %]
+	<tr>
+		<td width='25%' valign='top' class='formcaption'><label for="[% col.id %]"> [% col.name %] </label><td>
+		<td valign='top' class='formfield'><input type = "text" name="[% col.id %]" id="[% col.id %]"/></td>
+		[% IF errors.$col %]
+		   <span style="color: red;">[% errors.$col %]</span>
+		[% END %]
+	</tr>
+	[% END %]
+	<tr><td><input type="submit" value="Create"/></td></tr>
+</form>
+</table>

@@ -1,0 +1,7 @@
+<!-- BEGIN site/default/footer -->
+<img class="nsflogo" src="[%Catalyst.config.rootURL%]static/images/nsf1.gif" alt="NSF LOGO" width="38" height="38"/> 
+<div id="footerText">
+	<div id="copyright">&copy; [% site.copyright %]</div>
+	<h5>This work is supported by the NSF Division of Undergraduate Education Award number 0840830</h5>
+</div>
+<!-- END site/default/footer -->

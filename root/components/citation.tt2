@@ -1,0 +1,6 @@
+<table bgcolor='[% bgcolor %]' width='100%' align='center'>
+      <tr>
+          <td rowspan='2' align='center'>[% IF iconImage %]<img src="[%Catalyst.config.rootURL%]static/images/[% iconImage %]" alt="LOGO" width="60" height="60">[% END %]</td>
+          <td colspan='2' align='center'> <font color='[% fgcolor %]' FACE="Engravers MT" SIZE="3" >[% citation %]</font><td>
+      </tr>
+</table>

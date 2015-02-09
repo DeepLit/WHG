@@ -1,0 +1,11 @@
+<!-- BEGIN site/default/header -->
+<div class="left"><h1 class="title">[% site.title %]</h1></div>
+<div class="right"><h3 class="user">[% username %]</h3>
+	[% IF Catalyst.user_exists() %]
+		<h4 class="user"><a href="[% Catalyst.config.rootURL %]auth/logout">Logout</a></h4>
+	[% ELSE %]
+		<h4 class="user"><a href="[% Catalyst.config.rootURL %]auth/login">Login</a> | <a href="[% Catalyst.config.rootURL %]auth/request_account">Request Account</a></h4>
+	[% END %]
+</div>
+<div class="spacer">&nbsp;</div>
+<!-- END site/default/header -->

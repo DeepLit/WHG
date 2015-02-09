@@ -1,0 +1,29 @@
+[% META title = 'User log in' %]
+
+[% IF ! Catalyst.user_exists %]
+<form name='login' action="[% Catalyst.config.rootURL %]auth/login" method='POST'>
+  <table width='240' name='login' border='0' cellpadding='2' cellspacing='0'>
+    <tr>
+      <td width='100%'>
+	   <table width='100%'>
+	    <tr>
+	      <td width='35%' class='formcaption'>Username</td>
+	      <td width='65%'  class='formfield'><input type='text' size='20' id='username' name='username'></td>
+	    </tr>
+	    <tr>
+	      <td width='35%' class='formcaption'>Password</td>
+	      <td width='65%'  class='formfield'><input type='password' size='20' id='userpass' name='userpass'></td>
+	    </tr>
+	    <tr>
+	      <td width='35%' class='formfield'> &nbsp; </td>
+	      <td width='65%'  class='formfield'><input type='submit' class='hgbutton' onmouseover="this.className='hgbutton btnhov'" onmouseout="this.className='hgbutton'" value="Login &rarr;"></td>
+	    </tr>
+	  </table>
+	</td>
+    </tr> 
+  </table>
+</form>
+[% ELSE %]
+<p>You are already Logged in.</p>
+[% END %]
+<h1>[% message %]</h1>

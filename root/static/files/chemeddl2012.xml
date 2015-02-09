@@ -1,0 +1,2815 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary>
+	<entry term="zero-order reaction">
+		<definition>A reaction for which the rate of reaction is independent of the concentration of reactants.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="absolute zero">
+		<definition>The minimum possible temperature: 0 K, -273.15 °C, -459.67 °F.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="absorbance">
+		<definition>A measure of the quantity of light that does not pass through a sample. Absorbance is the negative lograrithm of the transmittance. Transmittance is the fraction of incident light that passes through a sample. In the visible region of the spectrum, absorbance occurs when a material uses the energy from light to change the energy level of the material's electrons. Because different materials have different electronic energy states, they absorb light of different wavelengths.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="absorption">
+		<definition>Permeation of a solid by a gas or liquid, or permeation of a liquid by a gas. Absorption differs from adsorption in that the substance absorbed is found throughout the absorbent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="absorption spectrum">
+		<definition>The quantity of light a sample absorbs (its absorbance) plotted as a function of wavelength, frequency, or energy. An absorption spectrum of a substance often can help to identify the substance.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="accuracy">
+		<definition>The extent to which an experimental value agrees with true value for a quantity.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="acid">
+		<definition>In Arrhenius theory, a substance that produces hydrogen ions (hydronium ions) in aqueous solution. In Bronsted-Lowry theory, a hydrogen-ion (proton) donor. In Lewis theory, a species that accepts a pair of electrons to form a covalent bond.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="acid ionization constant">
+		<definition>The equilibrium constant for the ionization of a weak acid to form its conjugate base and hydrogen (hydronium) ions. Also called acid dissociation constant.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="acid rain">
+		<definition>Rain with pH less than 5.6 (the pH of unpolluted rainwater). Acid rain is caused by sulfur and nitrogen oxides formed by combustion of fossil fuels.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="acid precipitation">
+		<definition>Any form of precipitation from the atmosphere (rain, snow, frost, etc.) that produces water with a pH below 5.6. Usually the acidity comes from sulfur and nitrogen oxides formed by combustion of fossil fuels.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="acid-base indicator">
+		<definition>A substance that changes color depending on the concentration of hydrogen ions (hydronium ions) in solution. An acid-base indicator is an acid (or a base) whose color is different when protonated from the color when not protonated.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="acidic anhydride">
+		<definition>A substance (often a non-metal oxide) that reacts with water to form an acid. Also called acid anhydride.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="actinide">
+		<definition>An element in the periodic table from actinium (atomic number 89) to lawrencium (atomic number 103); also called actinoid. Sometimes actinium itself is not included in this series; sometimes lawrencium is not.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="actinoid">
+		<definition>An element in the periodic table from actinium (atomic number 89) to lawrencium (atomic number 103); also called actinide. Sometimes actinium itself is not included in this series; sometimes lawrencium is not.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="activated complex">
+		<definition>In the mechanism of a reaction, a species that lies at an energy peak and that can change either into products or into reactants; also called a transition state.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="activation energy">
+		<definition>The energy barrier over which a reaction must progress in order for reactants to form products; the minimum energy that reactants must have if they are to be converted to products.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="active metal">
+		<definition>A highly reactive metal, usually an element in the first or second column of the periodic table.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="active site">
+		<definition>The location where catalysis occurs in an enzyme or other catalyst.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="activity series">
+		<definition>A sequence of species arranged according to their reactivity; often used to describe metals and the ease with which they can be oxidized.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="actual yield">
+		<definition>The quantity of a product found to be formed in a chemical reaction (distinguished from theoretical yield).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="acyl group">
+		<definition>The functional group RC(=O)-, formally derived from a carboxylic acid by the removal of the hydroxyl group.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="addition polymer">
+		<definition>The kind of polymer that is formed by the combination of monomers without the release of a small molecule at each point where monomers are joined.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="addition reaction">
+		<definition>A reaction in which two moleular-scale species combine to form a single molecular-scale species (distinguished from a substitution reaction).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="adduct">
+		<definition>A species formed by the union of two molecular-scale species held together by a coordinate covalent bond.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="adhesive force">
+		<definition>An intermolecular force between unlike molecules, usually occurring where two phases meet.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="adsorption">
+		<definition>Formation of a layer of gas, liquid, or solid on the surface of a solid; the adsorbed substance is held by either covalent bonds or by non-covalent (intermolecular) forces. Adsorption differ from absorption in that the adsorbed substance is on the surface only.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alcohol">
+		<definition>An organic compound containing the functional group -OH.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="aldehyde">
+		<definition>An organic compound containing the functional group -CHO.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alicyclic">
+		<definition>An aliphatic compound containing one or more rings of carbon atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="aliphatic">
+		<definition>A hydrocarbon whose molecules contain no aromatic rings; for example, an alkane, alkene, or alkyne.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alkali">
+		<definition>Any substance in aqueous solution that is bitter, irritating to the skin, and has a pH value greater than 7.0.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alkali metal">
+		<definition>One of the metals appearing in the first column of the periodic table.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alkaline earth">
+		<definition>One of the metals appearing in the second column of the periodic table.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alkaloid">
+		<definition>A naturally occurring organic base containing nitrogen.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alkane">
+		<definition>A hydrocarbon containing only single bonds between carbon atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alkene">
+		<definition>A hydrocarbon containing one or more double bonds between carbon atoms. Also called olefin.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alkyl group">
+		<definition>A functional group formally derived from an alkane by the removal of a hydrogen atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alkyne">
+		<definition>A hydrocarbon containing one or more triple bonds between carbon atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="allotrope">
+		<definition>One of two or more different structural forms for an element that exist in the same physical state at the same temperature and pressure.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alloy">
+		<definition>A solid that has metallic properties and is made up of two or more elements.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="alpha particle">
+		<definition>A species consisting of two protons and two neutrons and formed by radioactive decay or nuclear bombardment; identical in composition to the nucleus of a helium-4 atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="amalgam">
+		<definition>An alloy (metallic solution) containing mercury.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="amide">
+		<definition>An organic compound formally derived from a carboxylic acid by the replacement of the hydroxyl group by -NH2, -NHR, or -NR2.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="amide linkage">
+		<definition>A chemical bond linkage formed when a carboxylic acid reacts with an amine, often found in polymers such as nylon and proteins; in proteins also called a peptide bond.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="amine">
+		<definition>An organic compound formally derived from ammonia by the replacement of one or more hydrogen atoms by alkyl groups. Examples are primary amine: RNH2; secondary amine: R2NH; tertiary amine: R3N.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="amino acid">
+		<definition>A carboxylic acid containing an amino group (-NH2). In an alpha amino acid, the amino group is attached to the carbon atom adjacent to the carboxyl group.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="amino group">
+		<definition>The functional group of a nitrogen atom bonded to two hydrogen atoms, -NH2; found in amines and amino acids.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="amorphous">
+		<definition>A solid in which the constituent atoms, molecules, or ions have no long-range repeating structure.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="amphiprotic">
+		<definition>A molecule or ion that can both gain a proton and lose a proton; that is, a species that can serve as either an Bronsted-Lowry acid or a Bronsted-Lowry base.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="amphoteric">
+		<definition>A substance that can behave as either an acid or a base. Examples are aluminum metal, aluminum hydroxide, and zinc hydroxide.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="amu">
+		<definition>Abbreviation for atomic mass unit, a unit for expressing the relative masses of atoms. An atom of carbon-12 has a mass of 12 amu. 1 amu corresponds to 1.662x10-24 g.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="angstrom">
+		<definition>A unit of length equal to 100 pm or 10-10 m.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="anhydride">
+		<definition>A substance that reacts with water to form an acid or a base. A substance from which water has been removed.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="anhydrous">
+		<definition>Free of water. Often used to describe a solid having no water of crystallization or a solvent from which traces of water have been removed.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="anion">
+		<definition>A negatively charged ion. An ion that is attracted toward the anode in an electrolytic cell.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="anode">
+		<definition>The electrode in an electrochemical cell where oxidation occurs. The positively charged electrode in a vacuum tube.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="anodizing">
+		<definition>The electrolytic deposition of a metal oxide film to serve as a protective or decorative layer; the object to be coated is made the anode in an electrolytic cell and its surface is oxidized.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="antibonding molecular orbital">
+		<definition>An orbital formed by the overlap of out-of-phase orbitals from two different atoms; higher in energy than the corresponding bonding molecular orbital.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="aqueous">
+		<definition>Describing a solution in which the solvent is water.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="aromatic">
+		<definition>Referring to a hydrocarbon containing benzene-like rings and exhibiting characteristic stability and patterns of reactivity.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Arrhenius acid">
+		<definition>A substance that increases the concentration of hydrogen (hydronium) ions in aqueous solution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Arrhenius acid-base theory">
+		<definition>The idea that in aqueous solution acids ionize to produce hydrogen ions and bases ionize to produce hydroxide ions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Arrhenius base">
+		<definition>A substance that increases the concentration of hydroxide ions in aqueous solution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Arrhenius equation">
+		<definition>An equation that expresses the logarithmic relationship between the rate constant of a reaction and the reciprocal of the absolute temperature; ln k = exp(Ea/RT).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atactic">
+		<definition>Having no regularly repeating structural units; said of a polymer.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atm">
+		<definition>Abbreviation for atmosphere, a unit of pressure equal to 101.325 kPa or 760 mmHg.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atmosphere">
+		<definition>A unit of pressure equal to 101.325 kPa or 760 mmHg; abbreviated atm. Also, the mixture of gases surrounding the earth.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atom">
+		<definition>The smallest particle of an element that can be involved in chemical combination with another element; an atom consists of protons and neutrons in a tiny, very dense nucleus, surrounded by electrons, which occupy most of its volume.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atomic force microscope">
+		<definition>A type of microscope in which a tiny diamond-chip probe is held on a cantilever in contact with a sample's surface; the probe is scanned slowly across the surface and the force between probe and surfaces is measured and kept constant by adjusting the height of the probe tip. Gives a picture of the surface with molecular-scale resolution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atomic mass">
+		<definition>The average mass of the naturally occurring isotopes of an element, taking into account the different natural abundances of the isotopes. Expressed relative to the value of exactly 12 for carbon-12; also called atomic weight.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atomic mass unit">
+		<definition>A unit for expressing the relative masses of atoms; abbreviated amu. An atom of carbon-12 has a mass of 12 amu. 1 amu corresponds to 1.662x10-24 g.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atomic number">
+		<definition>The number of protons in the nucleus of an atom; used to define the position of an element in the periodic table; represented by the letter Z.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atomic orbital">
+		<definition>A mathematical function from which electron density around an atom can be calculated. A region in an atom within which there is a high probability that a particular electron will be found.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atomic spectrum">
+		<definition>The quantity of light absorbed or emitted from a sample containing atoms measured as a function of wavelength, frequency, or energy. An atomic spectrum can be used to identify an element, even in a distant star.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="atomic weight">
+		<definition>The average mass of the naturally occurring isotopes of an element, taking into account the different natural abundances of the isotopes. Expressed relative to the value of exactly 12 for carbon-12; also called atomic mass.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="aufbau">
+		<definition>A scheme for accounting for the electron configurations of elements in which the electron configuration of one element is determined by adding one electron to the electron configuration of the previous element in the periodic table.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="autoionization">
+		<definition>The ionization of the molecules of a solvent; for example, water autoionizes to form hydrogen (hydronium) and hydroxide ions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Avogadro's hypothesis">
+		<definition>The idea that equal volumes of two gases at the same temperature and pressure contain equal numbers of molecules.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Avogadro's constant">
+		<definition>The number of atoms, molecules, ions, or other species per mole, defined by the number of carbon atoms in 12 g of carbon-12 and numerically equal to 6.0220 x 1023 mol-1.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Avogadro's number">
+		<definition>The number of units in a mole of substance, defined by the number of carbon atoms in exactly 12 g of carbon-12 and numerically equal to 6.0220 x 1023.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="axial">
+		<definition>Oriented along an axis; in a trigonal bipyramidal structure, lying above or below the trigonal plane; in chair cyclohexane, bonds perpendicular to the rough plane of the carbon atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="azeotrope">
+		<definition>A solution of two more substances, usually liquids, that remains unchanged in composition as it boils because the vapor has the same composition as the liquid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="balanced equation">
+		<definition>A representation of a chemical reaction that has values of the stoichiometric coefficients of reactants and products such that the number of atoms of each element is the same before and after the reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="balancing an equation">
+		<definition>Determining those values of the stoichiometric coefficients of reactants and products in a chemical equation that make the number of atoms of each element the same before and after the reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="band theory">
+		<definition>A description of the electronic structure in metals and semiconductors using molecular orbital theory. In an energy band, there are a great many molecular orbitals and the differences between their energies are very small so that a continuous band of energies is possible.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="barometer">
+		<definition>A device for measuring the pressure of the atmosphere.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="base">
+		<definition>In Arrhenius theory, a substance that increases the concentration of hydroxide ions in an aqueous solution. In Bronsted-Lowry theory, a hydrogen-ion (proton) acceptor. In Lewis theory, a species that donates a pair of electrons to form a covalent bond.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="base ionization constant">
+		<definition>The equilibrium constant for the ionization of a weak base to form its conjugate acid and hydroxide ions. Also called base dissociation constant.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="basic anhydride">
+		<definition>A species (often a metal oxide) that reacts with water to form a base. Also called base anhydride.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="battery">
+		<definition>A series of voltaic cells connected together, used to produce electricity. Also, a single voltaic cell for commercial use.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bcc">
+		<definition>Abbreviation for body-centered cubic; a crystal lattice structure whose cubic unit cell has one atom in the center and one atom at each corner (only 1/8 of each corner atom is within the unit cell).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="becquerel">
+		<definition>The SI unit of radioactive disintegration; one disintegration per second; abbreviated Bq.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="beta particle">
+		<definition>A particle equivalent to an electron formed by radioactive decay or nuclear bombardment.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bidentate">
+		<definition>Referring to a ligand for which two separate atoms form coordinate covalent bonds to a central metal ion or atom in a coordination complex.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bimolecular process">
+		<definition>In a reaction mechanism, an elementary step in which two atoms, molecules, or ions must collide in order for a reaction to occur.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="binary acid">
+		<definition>An acid that contains hydrogen and only one other element.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="binary compound">
+		<definition>A compound containing two elements.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="binding energy">
+		<definition>The energy released as particles are brought together to form an atomic nucleus; also called nuclear binding energy.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="body-centered cubic">
+		<definition>A crystal lattice structure whose cubic unit cell has one atom in the center and one atom at each corner (only 1/8 of each corner atom is within the unit cell); abbreviated bcc.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="boiling">
+		<definition>The process of a liquid becoming vapor in which bubbles of vapor form beneath the surface of the liquid; at the boiling temperature the vapor pressure of the liquid equals the pressure of the gas in contact with the liquid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="boiling point">
+		<definition>The temperature at which the vapor pressure of a liquid equals the pressure of the gas in contact with the liquid; usually this is atmospheric pressure.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="boiling point elevation">
+		<definition>The increase in the boiling point of a liquid as a result of the presence of a solute. Boiling-point elevation is proportional to the concentation of solute particles.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bomb calorimeter">
+		<definition>A sturdy, rigid container (bomb) and associated device for measuring the heat energy transferred out of or into a chemical system in which a reaction occurs; the sturdy bomb maintains constant volume.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bond angle">
+		<definition>The angle formed by lines drawn between the centers of atomic nuclei for two atoms joined by bonds to a third atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bond dissociation energy">
+		<definition>The change in energy when a mole of chemical bonds are broken; the molecules whose bonds are broken must be in the gas phase.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bond energy">
+		<definition>The change in energy when a mole of chemical bonds of a particular type are broken; the molecules whose bonds are broken must be in the gas phase. Closely related to bond enthalpy.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bond enthalpy">
+		<definition>The change in enthalpy when a mole of chemical bonds of a particular type are broken; the molecules whose bonds are broken must be in the gas phase. Closely related to bond energy.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bond length">
+		<definition>The distance between the nuclei of two bonded atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bond order">
+		<definition>An indication of the bond strength expressed in terms of molecular orbital theory; half the difference between the number of electrons in antibonding molecular orbitals and the number of electrons in bonding molecular orbitals. A single bond has a bond order of one; a double bond, two; and a triple bond three.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bonding molecular orbital">
+		<definition>An orbital formed by the overlap of atomic orbitals that are in phase and therefore reinforce each other; lower in energy than an anti-bonding molecular orbital and lower in energy than the average energy of the atomic orbitals from which it is formed.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="bonding pair">
+		<definition>A pair of electrons between atoms joined by a covalent bond.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Born-Haber cycle">
+		<definition>A description of the relationship among the lattice energy, ionization energy, electron affinity, and heats of atomization of ionic compounds; used to calculate any one of these quantities from the others.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Boyle's law">
+		<definition>The statement that the volume of a sample of gas is inversely proportional to the pressure of the gas (at constant temperature and constant amount of gas).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Bq">
+		<definition>Abbreviation for becquerel; the SI unit of radioactive disintegration; one disintegration per second.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="breeder reactor">
+		<definition>A nuclear reactor designed to produce nuclear fuel as it produces energy.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Bronsted-Lowry acid">
+		<definition>A molecule or ion that donates a hydrogen ion (proton) to another molecule or ion.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Bronsted-Lowry acid-base theory">
+		<definition>The idea that acids can be described as proton donors and bases as proton acceptors.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Bronsted-Lowry base">
+		<definition>A molecule or ion that accepts a hydrogen ion (proton) from another ion or molecule.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="buffer">
+		<definition>A solution to which strong acid or strong base can be added without significant change in pH; a solution containing a weak acid and its conjugate base or a weak base and its conjugate acid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="buffer capacity">
+		<definition>The quantity of acid or base that a buffer solution can absorb without significant change in pH.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="buffer solution">
+		<definition>A solution to which strong acid or strong base can be added without significant change in pH; a solution containing a weak acid and its conjugate base or a weak base and its conjugate acid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="by-product">
+		<definition>A product of a chemical reaction other than the intended or desired one(s).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cal">
+		<definition>Abbreviation for calorie, a unit of energy equal to 4.184 J.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Cal">
+		<definition>Abbreviation for Calorie; a nutritional calorie, equal to 1000 cal = 1 kcal; a unit of energy equal to 4184 J.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="calcination">
+		<definition>The heating of a solid below its melting point to decompose it, such as the heating of calcium carbonate to drive off carbon dioxide gas and form solid calcium oxide.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="calorie">
+		<definition>A unit of energy equal to 4.184 J; abbreviated cal.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="calorimeter">
+		<definition>A device for measuring the heat energy transferred into or out of a chemical system during a reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="capillary action">
+		<definition>The spontaneous movement of a liquid into thin tubes (capillary tubes); the extent of capillary action is determined by adhesive forces, cohesive forces, and surface tension.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="carbohydrate">
+		<definition>A compound containing carbon, hydrogen, and oxygen, with twice as many hydrogen atoms as oxygen atoms; examples are sugar and starch.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="carbonyl">
+		<definition>The functional group consisting of a carbon atom doubly bonded to an oxygen atom; found in aldehydes and ketones.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="carboxyl">
+		<definition>The functional group consisting of a carbon atom bonded to a hydroxyl group and doubly bonded to an oxygen atom; found in carboxylic acids: -C(=O)OH.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="carboxylic acid">
+		<definition>An organic compound containing the functional group -C(=O)OH.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="catalysis">
+		<definition>The increase in rate of a reaction due to the presence of a substance that undergoes no net change during the reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="catalyst">
+		<definition>A substance that increases the rate of a chemical reaction but that undergoes no net change during the reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cathode">
+		<definition>The electrode in an electrochemical cell where reduction occurs; the negatively charged electrode in a vacuum tube.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cathode rays">
+		<definition>Electrons emitted from the surface of a cathode in a vacuum tube.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cathodic protection">
+		<definition>The attachment of a more active metal to a less active metal to prevent corrosion. The more active metal serves as the anode, making the less active metal a cathode.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cation">
+		<definition>A positively charged ion, attracted toward the cathode in an electrolytic cell.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ccp">
+		<definition>Abbreviation for cubic closest packed; one of two schemes for closest packing of spheres; described as "abca" to indicate that the atoms of the second and third layers do not lie directly above the atoms of the first layer, but the atoms of the fourth layer are directly above the atoms of the first layer.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cell potential">
+		<definition>The electrical potential difference between two electrodes of an electrochemical cell; the larger the cell potential, the greater the extent of reaction when equilibrium is reached.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Celsius">
+		<definition>The temperature scale defined by the values 0 °C for the freezing point of water and 100 °C for the boiling point of water; a °C is the same size as a kelvin.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="central atom">
+		<definition>In a small molecule or ion, the atom to which the other atoms are bonded. The central atom is surrounded by the other atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="central metal">
+		<definition>The metal ion or atom at the center of a coordination complex to which the ligands are attached.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chain reaction">
+		<definition>A reaction mechanism that contains a sequence of steps in which a product of one step reacts in a second step and a product of the second step is a reactant in the first step; such steps can repeat many times before the chain is broken. Chain reactions often involve free radicals.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chalcogen">
+		<definition>One of the elements in the same column of the periodic table as oxygen.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Charles's law">
+		<definition>The statement that the volume of a sample of gas is directly proportional to the temperature of the gas (at constant pressure and constant amount of gas).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Chelate">
+		<definition>In coordination chemistry, a ligand that can attach to a central metal through two or more coordinate covalent bonds; a complex consisting of at least one such ligand together with a central metal.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chelating agent">
+		<definition>In coordination chemistry, a ligand that can attach to a central metal through two or more coordinate covalent bonds; a molecule or ion that can occupy more than one site in the coordination sphere of a metal ion.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chemical change">
+		<definition>A process in which one or more substances, the reactant or reactants, change into one or more different substances, the products; chemical change involves rearrangement, combination, or separation of atoms. Also referred to as chemical reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chemical compound">
+		<definition>A substance made up of two or more elements and having those elements present in definite proportions; a compound can be decomposed into two or more different substances.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chemical equation">
+		<definition>A representation of a chemical reaction in which chemical symbols represent reactants on the left side and products on the right side.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chemical formula">
+		<definition>A represention of the elemental composition of a substance; subscripts are used to indicate the relative numbers of atoms of each kind of element present.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chemical property">
+		<definition>A characteristic of a material that describes the material's chemical composition or reactions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chemical reaction">
+		<definition>A process in which one or more substances, the reactant or reactants, change into one or more different substances, the products; chemical change involves rearrangement, combination, or separation of atoms. Also called chemical change.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chemical symbol">
+		<definition>A one- or two-letter abbreviation for an individual element.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chiral">
+		<definition>Refers to an ion or molecule that cannot be superimposed on its mirror image.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="chromatography">
+		<definition>The separation of a mixture into its components by taking advantage of each components' different affinities for a stationary phase and a mobile phase.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Ci">
+		<definition>Abbreviation for curie, a unit of radioactive decay; equal to 3.70 x 1010 disintegrations per second.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cis">
+		<definition>Describes the relationship between two atoms or groups of atoms, each attached to one of two doubly bonded carbon atoms and located on the same side of the double bond. Also refers to groups located adjacent to each other in an octahedral or square planar coordination complex.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="codon">
+		<definition>A three-base sequence in a molecule of messenger RNA; a codon contains genetic information that specifies which amino acid will be incorporated into a protein at a specific point.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cohesive force">
+		<definition>An intermolecular force between like molecules, important in the phenomenon of surface tension.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="colligative property">
+		<definition>A characteristic of a solution that depends upon the concentration of atomic-scale particles in the solution, but not on the nature of the particles.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="collision frequency">
+		<definition>The rate at which chemical species collide; used in theories of chemical kinetics. Also, the frequency with which gaseous molecules collide.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="collision theory">
+		<definition>In chemical kinetics the idea that for a reaction to occur molecules must collide and the corresponding mathematical description of the number of collisions between molecules in a sample of matter per unit time.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="colloid">
+		<definition>A situation intermediate between a solution and a suspension in which particles between one nanometer and one micrometer in size are dispersed in a solid, liquid, or gaseous medium; particles of this size are large enough to scatter light but small enough not to settle out of the medium.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="colloidal dispersion">
+		<definition>A mixture containing particles larger than those found in a solution but small enough to remain suspended for a very long time; a colloid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="combustion">
+		<definition>Vigorous combination of a material with oxygen gas, usually resulting in a flame.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="combustion analysis">
+		<definition>A method for determining the chemical composition of a compound by burning the compound under controlled conditions. Can be used to determine the relative amounts of carbon, hydrogen, and (by difference) oxygen in a compound.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="common ion effect">
+		<definition>A shift in a chemical equilibrium caused by adding a substance that contains ions that participate in the equilibrium.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="complex">
+		<definition>A central metal and the ligands surrounding it; also called coordination complex.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="complex ion">
+		<definition>An ion formed by the combination of a central metal ion and ligands; a complex that is electrically charged.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="compound">
+		<definition>A substance made up of two or more elements and having those elements present in definite proportions; a compound can be decomposed into two or more different substances.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="concentrated">
+		<definition>Increased the concentration of a mixture or solution (verb). Having a large concentration (adjective).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="concentration">
+		<definition>A measure of the ratio of the quantity of a substance to the quantity of solvent, solution, or ore. Also, the process of making something more concentrated.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="concentration cell">
+		<definition>An voltaic (galvanic) cell in which the anode and cathode compartments contain the same solutions, but at different concentrations.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="condensation">
+		<definition>The process in which a liquid forms from gas or vapor of the same substance. A chemical reaction in which two molecules combine to form a very small molecule and a larger molecule than either of the two reactants.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="condensation polymer">
+		<definition>A polymer formed by condensation reactions between monomers and the growing polymer chain; in a condensation polymerization a small molecule each time a monomer becomes bonded to the polymer chain.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="condensation reaction">
+		<definition>A chemical reaction in which two molecules combine to form a very small molecule and a larger molecule than either of the two reactants. An example is formation of an ester from a carboxylic acid and an alcohol.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="condensed formula">
+		<definition>A notation for representing which atoms are bonded to which others in a chemical compound without showing the bonds between atoms. For example, CH3CH2OH is the condensed formula for ethanol.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="conduction band">
+		<definition>In the band theory of solids, a band that is partially occupied; electrons in a conduction band are mobile and their movement corresponds with conduction of electricity through the solid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="configuration">
+		<definition>The 3-D arrangement of atoms about a chiral center in a molecule.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="conformation">
+		<definition>In an ion or molecule, one of many spatial arrangements of atoms that differ by rotation about single bonds, but that do not differ in which atoms are attached to each other.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="conjugate acid">
+		<definition>The acid formed when a base accepts a hydrogen ion (proton).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="conjugate base">
+		<definition>The base formed when an acid releases a hydrogen ion (proton).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="constitutional isomer">
+		<definition>One of two or more compounds having the same molecular formula but differing in how the atoms are connected together; for example, butane and 2-methyl propane are constitutional isomers.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="continuous spectrum">
+		<definition>A spectrum in which there is significant absorbance or emission over a broad range of wavelengths; distinguished from a line spectrum in which absorbance or emission occurs at only a few specific wavelengths.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="control rod">
+		<definition>A rod made of a neutron-absorbing material that can be moved into or out of a nuclear reactorr to control the rate of nuclear fission.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="conversion factor">
+		<definition>A relationship between two units of measure that is derived from the proportionality of one quantity to another; for example, the mass of a substances is proportional to its volume and the conversion factor from volume to mass is density.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="coordinate covalent bond">
+		<definition>A bond between two atoms in which the shared electrons are considered to be contributed by only one of the atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="coordination complex">
+		<definition>An ion or molecule that consists of ligands bonded to a central metal ion or atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="coordination compound">
+		<definition>A compound that contains one or more coordination complexes.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="coordination isomer">
+		<definition>One of two or more coordination complexes having the same chemical composition but differing in which ligands are attached to which metal ion(s) or atom(s).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="coordination number">
+		<definition>The number of atoms to which a particular atom is bonded; in a coordination complex, the number of positions where ligands are attached to the central metal; in a ionic compound, the number of ions of opposite charge surrounding an ion.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="coordination sphere">
+		<definition>In a coordination complex the region around a central metal where the ligands are attached to the metal.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="core electrons">
+		<definition>Any electrons in filled subshells within inner shells of an atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="corrosion">
+		<definition>Chemical or electrochemical oxidation of the surface of a metal or alloy; corrosion can cause structural damage, as in the case of rusting.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Coulomb's Law">
+		<definition>The generalization that the force of attraction between two charged particles is proportional to the product of their electric charges divided by the square of the distance between the centers of the particles.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="covalent bond">
+		<definition>The attractive force between one atom (nucleus and core electrons) and another atom as a result of sharing electrons.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="covalent compound">
+		<definition>A compound that consists of molecules in which atoms are attached to one another by covalent bonds; a compound where the solid is soft, that has low melting and boiling points, and with low electrical conductivity in solid and liquid states.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="covalent radius">
+		<definition>An indication of the size of an atom in a covalent compound; often measured as half the internuclear distance between like atoms bonded to each other.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="critical mass">
+		<definition>The minimum mass of a fissionable nucleus necessary for a sustained chain reaction to occur.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="critical point">
+		<definition>The temperature and pressure above which no distinction exists between a liquid and its vapor.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="critical pressure">
+		<definition>The pressure required to convert a gas to a liquid at the critical temperature of a substance.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="critical temperature">
+		<definition>The highest temperature at which the vapor of a substance can be converted to a liquid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cryogenics">
+		<definition>The study of the behavior of matter at temperatures below -200°C.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="crystal">
+		<definition>A solid with a regular polyhedral shape; for example, in sodium chloride (table salt) the crystal faces are all at 90° angles. A solid in which the atoms, molecules, or ions are arranged in a regular, repeating lattice structure.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="crystal field theory">
+		<definition>A theory that explains properties of coordination complexes in terms of electrostatic attractions between the ligands and the central metal and electrostatic effects that result in different energies of metal d orbitals.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="crystal lattice">
+		<definition>An orderly, repeating arrangement of points in 3-D space in which each p;oint has surroundings identical to every other point. A crystal's constituent atoms, molecules, and ions are arranged about each lattice point.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cubic closest packed">
+		<definition>One of two schemes for closest packing of spheres; described as "abca" to indicate that the atoms of the second and third layers do not lie directly above the atoms of the first layer, but the atoms of the fourth layer are directly above the atoms of the first layer. Abbreviated ccp.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="curie">
+		<definition>A unit of radioactive decay; equal to 3.70 x 1010 disintegrations per second; abbreviated Ci.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cuvette">
+		<definition>A vessel used to hold a liquid sample within a spectrophotometer.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="cycloalkane">
+		<definition>A hydrocarbon containing no multiple bonds between carbon atoms and containing at least one ring of carbon atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="d block">
+		<definition>Columns 3 through 12 of the periodic table, containing elements in which the d atomic orbitals are being filled.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Dalton's law">
+		<definition>The statement that the total pressure of a mixture of gases is equal to the sum of the partial pressures of the component gases.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="decay constant">
+		<definition>A rate constant for radioactive decay or other first-order decomposition reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="degenerate orbital">
+		<definition>One of two or more orbitals having the same energy.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="degree of ionization">
+		<definition>The extent to which a species in solution ionizes. Often applied to the ionization reactions of acids and bases.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="deionized water">
+		<definition>Water that has been passed through ion exchange resin to remove impurities that consist of ions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="deliquescent">
+		<definition>Able to absorb moisture from the air so readily as to dissolve in the absorbed water to form a concentrated solution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="delocalization">
+		<definition>Spreading of electrons over more than two atoms because the electrons occupy a molecular orbital that encompasses more than two atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="delocalized molecular orbital">
+		<definition>A molecular orbital that encompasses more than two atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="denaturation">
+		<definition>Chemical or physical factors that disrupt a protein's secondary and tertiary structure so that the biological activity of the protein is lost.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="density">
+		<definition>The ratio of the mass of a sample of a material to its volume.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="deoxyribonucleic acid">
+		<definition>The polymer of nucleotides that constitutes the genetic material of chromosomes; abbreviated DNA.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="deposition">
+		<definition>The process of forming a solid from a gas.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="deuterium">
+		<definition>The isotope of hydrogen having one neutron in its nucleus.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dextrorotatory">
+		<definition>Describes a substance that rotates the plane of polarized light to the right.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="diagonal relationship">
+		<definition>In the periodic table, similarities in chemical or physical properties of two elements (or their compounds); the second element is either above and to the left or below and to the right of the first element (on a diagonal in the periodic table).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dialysis">
+		<definition>A process in which ions or small molecules in a solution pass through a semipermeable membrane while larger molecules remain behind.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="diamagnetic">
+		<definition>Describes a substance that is repelled very weakly by a magnetic field; a diamagnetic substance has no unpaired electrons.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="diastereomer">
+		<definition>One of two or more compounds that have the same molecular formula, have the same atoms joined to each other, but are not identical and are not mirror images of each other.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="diatomic">
+		<definition>Containing two atoms per molecule.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="differential rate equation">
+		<definition>An equation that describes the rate of a reaction as a function of the concentrations of reactants (and products), also called rate law.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="differentiating solvent">
+		<definition>A solvent that is a sufficiently weak base or acid that the acid or base strength of a pair of substances may differentiated in that solvent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="diffusion">
+		<definition>The spreading of one substance into another (usually involves gases or liquids).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dilution">
+		<definition>The addition of solvent to a solution (or mixture) to decrease the concentration of a solute (or component).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dimensional analysis">
+		<definition>A technique in which the cancelling of units is used as a tool to check the correctness of a calculation.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dimer">
+		<definition>A molecule formed by the combination of two smaller identical units.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dipole">
+		<definition>In an electrically neutral species, separated, equal positive and negative charges that consitute a positive and a negative pole; such a species tends to assume certain orientations more than others in an electric field.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dipole force">
+		<definition>The attraction between polar molecules as a result of the partially positively charged portion of one molecule being oriented toward the partially negatively charged portion of another molecule.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dipole moment">
+		<definition>The magnitude of the separation of electrical charge in a molecule that makes the molecule polar; the partial positive charge times the partial negative charge divided by the distance by which the charges are separated.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="diprotic">
+		<definition>Describes an acid that can donate two hydrogen ions (protons) to a base.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="disintegration">
+		<definition>The event of a nuclear transformation caused by radioactive decay or nuclear bombardment.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dispersion force">
+		<definition>Intermolecular forces arising from an instantaneous dipole in one molecule inducing a dipole in another molecule; the second dipole is always oriented in such a way as to attract the first. Also called London force.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="disproportionation">
+		<definition>A reaction in which a single species (molecule or ion) undergoes both oxidation and reduction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dissociation">
+		<definition>The breaking apart of one species into two or more smaller species; often applied to ions in a crystal lattice, which dissociate when the ionic solid dissolves in water. Dissociation refers to separation of particles that already exist; ionization refers to the formation of ions from neutral species, as in the ionization of a weak acid in aqueous solutoin.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="distillation">
+		<definition>A technique for separating the components of a liquid mixture or solution by vaporizing a portion of the liquid and condensing its vapor in a separate container.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="DNA">
+		<definition>Abbreviation for deoxyribonucleic acid; the polymer of nucleotides that constitutes the genetic material of chromosomes.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="double bond">
+		<definition>Attraction between two atoms (nuclei and core electrons) that results from sharing two pairs of electrons between the atoms; a bond with bond order = 2.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dry ice">
+		<definition>Solid carbon dioxide; called dry because of its tendency to sublime (form a gas without first forming a liquid). At standard pressure carbon dioxide sublimes at -78 °C.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ductile">
+		<definition>Able to be drawn into a wire; usually applied to metals, of which ductility is a characteristic property.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="dynamic equilibrium">
+		<definition>A self-establishing state in which the concentrations of reactant and product species remains constant forever; called dynamic because it is reached when opposing processes occur at the same rate; if a change in conditions causes a system not to be at equilibrium, the system will return to equilibrium in a way that partially counteracts the change in conditions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="effective nuclear charge">
+		<definition>In a multi-electron atom, the positive charge that a particular electron experiences; depends on the positive charge on the nucleus, the negative charges on all other electrons, and the locations of those electrons relative to the electron in question.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="effusion">
+		<definition>The escape of a gas through an orifice.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electrochemical cell">
+		<definition>A system containing an oxidation-reduction reaction in which oxidation and reduction reactions are physically separated and the transferred electrons pass through an electrical circuit. Voltaic (galvanic) cells produce and electic current; electrolyic cells use electric current to force a reaction to occur.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electrochemical equivalent">
+		<definition>The chemical amount of a substance that reacts in an electrochemical cell as one mole of electrons passes through its circuit.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electrode">
+		<definition>In an electrochemical cell, a surface on which oxidation or reduction occurs; an electrode conducts electric current into or out of a cell.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electrode potential">
+		<definition>In electrochemistry, the electrical potential difference measured for a cell in which the electrode in question is connected to a standard hydrogen electrode. See also standard electrode potential.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electrolysis">
+		<definition>A process in which a reaction that would otherwise be non-spontaneous (reactant-favored) is forced to occur by passage of electric current.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electrolyte">
+		<definition>A substance that dissolves to produce a solution containing ions, which cause the solution to conduct electricity.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electrolytic cell">
+		<definition>An electrochemical cell used to drive a reaction that would otherwise be non-spontaneous (reactant-favored).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electromagnetic radiation">
+		<definition>Energy in the form of oscillating, mutually perpendicular electric and magnetic fields. The energy is quantized in units called photons.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electromotive force">
+		<definition>The electrical potential difference that can develop across a voltaic (galvanic) cell, used as a measure of the spontaneity of a reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electron">
+		<definition>A negatively charged, sub-atomic particle with charge of 1.602 x 10-19 coulombs and mass of9.109 x 1023 kilograms; electrons have both wave and particle properties; electrons occupy most of the volume of an atom but represent only a tiny fraction of an atom's mass.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electron affinity">
+		<definition>The energy change that occurs as an atom or negative ion accepts an electron. The first electron affinity applies to a neutral atom combining with an electron; the second electron affinity applies to a minus-one ion accepting an electron; etc. Sometimes defined as negative when the negative ion is more stable than the neutral atom and sometimes defined as positive for the same circumstance; check the definition in any source of data.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electron capture">
+		<definition>A type of radioactive decay in which an electron from an inner shell of an atom is absorbed by the nucleus. In the process a proton is converted into a neutron and the atomic number of the element decreases by one. Also called K capture, because the electron comes from the 1s orbital (K shell).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electron configuration">
+		<definition>A representation of the number of electrons of an atom or ion and the orbitals in which they lie. For example, the electron configuration of oxygen is 1s22s22p4.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electron dot structure">
+		<definition>A representation of the structure of a covalent molecule that uses dots to indicate for each atom how many electrons ae shared with other atoms (form bonds) and how many are unshared; also called Lewis structure.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electronegativity">
+		<definition>The tendency of an atom (nucleus and core electrons) within a molecule to attract electrons in bonds.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electrophile">
+		<definition>A species that in its reactions seeks negative charge; Lewis acids are typically electrophiles.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="electrostatic attraction">
+		<definition>The attraction between opposite electric charges that holds ions together in a crystal lattice and causes electrons to be attracted to atomic nuclei. The attractive force can be calculated using Coulomb's law.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="element">
+		<definition>A substance containing only one kind of atom and that therefore cannot be broken down into component substances by chemical means.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="elementary process">
+		<definition>In chemical kinetics, a reaction that takes place when a single molecule breaks apart or when two molecules collide; the rate law for an elementary process can be determined from the coefficients in the chemical equation; reaction mechanisms must consist only of elementary processes. Also called elemenary reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="elementary reaction">
+		<definition>In chemical kinetics, a reaction that takes place when a single molecule breaks apart or when two molecules collide; the rate law for an elementary reaction can be determined from the coefficients in the chemical equation; reaction mechanisms must consist only of elementary reactions. Also called elemenary process.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="elimination reaction">
+		<definition>A reaction in which a larger molecule forms two other molecules; often one of the other molecules is much smaller than the reactant.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="empirical formula">
+		<definition>The chemical formula of a substance written using the smallest possible integer subscripts that reflect the elemental composition.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="enantiomer">
+		<definition>Molecular structures that are mirror images and are not superimposable. The molecules are said to be optical isomers and are optically active.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="end point">
+		<definition>In a titration, the minimum volume of titrant that must be added to cause a sudden change in a physical property (such as color of an indicator, pH, conductivity, or absorbance). The end point should match the equivalence point as closely as possible</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="endothermic">
+		<definition>In chemical thermodynamics, describes a process in which energy is transferred from the surroundings to the system as a result of a temperature difference.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="energy">
+		<definition>A system's capacity to do work.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="English system">
+		<definition>A system of units that includes the inch and the pound.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="enthalpy">
+		<definition>A thermodynamic state function, symbol H, that equals internal energy plus pressure x volume; the change in enthalpy corresponds to the energy transferred as a result of a temperature difference (heat transfer) when a reaction occurs at constant pressure.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="enthalpy of formation">
+		<definition>The enthalpy change that occurs during the formation of a compound from its component elements in their most stable forms. See also standard enthalpy of formation.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="entropy">
+		<definition>A thermodynamic state function, symbol S, that equals the reversible heat energy transfer divided by temperature; higher entropy corresponds to greater dispersal of energy on the molecular scale. See also standard entropy.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="enzyme">
+		<definition>A highly effective, highly specific biochemical catalyst; usually a protein, but RNA enzymes also exist.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="equation of state">
+		<definition>An equation giving the relationship among the pressure, volume, temperature, and amount of a substance; most often applied to gases.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="equatorial">
+		<definition>Oriented about an equator. In a trigonal bipyramidal structure, lying in the trigonal plane. In a cyclic organic structure, approximately in the rough plane defined by the ring of atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="equilibrium">
+		<definition>A state in which no net change is occurring, that is, in which the concentrations of reactants and products remain constant; chemical equilibrium is characterized by forward and reverse reactions occurring at the same rate.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="equilibrium constant">
+		<definition>The value of the equilibrium constant expression when equilibrium concentrations are substituted; a value greater than one indicates the position of equilibrium lies toward products (product-favored), and a value less than one indicates the position of equilibrium lies toward reactants (reactant-favored).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="equilibrium constant expression">
+		<definition>The ratio of the concentrations of products in a balanced chemical equation, each concentration raised to the power of its coefficient, divided by the concentrations of reactants, each raised to the power of its coefficient; at equilibrium this ratio has the value of the equilibrium constant.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="equivalence point">
+		<definition>The point in a titration at which the amount of one reactant being added stoichiometrically matches the amount of another reactant initially present. The end point should match the equivalence point as closely as possible.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="equivalent weight">
+		<definition>The molar mass of a substance divided by the chemical combining power of the substance. For example, in the case of an acid the molar mass is divided by the number of available hydrogen ions because a triprotic acid like H3PO4 has three times the chemical combining power of a monoprotic acid like HCl.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ester">
+		<definition>An organic compound formally derived from a carboxylic acid and an alcohol; involves the functional group -C(=O)O-R.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ether">
+		<definition>An organic compound containing the functional group R-O-R'.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="exothermic">
+		<definition>Describes a process in which energy is transferred to the surroundings as a result of a temperature difference.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="extensive property">
+		<definition>A property for which the value depends on the amount of matter under consideration. For example, mass is an extensive property, but density is not.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="f block">
+		<definition>The lanthanides and actinides, elements in which the f atomic orbitals are being filled.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="face-centered cubic">
+		<definition>A crystal lattice structure whose cubic unit cell has one atom in the center of each face (only 1/2 of each face atom is within the unit cell) and one atom at each corner (only 1/8 of each corner atom is within the unit cell). Abbreviated fcc.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Fahrenheit">
+		<definition>The temperature scale defined by the values 32 °F for the freezing point of water and 212 °F for the boiling point of water.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="family">
+		<definition>Those elements that comprise a single column of the periodic table. Also called group.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Faraday">
+		<definition>The electric charge carried by one mole of electrons, 9.648 670 x 104 C mol-1; abbreviated F.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Faraday constant">
+		<definition>The electric charge carried by one mole of electrons, 9.648 670 x 104 C mol-1; abbreviated F.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Faraday's law">
+		<definition>The generalization that the chemical amount of a substance produced or consumed in an electrochemical cell is directly proportional to the quantity of electric charge that passes through the electrical circuit of the cell.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="fat">
+		<definition>A substance that is an ester of glycerol and three fatty acids; a triglyceride.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="fatty acid">
+		<definition>A long-chain carboxylic acid that is formed by hydrolysis (saponification) of the triglycerides that constitute fat.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="fcc">
+		<definition>Abbreviation for face-centered cubic; a crystal lattice structure whose cubic unit cell has one atom in the center of each face (only 1/2 of each face atom is within the unit cell) and one atom at each corner (only 1/8 of each corner atom is within the unit cell).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ferromagnetic">
+		<definition>Describes a substance in which magenetism persists after removal of an external magnetic field; able to be a permanent magnet. A ferromagnetic material contains groups of atoms within which the magnetic moments of particles are aligned; in a magnetic field the domains align and they remain aligned after the field is removed.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="filtration">
+		<definition>The process of separating a solid from a liquid by permitting the liquid to pass through a filter.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="first law of thermodynamics">
+		<definition>A formal statement that energy can neither be created nor destroyed; as applied to chemical systems, the change in internal energy is equal to the heat energy transfer into the system plus the work energy transfer into the system.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="first-order reaction">
+		<definition>A reaction for which the rate is directly proportional to the concentration of one reactant.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="fission">
+		<definition>A nuclear reaction in which large nuclei break apart to form smaller ones.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="formal charge">
+		<definition>Formal charge is the charge an atom in a molecule would have if all electrons in bonds were shared equally between the two bonded atoms. To calculate formal charge, take the number of valence electrons for an atom and subtract half the number of bonding electrons and the total number of electrons in lone pairs for the same atom in a molecule; the result indicates which atoms are more negative and which more positive, which is useful for predicting where in a molecule reactions will occur.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="formation constant">
+		<definition>An equilibrium constant for a reaction in which a product of interest is formed; often applied to the formation of a coordination complex from a central metal and ligands.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="formula weight">
+		<definition>The mass of one mole of a formula unit of a substance; molar mass.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="free energy">
+		<definition>Gibbs energy: a thermodynamic function corresponding to the tendency for spontaneous change in a system; represented by the symbol G.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="freezing">
+		<definition>The process of forming a solid from a liquid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="freezing point">
+		<definition>The temperature at which a liquid becomes a solid; also called melting point.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="freezing point depression">
+		<definition>The decrease in the freezing point of a liquid as a result of the presence of a solute.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="frequency">
+		<definition>The rate at which a periodic event occurs; specifically, the rate at which the waves of electromagnetic radiation pass a point.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="fuel cell">
+		<definition>An electrochemical cell in which the reactants are supplied on a continuing basis.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="functional group">
+		<definition>A set of atoms in a molecule that confer on the molecule a characteristic set of physical and chemical properties.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="fusion">
+		<definition>A nuclear reaction in which small nuclei are united to form larger ones.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="galvanic cell">
+		<definition>An electrochemical cell in which a spontaneous reaction occurs. Such a cell can be used to generate electricity. Also called voltaic cell.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="galvanization">
+		<definition>A process in which iron is electrolytically coated with zinc to slow down corrosion.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="gamma ray">
+		<definition>High energy electromagnetic radiation emitted during radioactive decay.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="gas">
+		<definition>A state of matter in which a substance occupies the full volume of its container and changes shape to match the shape of the container. In a gas the distance between particles is much greater than the diameters of the particles themselves; hence the distances between particles can change as necessary so that the matter uniformly occupies its container.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="gas constant">
+		<definition>A proportionality constant between the product of the pressure and volume of a gas and the product of the chemical amount (moles) and temperature of the gas.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Geiger counter">
+		<definition>A device used to measure the number of radioactive disintegrations in a sample of matter.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="genetic code">
+		<definition>The rules that govern how a sequence of three-base codons in a DNA molecule can be translated into a sequence of amino acids in a protein.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="geometrical isomer">
+		<definition>One of two or more compounds that have the same chemical composition but differ in the spatial arrangements of the atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Gibbs energy">
+		<definition>A thermodynamic function corresponding to the tendency for spontaneous change in a system; represented by the symbol G.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="glass">
+		<definition>A solid material that does not have the long-range order of a crystal lattice; an amorphous solid. A glass melts over a range of temperatures instead of having the definite melting temperature characteristic of crystalline solids.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Graham's law">
+		<definition>The statement that the rate of effusion of a gas is inversely proportional to the square root of the molar mass of the gas.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="gram">
+		<definition>One thousandth of a kilogram.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="grating">
+		<definition>In spectroscopy, a component that disperses electromagnetic radiation so that each wavelength is separated from its neighbors; white, visible light is dispersed into a continuous spectrum (rainbow) of colors. A grating is made by ruling fine, parallel, equally spaced grooves on a surface.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="group">
+		<definition>Those elements that comprise a single column of the periodic table. Also called family.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="half-life">
+		<definition>In chemical kinetics, the time it takes for one half of the limiting reactant to be consumed. In nuclear chemistry, the time for half of a sample to undergo radioactive decay.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="half-reaction">
+		<definition>A portion of an oxidation-reduction reaction involving only oxidation or only reduction. An oxidation half-reaction can be combined with a reduction half-reaction to give an overall equation; this is useful in balancing oxidation-reduction reactions. Each half-reaction can be assigned its own standard reduction potential; cell potentials can be calculated by combining these half-reaction potentials.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="halogen">
+		<definition>One of the elements in the same column of the periodic table as fluorine.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hard water">
+		<definition>Water containing high concentrations of cations having charge greater than +1; hardness can be removed by ion exchange.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hcp">
+		<definition>Abbreviation for hexagonal closest packed; one of two schemes for closest packing of spheres; described as "aba" to indicate that the atoms of the third layer lie directly above the atoms of the first layer.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="heat">
+		<definition>Energy transferred as a result of a temperature difference; a form of energy stored in the movement of atomic-sized particles.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="heat capacity">
+		<definition>The quantity of heat energy transfer needed to raise the temperature of a sample of matter by one unit.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="heat of formation">
+		<definition>The heat energy transfer into a system during the formation of one mole of a compound from its component elements in their most stable forms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="heat of fusion">
+		<definition>The heat energy transfer into a system as a substance melts.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="heat of reaction">
+		<definition>The heat energy transfer into a system as a reaction occurs.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="heat of vaporization">
+		<definition>The heat energy transfer into a system as a substance passes from a liquid to a gas.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Henry's law">
+		<definition>The generalization that the partial pressure of a gas in equilibrium with a solution is proportional to the concentration of the dissolved gas in the solution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Hess' law">
+		<definition>The generalization that if a chemical reaction can be written as the sum of two or more other chemical reactions, then the heat of the overall reaction is the sum of the heats of reaction for the other reactions. A similar rule applies to enthalpy and Gibbs energy.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="heterocyclic">
+		<definition>Describes an organic compound with at least one ring that includes other atoms as well as carbon atoms. For example, furan contains a five-membered ring with four carbon atoms and one oxygen atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="heterogeneous mixture">
+		<definition>A mixture in which some regions differ in composition or state of matter from other regions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hexagonal closest packed">
+		<definition>One of two schemes for closest packing of spheres; described as "aba" to indicate that the atoms of the third layer lie directly above the atoms of the first layer.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="homogeneous mixture">
+		<definition>A mixture in which all regions have the same composition and state of matter.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="homologous series">
+		<definition>A sequence of molecules having the same functional group but differing in the length of the chain of carbon atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Hund's rule">
+		<definition>The statement that electrons singly occupy all degenerate orbitals before pairing in an orbital.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hybrid orbital">
+		<definition>An orbital formed by mathematically combining atomic orbitals (all on the same atom) to generate an equivalent set of orbitals more consistent with the observed bonding geometry.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hybridization">
+		<definition>The process of mathematically combining atomic orbitals (all on the same atom) to generate an equivalent set of orbitals more consistent with the observed bonding geometry; a description (sp, etc.) of what orbitals were combined.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hydrate">
+		<definition>A substance that solidifies with water included in the crystal lattice. An example is copper(II) sulfate pentahydrate, CuSO4˙5H2O where four water molecules are coordinate-covalently bonded to the copper ion and one is hydrogen bonded to the sulfate ion.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hydration energy">
+		<definition>The heat energy transferred into the system as a substance dissolves in water.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hydrocarbon">
+		<definition>A compound containing only the elements carbon and hydrogen.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hydrogen bond">
+		<definition>An attractive force, either intramolecular or intermolecular, between an electronegative atom and a hydrogen atom attached to another electronegative atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hydrogenation">
+		<definition>Any addition reaction of hydrogen with an organic compound; usually the organic compound has a carbon-carbon double bond or triple bond.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hydrolysis">
+		<definition>Any reaction in which water (hydro) is split into two parts (lysis). Examples include the reaction of an anion with water to form the conjugate acid and hydroxide ion and hydrolysis of an ester or amide, in which the H from water bonds to form an alcohol or amine and the OH bonds to a carbonyl carbon to form a carboxylic acid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hydrolyze">
+		<definition>To react with water so that the water molecule is split into two parts.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hydrophilic">
+		<definition>Water-loving; attracted to water molecules and polar molecules.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hydrophobic">
+		<definition>Water-hating; not attracted to water molecules or polar molecules.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hydroxyl group">
+		<definition>The functional group of an oxygen atom bonded to an hydrogen atom, -OH; found in alcohols.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="hygroscopic">
+		<definition>Describes a substance that absorbs moisture from the air.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ideal gas">
+		<definition>A hypothetical gas for which the relationship among the pressure, volume, temperature, and chemical amount (moles) can be described by simple proportionalities summarized by the ideal gas equation, PV = nRT.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ideal gas equation">
+		<definition>An equation which gives a simple relationship among the pressure, volume, temperature, and chemical amount (moles) of a well behaved gas: PV, = nRT.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ideal solution">
+		<definition>A solution for which the pressure of solvent vapor in equilibrium with the solution is proportional to the mole fraction of solvent in the solution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="igneous">
+		<definition>Formed by volcanic action or by great heat.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="immiscible">
+		<definition>Describes two liquids that cannot be dissolved in one another in all proportions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="indicator">
+		<definition>A substance for which a physical property (such as color) changes abruptly when the equivalence point is reached in a titration.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="induced dipole">
+		<definition>A dipole moment in a species created as a result of a nearby ion or dipole; an induced dipole results in an attraction between the species and the nearby ion or dipole.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="inert">
+		<definition>Unreactive. Used to describe coordination complexes that exchange ligands slowly or an electrode in an electrochemical cell that serves only as a surface where reaction can occur and is neither consumed nor added to during reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="inert complex">
+		<definition>A coordination complex that exchanges ligands slowly.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="inert gas">
+		<definition>One of the elements in the same column of the periodic table as helium; more correctly called noble gas.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="initial rate">
+		<definition>The rate of a reaction measured close enough to the beginning of a reaction that the reactant concentations have not yet changed appreciably.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="inorganic">
+		<definition>Pertaining to the chemistry of elements other than carbon and compounds containing at most a small amount of carbon.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="insoluble">
+		<definition>Unable to dissolve appreciably in a solvent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="instantaneous dipole">
+		<definition>A temporary dipole moment in a species created as a result of the influence of a dipole moment in another species, and resulting in an attraction between the two species.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="instantaneous rate">
+		<definition>The rate of a reaction at a particular time; evaluated from the slope of a plot of concentration vs. time.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="integrated rate equation">
+		<definition>In chemical kinetics, an equation that describes the concentrations of reactants (and products) as a function of time.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="intensive property">
+		<definition>A property for which the value does not depend on the quantity of matter under consideration. Density is an example of an intensive property; mass and volume are not intensive properties.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="intermediate">
+		<definition>In chemical kinetics, a species that is formed in an early step in a reaction mechanism and then consumed in a later step; evidence of existence of an intermediate may be important for the interpretation of a rate law.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="intermolecular force">
+		<definition>Any attraction between molecules, including dipolar attractions, hydrogen bonds, and London forces.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="internal energy">
+		<definition>A thermodynamic function corresponding to the energy of a system; represented by the symbol U or E.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="internuclear distance">
+		<definition>The distance between the nuclei of nearest-neighbor atoms or ions in an element or compound. Bond distances and ionic radii are calculated from this quantity because atoms have no discrete edges.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="interstitial">
+		<definition>Found in the holes between the atoms or ions of a metal or crystal lattice; often used to describe a non-stoichiometric compound of a metal and a non-metal in which atoms of the non-metal are located between the metal atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="iodine number">
+		<definition>The number of grams of iodine that react with 100 g of an organic compound, usually a fat; indicative of the degree of unsaturation in the compound.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ion">
+		<definition>An atom or covalently bonded set of atoms that carries an overall net charge.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ion exchange">
+		<definition>The replacement of ions by other ions, usually on the surface of a resin designed as a reservoir for ions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ion product">
+		<definition>An equilibrium constant expression for a reaction in which the only products are ions and the reactants are such that their concentrations do not appear in the expression; applied to dissolution and autoionization reactions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ionic bond">
+		<definition>The electrostatic attraction that holds together the positive and negative ions of an ionic compound.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ionic compound">
+		<definition>A compound containing oppositely charged ions held together by electrostatic attraction. Usually the ions are in a crystal lattice with positive ions surrounded by negative ions and negative ions surrounded by positive ions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ionic radius">
+		<definition>An estimate of the size of an ion in an ionic compound; found from the internuclear distance between ions in a crystal lattice.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ionization">
+		<definition>A process in which an atom, molecule, or negative ion loses an electron; a process in which a covalent molecule reacts with a solvent to form positive and negative ions; for example, a weak acid reacting with water to form its conjugate base (an anion) and a hydrogen (hydronium) ion.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ionization energy">
+		<definition>The quantity of energy required to remove an electron from a neutral atom or molecule or from a positive ion.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ionization isomer">
+		<definition>One of two or more coordination complexes that have the same chemical composition but differ in which species are ligands and which are non-coordinated ions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ionizing radiation">
+		<definition>Electromagnetic radiation of sufficient energy to remove one or more electrons from a molecule or atom to form an ion.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="isoelectronic">
+		<definition>Having the same number of electrons. Sometimes used to describe species that have the same number of valence electrons.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="isomer">
+		<definition>One of two or more substances that have the same molecular formula (are composed of elements in the same proportion and have the same molar mass), but differ in some aspect of structure.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="isotactic">
+		<definition>In polymer chemistry, having regularly repeating, identical structural units. For example, isotactic polypropylene has each methyl group along the polymer chain oriented in the same way.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="isotope">
+		<definition>One of two or more samples of an element whose atoms differ in the number of neutrons found in the nucleus.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="joule">
+		<definition>The SI unit of energy (or heat or work); equal to 0.239 calories, or a kg m2/s2</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="kelvin">
+		<definition>A unit of temperature equal to 1/273.16 of the thermodynamic temperature of the triple point of water; the kelvin is the same size as the degree Celsius. The thermodynamic temperature scale (Kelvin scale) has absolute zero as its zero point.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ketone">
+		<definition>An organic compound containing a carbonyl group that is bonded to two other carbon atoms, R-C(=O)-R'.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="kilogram">
+		<definition>The SI unit for mass.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="labile">
+		<definition>Reactive; often used to describe coordination complexes that exchange ligands rapidly.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="laboratory tissue">
+		<definition>A laboratory tissue is a paper product which is essentially lint free. Laboratory tissues are typically used to wipe liquid off of the outside of pipets or cuvettes for a spectrophotometer.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="lanthanide">
+		<definition>An element in the periodic table from lanthanum (atomic number 57) to lutetium (atomic number 71); also called lanthanoid. Sometimes lanthanum itself is not included in this series; sometimes lutetium is not.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="lanthanide contraction">
+		<definition>The effect of increased nuclear charge and incomplete screening by filled f orbitals that results in a decrease in the size of atoms appearing after the f block in the periodic table.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="lanthanoid">
+		<definition>An element in the periodic table from lanthanum (atomic number 57) to lutetium (atomic number 71); also called lanthanide. Sometimes lanthanum itself is not included in this series; sometimes lutetium is not.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="lattice">
+		<definition>The points in space that define the ordered, repeating arrangement of atoms, ions, or molecules in a crystal.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="lattice energy">
+		<definition>The heat energy tranfer into a system as gaseous ions come together to form an ionic compound. Different textbooks define the sign of this quantity differently.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="law of constant composition">
+		<definition>The statement that the mass ratio of elements in a given substance is always the same. Also called the law of definite proportions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="law of definite proportions">
+		<definition>The statement that the mass ratio of elements in a given substance is always the same. Also called the law of constant composition.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="law of multiple proportions">
+		<definition>The generalization that when two elements, A and B, form more than a single compound, the mass ratio A : B in one compound is a small whole number multiple of the mass ration A : B in each of the other compounds.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Le Chatelier's principle">
+		<definition>The idea that, if it can, a system at equilibrium will respond to a change in conditions in such a manner as to partially offset that change.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="leveling effect">
+		<definition>The situation when a basic solvent completely reacts with an acidic solute so the strength of the acid may not be distinguished from other acids with which the solvent reacts completely. The solvent may also be an acid and react with a basic solute. For example, water is a leveling solvent because it reacts completely with hydrochloric acid, nitric acid, and other strong acids for form the acid hydronium ion; consequently the strengths of these acids appear to be the same in water.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="levorotatory">
+		<definition>Descriptive of a substance that rotates the plane of polarized light to the left.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Lewis acid">
+		<definition>A species that accepts a pair of electrons to form a covalent bond.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Lewis acid-base theory">
+		<definition>The idea that an acid is a species that accepts a pair of electrons to form a covalent bond and a base is a species that donates a pair of electrons to form a covalent bond.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Lewis base">
+		<definition>A species that donates a pair of electrons to form a covalent bond.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Lewis structure">
+		<definition>A representation of the structure of a covalent molecule that uses dots to indicate for each atom how many electrons are shared with other atoms (form bonds) and how many are unshared; also called electron dot structure.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ligand">
+		<definition>One of the small molecules or ions attached to a central metal in a coordination complex.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ligand field theory">
+		<definition>A theory that explains properties (such as spectra and magnetism) of coordination complexes in terms of molecular orbital theory.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="limiting reactant">
+		<definition>The reactant (of two or more reactants) present in an amount such that it would be completely consumed if the reaction proceeded to completion. Also called limiting reagent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="limiting reagent">
+		<definition>The reactant (of two or more reactants) present in an amount such that it would be completely consumed if the reaction proceeded to completion. Also called limiting reactant.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="linkage isomer">
+		<definition>One of two or more coordination complexes that have the same chemical composition but that differ in the manner in which ligands are attached to the central metal ion. For example, thiocyanate ion, SCN-, can be bonded to a central metal through the sulfur atom or through the nitrogen atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="lipid">
+		<definition>An organic compound found in tissue and that is soluble in nonpolar solvents.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="liquid">
+		<definition>A state of matter in which the atomic-scale particles remain close together but are able to change their positions so that the matter takes the shape of its container</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="liquid crystal">
+		<definition>A state of matter similar to a liquid but which contains some ordered regions more typical of a solid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="liter">
+		<definition>A unit of volume equal to a cubic decimeter.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="London force">
+		<definition>Intermolecular forces arising from an instantaneous dipole in one molecule inducing a dipole in another molecule; the second dipole is always oriented in such a way as to attract the first. Also called dispersion force.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="lone pair">
+		<definition>In a covalently bonded molecule or ion, a pair of electrons not shared between two atoms and hence not involved in a bond.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="magic number">
+		<definition>One of the numbers 2, 8, 20, 50, 82, and 126; nuclei having this number of neutrons or protons (or both) exhibit greater stability than other nuclei.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="main-group element">
+		<definition>One of the elements in the area of the periodic table over which the s and p atomic orbitals are being filled; also called representative element.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="malleable">
+		<definition>Able to be pounded into various shapes.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="manometer">
+		<definition>A device for measuring the pressure of a gas in relation to the pressure of the atmosphere.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mass">
+		<definition>A measure of the force required to impart unit acceleration to an object; mass is proportional to chemical amount, which represents the quantity of matter in an object.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mass defect">
+		<definition>The difference in mass between an atom and the electrons, protons, and neutrons from which it could be formed. This difference is released as energy in a nuclear reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mass number">
+		<definition>The sum of the numbers of protons and neutrons in an atom; these two kinds of particles contain almost all of the mass of an atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mass spectrometer">
+		<definition>An instrument that measures the mass of charged particles by accelerating them through electric and magnetic fields and detecting the angles through which their paths are deflected.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mass spectrum">
+		<definition>The record of masses detected in a mass spectrometer presented as a plot of number of particles with a given mass against atomic mass.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="matter">
+		<definition>Anything that occupies space and has mass; contrasted with energy.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mean free path">
+		<definition>The average distance that gas molecules travel between collisions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="melting">
+		<definition>The process of a liquid forming from a solid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="melting point">
+		<definition>The temperature at which a solid becomes a liquid. Also called freezing point.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="meniscus">
+		<definition>The curvature of a liquid in a cylindrical vessel at the liquid-air interface. It is caused by attractive forces between the liquid and the walls of the vessel.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="messenger RNA">
+		<definition>The RNA that conveys information from the genetic code on DNA to a ribosome where transfer RNA attaches the correct amino acid to a growing protein; abbreviated mRNA.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="meta">
+		<definition>Describing the relationship between two groups attached to carbon atoms on a benzene-like ring which have one carbon atom between them.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="metal">
+		<definition>An element characterized by a glossy surface, high thermal and electrical conductivity, malleability, and ductility.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="metallic radius">
+		<definition>Half the distance between nuclei of adjacent atoms in a solid metal.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="metalloid">
+		<definition>An element having properties intermediate between a metal and a non-metal.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="metallurgy">
+		<definition>The study of metals and their extraction from ores.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="meter">
+		<definition>The SI unit for distance or length.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="miscible">
+		<definition>With respect to two liquids, able to dissolve in each other in any proportion.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mixture">
+		<definition>A combination of two or more substances in which the substances retain their chemical identity.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mm Hg">
+		<definition>A unit of pressure equal to 1/760 atm or 1 torr. Pressure can be measured using a column of mercury, with the height of the column denoting the pressure.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mohr pipet">
+		<definition>A tube with graduations used for measuring specified volumes of liquid and adding a measured volume to another container.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="molality">
+		<definition>A concentration unit expressed as chemical amount of a substance per kilogram of solvent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="molar mass">
+		<definition>The mass of a mole of substance; the same as molecular weight for molecular substances.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="molar solubility">
+		<definition>The extent to which a solute dissolves in a solvent expressed as the chemical amount (moles) of a substance that will dissolve per exactly 1 L of solution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="molarity">
+		<definition>A concentration unit expressed as chemical amount of a substance per liter of solution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mole">
+		<definition>That chemical amount of a substance containing the same number of units as 12 g of carbon-12.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mole fraction">
+		<definition>In a mixture, the chemical amount (moles) of one substance divided by the total chemical amount (moles) of all substances present.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="molecular formula">
+		<definition>The chemical formula of a substance written using the subscripts that reflect the number of each kind of atom present in a molecule of the substance. For example, the simplest formula for ethane is CH3, but the molecular formula is C2H6 because there are 2 C atoms and 6 H atoms in a molecule of ethane.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="molecular orbital">
+		<definition>An orbital formed by the overlap of atomic orbitals on at least two different atoms; designated as bonding, non-bonding, or anti-bonding.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="molecular orbital diagram">
+		<definition>A diagram depicting the relative energies of the molecular orbitals in an ion or molecule and which orbitals are occupied by electrons.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="molecular orbital theory">
+		<definition>The theory that describes covalent bonding in terms of orbitals that are formed by the combination of atomic orbitals on different atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="molecular weight">
+		<definition>The mass of one mole of molecules of a substance; the molar mass of a molecular substance.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="molecule">
+		<definition>A set of atoms joined by covalent bonds and having no net charge.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="monomer">
+		<definition>One of the units that joins with other units to form a polymer.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="mRNA">
+		<definition>Abbreviation for messenger RNA; the RNA that conveys information from the genetic code on DNA to a ribosome where transfer RNA attaches the correct amino acid to a growing protein.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="multidentate">
+		<definition>Refers to a ligand attached to a central metal through two or more atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Nernst equation">
+		<definition>The relationship between the standard cell potential and the cell potential under conditions of non-standard concentrations.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="net ionic equation">
+		<definition>The equation for a reaction in which strong electrolytes are written as their separate component ions and in which species that are unchanged are omitted.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="network covalent solid">
+		<definition>A substance in which covalent bonds join atoms in a structure that extends indefinitely.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="neutralization reaction">
+		<definition>The reaction of an acid with a base to form water and a salt.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="neutron">
+		<definition>The uncharged particle in an atomic nucleus; its mass is similar to the mass of a hydrogen atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="noble gas">
+		<definition>One of the elements in the same column of the periodic table as helium; also called inert gas.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nomenclature">
+		<definition>A system of names for identifying elements, ions, and compounds.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="non-stoichiometric">
+		<definition>Describes a material for which the chemical formula deviates from small whole number ratios of atoms. For example, copper(I) sulfide occurs in the non-stoichiometric form djurleite, which has the formula Cu1.96S instead of the stoichiometric Cu2S.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nonbonding molecular orbital">
+		<definition>An molecular orbital formed from atomic orbitals having symmetry leading to no net overlap; comparable in energy to the atomic orbitals from which it is formed.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nonbonding pair">
+		<definition>In a covalently bonded molecule or ion, a pair of electrons not involved in the formation of bonds.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nonmetal">
+		<definition>An element that is not a metal; such elements include hydrogen and those in the upper right of the periodic table.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nonpolar">
+		<definition>Describes a molecule with no net permanent dipole; this can occur when there is no separation of centers of positive and negative electrical charge or because there are bond dipoles that cancel each others' effects. A polar molecule will assume certain orientations more than others in an electric field.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="normal boiling point">
+		<definition>The temperature at which the vapor pressure of a liquid reaches a pressure of one atmosphere.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="normality">
+		<definition>The molarity of a solution multiplied by the chemical combining power of a substance. For example, in an acid-base titration reaction H3PO4 has three times the chemical combining power of HCl and so the normality of a 1.0-M solution would be 3.0 normal.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nuclear binding energy">
+		<definition>The energy released as particles are brought together to form an atomic nucleus.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nuclear reactor">
+		<definition>A device for obtaining energy from a sustained nuclear fission (or, perhaps in the future, nuclear fusion) reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nucleic acid">
+		<definition>A biological polymer composed of nucleotide monmers; DNA and RNA are nucleic acids.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nucleophile">
+		<definition>A species that in its reactions seeks positive charge; Lewis bases are typical examples of nucleophiles.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nucleotide">
+		<definition>An organic compound consisting of a purine or pyrimidine base bonded to a sugar that is bonded to a phosphate group; a monomer for DNA or RNA.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nucleus">
+		<definition>The collection of protons and neutrons at the center of an atom that contains nearly all of the atoms's mass.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nuclide">
+		<definition>An atom having a particular number of protons and neutrons; isotopes are a set of nuclides all with the same atomic number.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="nylon">
+		<definition>Any of several human-made polyamide fibers; polyamides are formed by condensation of an amine group with a carboxylic acid group.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="octet">
+		<definition>A stable set of eight electrons in the valence shell of an atom. Each noble-gas atom has an octet.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="octet rule">
+		<definition>The generalization that atoms tend to gain or lose electrons until there is an octet in the outermost electron shell.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="olefin">
+		<definition>A hydrocarbon containing one or more double bonds between carbon atoms. Also called alkene.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="optical isomer">
+		<definition>One of two compounds that have the same chemical composition and whose molecules have the same atoms joined with the same bonding connections, but that are mirror images. Also called enantiomers.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="optically active">
+		<definition>Describes a substance that rotates the plane of polarized light passed through the substance.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="orbital">
+		<definition>A mathematically defined region of electron density around one or more atoms; a wave function that defines the properties of a particular electron in an atom or molecule.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ore">
+		<definition>Naturally occurring minerals from which metals and other substances can be extracted commercially.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="organic">
+		<definition>Refers to the branch of chemistry that studies compounds containing carbon, usually in combination with hydrogen and other elements such as O, N, S, and P. Certain small ions and compounds containing carbon (such as carbonate ions and carbon dioxide) are not considered to be organic, but rather are classed as inorganic.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ortho">
+		<definition>Describes the relationship between two groups attached to adjacent carbon atoms on a benzene-like ring. Compare with meta and para.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="osmosis">
+		<definition>The passage of solvent through a membrane that is impermeable to solute from a region of lower concentration of solute to a region of higher concentration of solute. The solvent moves from a region of higher concentration to one of lower concentration; the process corresponds with the spontaneous dilution of a solution that is mixed with another solution of lower (or zero) concentration.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="osmotic pressure">
+		<definition>The pressure required to prevent solvent from passing through a semipermeable membrane from a region of lower concentration of solute to a region of higher concentration of solute.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="oxidation">
+		<definition>That part of a chemical reaction in which a reactant loses electrons; simultaneous reduction of a reactant must occur.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="oxidation number">
+		<definition>A formally defined charge that an atom in a compound or ion would have if the compound or ion consisted entirely of monatomic ions. Based on a Lewis diagram, the charge that an atom would have if all electrons in bonds were assigned to the more electronegative atom or divided equally between atoms of the same electronegativity.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="oxidation state">
+		<definition>A formally defined charge that an atom in a compound or ion would have if the compound or ion consisted entirely of monatomic ions. Based on a Lewis diagram, the charge that an atom would have if all electrons in bonds were assigned to the more electronegative atom or divided equally between atoms of the same electronegativity.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="oxidation-reduction reaction">
+		<definition>A reaction in which one reactant is oxidized (loses electrons) and one reactant is reduced (gains electrons), also called "redox reaction."</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="oxidizing agent">
+		<definition>A chemical species that accepts electrons in order to oxidize another species. In the process the oxidizing agent is itself reduced.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="oxoacid">
+		<definition>An acid containing hydrogen, oxygen, and another element. Also called oxyacid. Examples are nitric, sulfuric, and phosphoric acids.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="oxoanion">
+		<definition>An anion containing oxygen and another element. Also called oxyanion. Examples are nitrate, sulfate, and phosphate ions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="oxyacid">
+		<definition>An acid containing hydrogen, oxygen, and another element. Also called oxoacid. Examples are nitric, sulfuric, and phosphoric acids.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="oxyanion">
+		<definition>An anion containing oxygen and another element. Also called oxoanion. Examples are nitrate, sulfate, and phosphate ions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="p block">
+		<definition>Columns 13 through 18 of the periodic table; the region in the periodic table within which the p atomic orbitals are being filled in the building up of atomic electronic configurations.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="para">
+		<definition>Describes the relationship between two groups on a benzene-like ring that are attached to carbon atoms that have two other carbon atoms between them; the two groups are at a 180° angle.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="paramagnetic">
+		<definition>Describes a substance containing unpaired electrons that is attracted into a magnetic field; the strength of attraction can be related to the number of unpaired electrons.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="partial pressure">
+		<definition>That portion of the total pressure of a mixture of gases contributed by the presence of one of the component gases.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="pascal">
+		<definition>The SI unit for pressure, equal to 1 N m-2 or 1 kg s-2m-1</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Pauli exclusion principle">
+		<definition>The statement that no two electrons in an atom can have the same set of four quantum numbers; the principle leads to the rule that only two electrons (having opposite spin) can occupy an atomic orbital.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="peptide">
+		<definition>A molecule of two or more amino acids joined by amide linkages or "peptide bonds."</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="peptide bond">
+		<definition>The amide linkage that joins the carboxylic acid end of one amino acid with the amine end of another amino acid to form a peptide or protein.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="percent ionization">
+		<definition>The fraction (expressed as a percent) of an electrolyte that is in the form of ions in solution; this fraction depends upon both the value of the ionization equilibrium constant and the concentration of the species that ionizes.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="period">
+		<definition>Those elements from a single row of the periodic table.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="periodic table">
+		<definition>A chart showing the symbols of the elements arranged in order by atomic number and having chemically related elements appearing in columns.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="pH">
+		<definition>A logarithmic measure of the concentration of hydrogen (hydronium) ion; pH = -log10([H+]) or pH = -log10([H3O+]).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="phase diagram">
+		<definition>A diagram showing conditions, most typically of pressure and temperature, under which different phases of a substance exist at equilibrium.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="photon">
+		<definition>A quantum of energy associated with electromagnetic radiation; the quantity of energy is the product of the frequency of light and Planck's constant, E = hν.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="phototube detector">
+		<definition>A device that converts light energy to an electrical signal. The intensity of light can be measured with a phototube detector.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="physical change">
+		<definition>A process, such as melting, in which the composition of all substances remains unchanged.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="physical property">
+		<definition>A characteristic of a material that can be measured without changing the material's chemical composition.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="pi bond">
+		<definition>A bond in which the electron density lies above and below a plane containing the bonded atoms; formed by combinations such as the overlap of two p orbitals or the overlap of a p orbital and a d orbital.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="pK">
+		<definition>A logarithmic measure of the value of the equilibrium constant expressed as -log10(K).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Planck's constant">
+		<definition>A proportionality constant between the energy of a photon of light and the frequency of that light; equal to 6.6261 x 10-34 J sec</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="pOH">
+		<definition>A logarithmic measure of the concentration of hydroxide ion expressed as -log10([OH-]).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="polar">
+		<definition>Describes a molecule that has separated, equal positive and negative charges that consitute a positive and a negative pole; such a molecule tends to assume certain orientations more than others in an electric field.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="polarizability">
+		<definition>The ability of the electrons in a species to change position in response to the presence of an outside electrical field.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="pollution">
+		<definition>The contamination of the air, water, and earth by personal, industrial, and farm waste.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="polyatomic">
+		<definition>Containing two or more atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="polymer">
+		<definition>A large molecule containing a large number of repeating units; a substance formed from such molecules.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="polymerization">
+		<definition>The process of forming a polymer from monomers.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="polymorphism">
+		<definition>Existence of a substance in more than one crystalline form.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="polypeptide">
+		<definition>A polymer of many amino acids joined by amide linkages or "peptide bonds."</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="polyprotic">
+		<definition>Describes an acid that can donate two or more hydrogen ions ("protons") to a base. Examples are sulfuric and phosphoric acids.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="polysaccharide">
+		<definition>A carbohydrate that is polymer of many simple sugar units. Example polysaccharides are starch and cellulose.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="positional isomer">
+		<definition>One of two or more compounds that have the same chemical composition but that differ in the location at which functional groups are attached to the backbone of atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="positron">
+		<definition>A positively charged particle having the same mass and magnitude of charge as an electron.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="potentiometer">
+		<definition>An instrument for measuring the voltage of a system by opposing that voltage until no current flows.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="precipitation">
+		<definition>The formation of a solid within a solution, often by the combination of cations and anions to form an insoluble ionic compound.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="precision">
+		<definition>The extent of agreement among several experimental values; reproducibility of results.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="pressure">
+		<definition>Force per unit area; in gases arising from the force exerted by collisions of gas molecules with the wall of the container.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="primary structure">
+		<definition>The sequence of amino acids that defines a protein.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="product">
+		<definition>A substance produced by a chemical reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="protein">
+		<definition>A biological polymer of amino acids joined by peptide bonds.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="proton">
+		<definition>The positively charged particle in an atomic nucleus; its mass is similar to the mass of a hydrogen atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="pseudo-first-order reaction">
+		<definition>A reaction in which the concentrations of all but one reactant are more than 10 times larger than the one reactant of interest; because there is appreciable change in only the one reactant concentration, the reaction rate appears to depend directly upon the concentration of only the low-concentration reactant.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="pyrophoric">
+		<definition>Igniting spontaneously when exposed to air.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="quantum number">
+		<definition>One of a set of numbers that specifies the state of an electron in an atom; the set of quantum numbers summarize results from quantum mechanics.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="quaternary structure">
+		<definition>The manner in which the major subunits, each consisting of a separate polypeptide chain, of a large protein are joined together.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="R-group">
+		<definition>A symbol used to represent an unspecified group of atoms in an organic compound.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="racemic mixture">
+		<definition>A mixture of equal amounts of enantiomers.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="rad">
+		<definition>A unit of the energy absorbed by tissue from exposure to radiation; equal to 10-2 J/kg; short for Radiation Absorbed Dose.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="radioactive">
+		<definition>Describes a substance that gives off radiation‐alpha particles, beta particles, or gamma rays‐by the disintegration of its nucleus.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="radioactivity">
+		<definition>The release of particles and/or energy from an unstable nucleus.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="radioactivity decay series">
+		<definition>A sequence of spontaneous nuclear reactions ending in the formation of a stable nucleus.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="radiocarbon dating">
+		<definition>The process of measuring the amount of carbon-14 remaining in an organic material and from the measurement calculating the age of the material.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Rankine">
+		<definition>The temperature scale that uses as its zero point the absolute zero of the temperature scale and that has degrees the same size as the Fahrenheit scale.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Raoult's law">
+		<definition>The statement that the partial pressure of a gaseous substance in equilibrium with a solution in which that substane is a component is equal to the mole fraction of the substance in the solution times the vapor pressure of the pure substance.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="rare earth">
+		<definition>One of the lanthanides; sometimes also includes scandium and yttrium.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="rate constant">
+		<definition>In a differential rate equation, the proportionality constant that relates the rate with the concentrations of reactants and other species that affect the rate. The rate constant is the rate of reaction when all concentrations are 1 M.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="rate equation">
+		<definition>An equation that describes the rate of a reaction as a function of the rate constant and the concentrations of reactants (and any other substances that affect the rate, such as products or catalysts); also called rate law.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="rate law">
+		<definition>An equation which describes the rate of a reaction as a function of the rate constant and the concentrations of reactants (and any other substances that affect the rate, such as products or catalysts); also called rate equation.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="rate-determining step">
+		<definition>The step in a reaction mechanism that by its relatively slow rate limits the overall rate of a reaction; also called rate-limiting step.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="rate-limiting step">
+		<definition>The step in a reaction mechanism that by its relatively slow rate limits the overall rate of a reaction; also called rate-determining step.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="reactant">
+		<definition>A substance consumed by a chemical reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="reaction mechanism">
+		<definition>The set of elementary steps by which a reaction is thought to occur; each individual step corresponds to either a bimolecular collision or unimolecular reaction of a single molecule.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="redox reaction">
+		<definition>An oxidation-reduction reaction; the term "redox" is obtained from the first few letters of "reduction" and "oxidation."</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="reducing agent">
+		<definition>A chemical species that donates electrons in order to reduce another species. In the process the reducing agent is itself oxidized.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="reducing sugar">
+		<definition>A sugar that reacts with silver(I) (Tollens test) or copper(II) (Fehling or Benedict tests) in a test for available aldehyde groups.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="reduction">
+		<definition>That part of a chemical reaction in which a reactant gains electrons; simultaneous oxidation of a reactant must occur.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="reference electrode">
+		<definition>In electrochemistry, an electrode whose constant potential can be compared with an unknown electrode potential to determine the latter.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="reference solution">
+		<definition>In spectroscopy, a solution containing all components except the absorbing species of interest. For example, if one wanted to measure the concentration of iodine in the solvent heptane, one would use a reference solution which contained only pure heptane. Iodine, the species which absorbs light, should NOT be present.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="relative humidity">
+		<definition>The ratio of the partial pressure of water in the atmosphere to the equilibrium vapor pressure of water at the same temperature.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="rem">
+		<definition>A unit of radiation that takes into account the biological effectiveness of the radiation; short for Roentgen Equivalent in Man.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="representative element">
+		<definition>An element in the region of the periodic table where the s and p atomic orbitals are being filled; also called main-group element.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="resonance">
+		<definition>A situation that arises when two or more Lewis structures can be drawn to represent covalent bonding in an ion or molecule. In each Lewis structure the atomic nuclei remain in the same positions; only the electrons move. When resonance applies, bonding is considered to be an average superposition of the individual Lewis structures.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="resonance structure">
+		<definition>Any of two or more Lewis structures that represent covalent bonding in an ion or molecule where the positions of the atomic nuclei remain the same. No single resonance structure represents the actualy bonding; rather the bonding is an average superposition of the individual Lewis structures.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ribonucleic acid">
+		<definition>A biological polymer, derived from nucleotide monomers, that is involved in protein synthesis. Abbreviated RNA.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="RNA">
+		<definition>Abbreviation for ribonucleic acid; a biological polymer of nucleotides that is involved in protein synthesis.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="roasting">
+		<definition>Heating in the presence of air or oxygen; most commonly used in converting natural metal sulfide ores to oxides as first step in recovery of the metal from its ore.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="rubber">
+		<definition>A tough, elastic polymer obtained from the juices of certain tropical plants; a synthetic material having similar properties.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="s block">
+		<definition>Columns 1 and 2 of the periodic table, containing elements in which the s atomic orbitals are being filled in the building-up process of deriving atomic electron configurations.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="salt">
+		<definition>An ionic compound that can be formed by replacing the hydrogen ion of an acid with a different cation.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="salt bridge">
+		<definition>A connection that permits ions to pass but that restricts the flow of solution between the anode half cell and the cathode half cell in an electrochemical cell.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="saponification">
+		<definition>The base-catalyzed hydrolysis of an ester; often used in the context of hydrolyzing fats to make soap.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="saturated">
+		<definition>Describes 1) a solution that contains the equilibrium concentration of a solute, or 2) an organic compound that contains no double or triple bonds (such as an alkane).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="second law of thermodynamics">
+		<definition>A formal statement that any spontaneous (product-favored) process is accompanied by an increase in the entropy (dispersal of energy) of the universe.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="second-order reaction">
+		<definition>A reaction for which the rate is directly proportional to the square of the concentration of one species or to the product of the concentrations of two species.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="secondary structure">
+		<definition>The folding of a protein into sheets and helices held in their shape primarily by hydrogen bonding.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="semiconductor">
+		<definition>A substance having an electrical conductivity intermediate between that of a metal and that of a non-metal and whose conductivity incresaes with increasing temperature.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="semipermeable membrane">
+		<definition>A membrane that selectively permits some species to pass through while rejecting others; often one that permits solvent molecules to pass through, but not large molecules such as proteins.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="shielding">
+		<definition>The effect of (negatively charged) electrons close to a (positively charged) nucleus in diminishing the attractive force between the nucleus and other electrons in the atom. Also called screening.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="SI units">
+		<definition>The international system of units (Système International d'Unité) based on seven fundamental units: meter, kilogram, second, ampere, kelvin, candela, mole.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="sigma bond">
+		<definition>A bond in which the electron density is symmetrically distributed around the line connecting two atomic nuclei; can be formed by the overlap of an s orbital on one atom with any kind of orbital on another atom or by two p orbitals pointing toward each other.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="significant figure">
+		<definition>Any of the digits in a value that are known with certainty; all of the digits in a number correctly expressed in scientific notation.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="skeletal isomer">
+		<definition>One of two or more compounds having the same chemical composition but differing in the arrangement of the atoms (usually carbon atoms) forming the backbone of the structure of the compounds; also known as chain isomer.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="single bond">
+		<definition>Attraction between two atoms (nuclei and core electrons) that results from sharing a single pair of electrons between the atoms; a bond with bond order = 1.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="skeletal structure">
+		<definition>A representation of the structure of a species in which lines are drawn to indicate the presence of bonds between atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="slit">
+		<definition>A component of a spectrophotometer that allows only a fraction of the incident light to pass through it; a slit can be used to select a narrow range of wavelengths from dispersed electromagnetic radiation.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="soap">
+		<definition>A salt of a fatty acid produced by the saponification of fat.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="soft water">
+		<definition>Water from which high concentrations of cations having charge greater than +1 have been removed, usually by ion exchange.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="solid">
+		<definition>A state of matter having a specific shape and volume and in which the particles do not readily change their relative positions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="solubility">
+		<definition>The extent to which a solute dissolves in a solvent; often expressed as the mass of a substance that will dissolve in 100 mL of solvent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="solubility product">
+		<definition>The equilibrium constant expression for the dissolution of an electrolyte; the reactant is a solid and its concentration does not appear in the expression, which is a product of the concentrations of the products (raised the to appropriate powers).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="soluble">
+		<definition>Able to dissolve in a solvent to a significant extent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="solute">
+		<definition>The substance added to a solvent to make a solution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="solution">
+		<definition>A mixture of one or more substances dissolved in a solvent to give a homogeneous mixture.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="solvent">
+		<definition>The substance to which a solute is added to make a solution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="specific heat">
+		<definition>The quantity of heat energy transfer into a system required to raise the temperature of one gram of a substance by 1 K ( 1 °C). More correctly called specific heat capacity.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="specific heat capacity">
+		<definition>The quantity of heat energy transfer into a system required to raise the temperature of one gram of a substance by 1 K ( 1 °C). More correctly called specific heat capacity.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="spectator ion">
+		<definition>An ion present in a solution when a reaction occurs but which is not a reactant or product in the net ionic equation.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="spectrochemical series">
+		<definition>The arrangement of ligands in order by their influence on the electronic spectra of coordination complexes.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="spontaneous">
+		<definition>Capable of proceeding without an outside source of energy; refers to a reaction in which the products are thermodynamically favored (product-favored reaction).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="standard electrode potential">
+		<definition>The voltage attributed to a reduction half-reaction under standard conditions; its value is given referenced to the standard hydrogen electrode. Also called standard reduction potential.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="standard enthalpy of formation">
+		<definition>The enthalpy change when one mole of a compound is produced from its elements, each in their most stable form at a given temperature and standard pressure (1 bar). Also called standard heat of formation.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="standard entropy">
+		<definition>The entropy of one mole of an element or compound at a given temperature and standard pressure (1 bar).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="standard Gibbs energy of formation">
+		<definition>The change in Gibbs energy when one mole of a compound is produced from its elements, each in their most stable form at a given temperature and standard pressure (1 bar).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="standard reduction potential">
+		<definition>The voltage attributed to a reduction half-reaction under standard conditions; its value is given referenced to the standard hydrogen electrode. Also called standard electrode potential.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="standard hydrogen electrode">
+		<definition>A system in which hydrogen (hydronium) ions and gaseous hydrogen are present in their standard states; used as a reference (of zero) for the values of standard reduction potentials.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="standardization">
+		<definition>A chemical procedure to accurately determine the concentration of a solute in a solution.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="stereoisomer">
+		<definition>One of two or more compounds that have the same chemical composition and have the same atoms bonded to other atoms, but that differ in the spatial arrangements of the atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="stoichiometric coefficient">
+		<definition>The number that precedes the formula of a species in a balanced chemical equation; gives the relative number of chemical formula units or the relative chemical amount (moles) of each species that is consumed or formed.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="stoichiometry">
+		<definition>The relationship among the amounts of reactants and products in a chemical reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="strong acid">
+		<definition>An acid that ionizes completely in a particular solvent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="strong base">
+		<definition>A base that dissociates completely or ionizes completely in a particular solvent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="structural formula">
+		<definition>A representation of the structure of a species that indicates the arrangement of the atoms in space and the bonds between atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="sublimation">
+		<definition>The process of vapor forming from a solid without the intermediate formation of a liquid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="substance">
+		<definition>A material that is either an element or that has a fixed ratio of elements in its chemical formula.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="substitution reaction">
+		<definition>A reaction in which one atom or functional group is replaced by another (distinguished from an addition reaction).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="substrate">
+		<definition>The molecule or ion that is a reactant in an enzyme-catalyzed reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="sugar">
+		<definition>A small carbohydrate that either contains five or six carbon atoms or is a dimer of two units, each containing five or six carbon atoms.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="superconductivity">
+		<definition>The ability of certain substances at low temperatures to have zero resistance to the conductance of electricity.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="supersaturated">
+		<definition>Describes a solution that has a greater concentration of a solute than under equilibrium conditions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="surface tension">
+		<definition>The resistance to an increase in the area of a surface; due to the combined effect of adhesive and cohesive forces at the surface of a liquid. Defined as the energy required to increase the surface area of the liquid isothermally by one square meter.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="syndiotactic">
+		<definition>In polymer chemistry, having regularly alternating structural units. For example, syndiotactic polypropylene has each methyl group along the polymer chain oriented in the opposite way to the methyl groups before and after it.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="synthesis">
+		<definition>Formation of substances with more complicated sturctures than do their precursors.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="synthesis gas">
+		<definition>A combustible mixture of hydrogen and carbon monoxide produced by passing steam over red hot coke. It is also known as water gas.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="synthetic">
+		<definition>Describes a substance that has been manufactured‐one that has not been created by natural processes.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="temperature">
+		<definition>A physical property that indicates whether one object can transfer thermal energy to another object.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="termolecular process">
+		<definition>In a reaction mechanism, an elementary step in which three species collide.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="ternary compound">
+		<definition>A compound containing three elements.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="tertiary structure">
+		<definition>The manner in which the sheets and helices of the secondary structure of a protein fold on themselves to define the three-dimensional structure; tertoaru structure is maintained by hydrogen bonds, dipole forces, ionic attractions, covalent bonds, and, most importantly, hydrophobic interactions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="theoretical yield">
+		<definition>The maximum quantity of a product that could be formed in a chemical reaction if all the limiting reactant reacted to form products (distinguished from actual yield).</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="thermal conductivity">
+		<definition>The ability of a substance to transfer energy by heating another substance.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="thermochemistry">
+		<definition>The study of the quantity of heat transferred into or out of a chemical system during a chemical reaction.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="thermodynamics">
+		<definition>The study of the conversion of energy from one form to another and the availability of energy to do work.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="third law of thermodynamics">
+		<definition>A formal statement that at the absolute zero of temperature the value of the entropy of a perfect crystal is equal to zero.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="titration">
+		<definition>The gradual addition of one solution to another until the chemical amount of one reactant being added matches stoichiometrically the amount of another reactant in the solution initially present.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="titration curve">
+		<definition>A graph showing the progress of a titration; for example, a plot of pH or electrical conductivity versus volume of solution added.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="torr">
+		<definition>A unit of pressure equal to 1 mm Hg or 1/760 atm.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="trans">
+		<definition>Describes the relationship between two atoms or groups of atoms, each attached to one of two doubly bonded carbon atoms and located on the opposite side of the double bond. Also refers to groups located opposite to each other in an octahedral or square planar coordination complex.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="transfer RNA">
+		<definition>The RNA that brings the correct amino acid to a ribosome where it is attached to a growing protein, abbreviated tRNA.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="transition element">
+		<definition>One of the elements in columns 3 through 12 of the periodic table, the region in the periodic table where d atomic orbitals are being filled in the building-up process for deriving atomic electron configurations; sometimes the elements in column 12 are not included.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="transition metal">
+		<definition>One of the elements in columns 3 through 12 of the periodic table, the region in the periodic table where d atomic orbitals are being filled in the building-up process for deriving atomic electron configurations; sometimes the elements in column 12 are not included.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="transmittance">
+		<definition>The fraction of incident light that passes through a sample.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="transuranium element">
+		<definition>One of the elements appearing after uranium in the periodic table; that is, an element with atomic number greater than 92.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="triglyceride">
+		<definition>A molecule that is an ester of glycerol and three fatty acids.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="trigonal bipyramidal">
+		<definition>A molecular shape having the central atom surrounded by a plane of 3 atoms at the corners of a triangle, one atom above the plane, and one atom below.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="triple bond">
+		<definition>Attraction between two atoms (nuclei and core electrons) that results from sharing of three pairs of electrons between the atoms; a bond with bond order = 3.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="triple point">
+		<definition>The temperature and pressure at which the solid, liquid, and vapor of a substance are in equilibrium with each other.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="tritium">
+		<definition>The isotope of hydrogen that has two neutrons in its nucleus.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="tRNA">
+		<definition>Abbreviation for transfer RNA; the RNA that brings the correct amino acid to a ribosome where it is attached to a growing protein.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="Trouton's rule">
+		<definition>The statement that, for most liquids, the enthalpy of vaporization divided by the boiling temperature (in kelvins) has a nearly constant value of 75 to 80 J K-1 mol-1; that is, the entropy of vaporization of a liquid is approximately constant.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="tungsten filament lamp">
+		<definition>This lamp is used to generate white light (containing all wavelengths visible to the eye) in spectrophotometers.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="uncertainty principle">
+		<definition>The idea that there is a theoretical limit on the accuracy with which the position and momentum of a particle can be determined simultaneously; the product of the experimental uncertainty in the position times the uncertainty in the momentum must be greater than Planck's constant divided by 4π.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="unimolecular process">
+		<definition>An elementary step in a reaction mechanism in which a single molecule reacts to form products; formally no species collide in such a step, but the energy needed to overcome an activation barrier is provided to the single molecule through prior collisions.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="unit">
+		<definition>A particular measure of a physical quantity that is used to express the magnitude of the physical quantity; for example, the meter is the unit of the physical quantity, length.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="unit cell">
+		<definition>A small portion of a crystal lattice that by repetition can generate the entire lattice; the unit cell contains the same ratio of atoms or ions that is contained in a macroscopic sample of a substance.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="unsaturated">
+		<definition>Describes 1) a solution that contains less than the equilibrium concentration of a solute, or 2) an organic compound containing double or triple bonds.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="valence bond theory">
+		<definition>The theory that describes covalent bonding in terms of the overlap of atomic orbitals on pairs of atoms; each bond is localized between two atoms and usually consists of one or more electron pairs.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="valence electron">
+		<definition>In a neutral atom, any of the electrons found in the highest occupied shell as well as any electrons in incompletely filled subshells of lower shells.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="valence-shell electron-pair repulsion theory">
+		<definition>A means of predicting the structures of simple ions and molecules, or of individual atoms in more complex molecules or ions, by counting the number of pairs of electrons in the valence shell of a central atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="van der Waals equation">
+		<definition>An equation that describes the behavior of gases and takes into account the effects of non-ideal behavior such as the non-negligible size of molecules of gas and forces of attraction between the molecules.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="van der Waals forces">
+		<definition>Attractive forces between polar or non-polar molecules, but not including hydrogen bonding.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="vapor">
+		<definition>The gaseous state of a substance that typically exists as a liquid or solid; a gas at a temperature near or below the boiling point of the corresponding liquid.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="vapor pressure">
+		<definition>The pressure (or partial pressure) exerted by the gaseous form of a substance in equilibrium with the liquid form.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="vaporization">
+		<definition>The formation of a vapor from a liquid; evaporation or boiling.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="viscosity">
+		<definition>The resistance of a liquid to flow when subjected to shear stress.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="voltaic cell">
+		<definition>An electrochemical cell in which a spontaneous reaction occurs. Such a cell can be used to generate electricity. Also called Galvanic cell.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="VSEPR theory">
+		<definition>Abbreviation for valence-shell electron-pair repulsion theory; a means of predicting the structures of simple ions and molecules, and single atoms in more complex molecules or ions, by counting the number of pairs of electrons in the valence shell of a central atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="vulcanization">
+		<definition>A process for increasing the strength and hardness of rubber by heating the rubber in the presence of sulfur.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="wavelength">
+		<definition>The distance between the crests of adjacent waves (or between any adjacent corresponding points in waves); used in the context of electromagnetic radiation.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="weak acid">
+		<definition>An acid that ionizes only partially in a given solvent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="weak base">
+		<definition>An base that ionizes only partially in a given solvent.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="weight">
+		<definition>A measure of the gravitational force on an object; directly proportional to mass.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="work">
+		<definition>A mechanical process in which energy is transferred to or from an object, changing the state of motion of the object.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="X-ray">
+		<definition>A high-energy form of electromagnetic radiation that has sufficient energy to ionize inner electrons from an atom.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+	<entry term="absolute configuration">
+		<definition>The spatial arrangement of the atoms about a chiral center.</definition>
+		<word_type>No Type</word_type>
+	</entry>
+</dictionary>

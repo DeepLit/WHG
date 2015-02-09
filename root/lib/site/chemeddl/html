@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>[% site.title %]</title>
+  <meta name="google-site-verification" content="u2zd8ak9hMxmoxRK80fYcVgvytibSmD1ZJ7eSvW6uLo" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+      [%IF editor==1%] [% INSERT 'hg/editor_js.txt' %] [% END %]
+      <link rel="icon" type="image/png" href="[%Catalyst.config.rootURL%]static/images/HG.png" />
+      <link rel='stylesheet' type='text/css' href="[%Catalyst.config.rootURL%]static/js/ext/resources/css/ext-all.css" />
+      <link rel='stylesheet' type='text/css' href="[%Catalyst.config.rootURL%]static/js/ext/resources/css/xtheme-gray.css" />
+      <link rel="stylesheet" type="text/css" href="[%Catalyst.config.rootURL%]static/js/livegrid/build/resources/css/ext-ux-livegrid.css" />
+      <link rel='stylesheet' type='text/css' href="[%Catalyst.config.rootURL%]static/js/ext/resources/css/fileuploadfield.css" />
+      <script type="text/javascript">
+              var base_url = "[%Catalyst.config.rootURL%]";
+      </script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/ext/adapter/ext/ext-base.js"></script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/ext/ext-all.js"></script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/ext/Ext.ux.ColorField.js"></script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/ext/basex/ext-basex.js"></script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/ext/mif/uxvismode.js"></script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/ext/mif/multidom.js"></script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/ext/mif/mif.js"></script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/jmol/Jmol.js"></script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/image_list.js"></script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/video_list.js"></script>
+      <script type="text/javascript" src="[%Catalyst.config.rootURL%]static/js/ext/examples/ux/FileUploadField.js"></script>
+
+      
+      
+[% head %]
+  [% FOREACH file IN jsFiles %]
+  <script src="[%Catalyst.config.rootURL%][%file%]"></script>
+  [% END %]
+  [% FOREACH file IN jsGlobal %]
+  <script src="[% file %]"></script>
+  [% END %]
+<!--  <style type="text/css">
+[% PROCESS ttsite.css %]
+  </style>-->
+  <style type="text/css">
+[% PROCESS ttoccss.tt2 %]
+  </style>
+ </head>
+ <body class="home" onload='[%IF editor==1%] kupu=startKupu(); [% END %] [%IF urlpage==1%]myStart(1000,"[% controller_url %][%page_id%]");[% END %] '>
+[% content %]
+ </body>
+</html>

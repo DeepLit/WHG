@@ -1,0 +1,19 @@
+<!-- BEGIN site/chemeddl/header -->
+
+ 		<div id="navcontainer">
+			<ul>
+				<li id="firstitem"><a title="ChemEd DL home page" href="http://www.chemeddl.org"><img id="logo" src="http://www.chemeddl.org/images/logos/logoChemEdDL.gif" alt="ChemEd DL" height="64" width="240" /></a></li>
+				<li><h1 class="title">[% site.title %]</h1></li>
+				
+				<div class="right"><h3 class="user">[% username %]</h3>
+				[% IF Catalyst.user_exists() %]
+					<h4 class="user"><a href="[% Catalyst.config.rootURL %]auth/logout">Logout</a></h4>
+				[% ELSE %]
+					<h4 class="user"><a href="[% Catalyst.config.rootURL %]auth/login">Login</a> | <a href="[% Catalyst.config.rootURL %]auth/request_account">Request Account</a></h4>
+				[% END %]
+			</div>
+			</ul>
+		</div>
+
+
+<!-- END site/chemeddl/header -->
